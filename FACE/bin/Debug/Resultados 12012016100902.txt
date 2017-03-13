@@ -1,0 +1,49 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 1 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 2 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 3 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 4 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 5 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 6 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 7 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 11 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 12 Tipo FAC
+Ocurrio un error: Login failed for user 'test-MOPLAST'.

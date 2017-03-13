@@ -1,0 +1,202 @@
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\bin\Debug\FACE.exe
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\bin\Debug\FACE.pdb
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\bin\Debug\FACE.xml
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\bin\Debug\SESystem.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\FACE.exe
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\FACE.xml
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Desktop\FACE\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.exe
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.xml
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.pdb
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.xml
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\SESystem.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\SESystem.pdb
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\SESystem.xml
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\capac\Desktop\Proyecto Activos Fijos\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe.config
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe.config
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.pdb
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.xml
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.exe
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.xml
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SQLDMO.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SQLDMO.dll
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe.config
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.exe
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.xml
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.pdb
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SAPbobsCOM.dll
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SAPbouiCOM.dll
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.License.resources
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.Resources.resources
+\\DESA_JOSUE\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe.config
+C:\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+C:\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.exe
+C:\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.xml
+C:\Users\Public\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.pdb
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe.config
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.exe
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.xml
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.pdb
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.License.resources
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.Resources.resources
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.pdb
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.xml
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbobsCOM.dll
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbouiCOM.dll
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SQLDMO.dll
+E:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SQLDMO.dll
+F:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe.config
+F:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SQLDMO.dll
+F:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+F:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.exe
+F:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.xml
+F:\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe.config
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.exe
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.xml
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.pdb
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.xml
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SQLDMO.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbprojResolveAssemblyReference.cache
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\DIVSA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe.config
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.exe
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.pdb
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\FACE.xml
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Debug\Interop.SQLDMO.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.exe
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.xml
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\bin\Debug\FACE.pdb
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\bin\Debug\FACE.xml
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.ResolveComReference.cache
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\Alejandra\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\bin\Debug\FACE.pdb
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\bin\Debug\FACE.xml
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\Hsing-Li\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\bin\Debug\FACE.exe
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\bin\Debug\FACE.pdb
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\bin\Debug\FACE.xml
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\Hsing-Li\Desktop\Firma Digital\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\ITligencia\Desktop\Daniel No tocar\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\ITligencia\Desktop\Daniel No tocar\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\ITligencia\Desktop\Daniel No tocar\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\ITligencia\Desktop\Daniel No tocar\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\bin\Debug\FACE.pdb
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\bin\Debug\FACE.xml
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\ITLIGENCIA\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.exe
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.pdb
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.xml
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\Administrador\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\bin\Debug\FACE.exe
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\bin\Debug\FACE.pdb
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\bin\Debug\FACE.xml
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.vbprojResolveAssemblyReference.cache
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.exe
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.pdb
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.xml
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.vbprojResolveAssemblyReference.cache
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache

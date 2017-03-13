@@ -1,0 +1,1613 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9738 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9739 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9740 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9741 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9742 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9743 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9744 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9745 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9746 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9747 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9748 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9749 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9750 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9751 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9752 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9753 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9754 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9755 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9756 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9757 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9758 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9759 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9760 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9761 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9762 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9763 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9764 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9765 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9766 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9767 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9768 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9769 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9770 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9771 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9772 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9773 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9774 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9775 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9776 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9777 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9778 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9779 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9780 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9781 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9782 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9783 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9784 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9785 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9786 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9787 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9788 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9789 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9790 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9791 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9792 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9793 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9794 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9795 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9796 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9797 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9798 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9799 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9800 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9801 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9802 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9803 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9804 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9805 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9806 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9807 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9808 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9809 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9810 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9811 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9812 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9813 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9814 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9815 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9816 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9817 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9818 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9819 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9820 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9821 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9822 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9823 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9824 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9825 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9826 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9827 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9828 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9829 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9830 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9831 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9832 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9833 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9834 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9835 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9836 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9837 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9838 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9839 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9840 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9841 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9842 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9843 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9844 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9845 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9846 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9847 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9848 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9849 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9850 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9851 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9852 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9853 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9854 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9855 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9856 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9857 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9858 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9859 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9860 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9861 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9862 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9863 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9864 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9865 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9866 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9867 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9868 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9869 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9870 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9871 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9872 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9873 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9874 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9875 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9876 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9877 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9878 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9879 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9880 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9881 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9882 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9883 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9884 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9885 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9886 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9887 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9888 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9889 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9890 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9891 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9892 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9893 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9894 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9895 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9896 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9897 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9898 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9899 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9900 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9901 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9902 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9903 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9904 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9905 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9906 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9907 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9908 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9909 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9910 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9911 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9912 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9913 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9914 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9915 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9916 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9917 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9918 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9919 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9920 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9921 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9922 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9923 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9924 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9925 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9926 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9927 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9928 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9929 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9930 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9931 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9932 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9933 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9934 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9935 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9936 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9937 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9938 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9939 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9940 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9941 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9942 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9943 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9944 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9945 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9946 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9947 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9948 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9949 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9950 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9951 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9952 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9953 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9954 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9955 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9956 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9957 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9958 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9959 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9960 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9961 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9962 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9963 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9964 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9965 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9966 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9967 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9968 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9969 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9970 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9971 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9972 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9973 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9974 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9975 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9976 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9977 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9978 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9979 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9980 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9981 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9982 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9983 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9984 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9985 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9986 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9987 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9988 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9989 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9990 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9991 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9992 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9993 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9994 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9995 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9996 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9997 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9998 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9999 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10000 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10001 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10002 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10003 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10004 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10005 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10006 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10007 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10008 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10009 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10010 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10011 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10012 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10013 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10014 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10015 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10016 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10017 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10018 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10019 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10020 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10021 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10022 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10023 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10024 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10025 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10026 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10027 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10028 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10029 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10030 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10031 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10032 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10033 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10034 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10035 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10036 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10037 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10038 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10039 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10040 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10041 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10042 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10043 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10044 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10045 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10046 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10047 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10048 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10049 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10050 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10051 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10052 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10053 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10054 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10055 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10056 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10057 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10058 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10059 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10060 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10061 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10062 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10063 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10064 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10065 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10066 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10067 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10068 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10069 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10070 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10071 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10072 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10073 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10074 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10075 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10076 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10077 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10078 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10079 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10080 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10081 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10082 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10083 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10084 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10085 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10086 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10087 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10088 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10089 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10090 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10091 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10092 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10093 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10094 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10095 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10096 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10097 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10098 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10099 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10100 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10101 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10102 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10103 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10104 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10105 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10106 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10107 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10108 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10109 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10110 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10111 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10112 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10113 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10114 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10115 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10116 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10117 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10118 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10119 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10120 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10121 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10122 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10123 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10124 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10125 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10126 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10127 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10128 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10131 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10132 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10133 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10137 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10142 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10143 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10144 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10153 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10154 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10155 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10157 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10158 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.OBTIENE_CORREO", or the name is ambiguous.

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FACE_WSFace_FactWSFront" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://www.documentagface.com/mx.com.fact.wsfront/FactWsFront.asmx</Value>
+    </Setting>
+    <Setting Name="FACE_WSGuateFAC_Guatefac" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.5.188:7778/webservices63/svc01/Guatefac</Value>
+    </Setting>
+    <Setting Name="FACE_InfileWS_ingface" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://50.97.221.2:8089/listener/ingface</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

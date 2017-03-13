@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://listener.ingface.com/" targetNamespace="http://listener.ingface.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="anulacionDte" type="tns:anulacionDte" />
+  <xs:element name="anulacionDteResponse" type="tns:anulacionDteResponse" />
+  <xs:element name="cargarDte" type="tns:cargarDte" />
+  <xs:element name="cargarDteResponse" type="tns:cargarDteResponse" />
+  <xs:element name="cierre" type="tns:cierre" />
+  <xs:element name="cierreResponse" type="tns:cierreResponse" />
+  <xs:element name="hello" type="tns:hello" />
+  <xs:element name="helloResponse" type="tns:helloResponse" />
+  <xs:element name="registrarDte" type="tns:registrarDte" />
+  <xs:element name="registrarDteResponse" type="tns:registrarDteResponse" />
+  <xs:element name="registrarDteSap" type="tns:registrarDteSap" />
+  <xs:element name="registrarDteSapResponse" type="tns:registrarDteSapResponse" />
+  <xs:element name="validacionDte" type="tns:validacionDte" />
+  <xs:element name="validacionDteResponse" type="tns:validacionDteResponse" />
+  <xs:complexType name="hello">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="name" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="helloResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="cierre">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="usuario" type="xs:string" />
+      <xs:element minOccurs="0" name="clave" type="xs:string" />
+      <xs:element minOccurs="0" name="codigoEstablecimiento" type="xs:string" />
+      <xs:element name="mes" type="xs:int" />
+      <xs:element name="anio" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="cierreResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:responseCierre" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="responseCierre">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:resultado">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="checkSum" type="xs:string" />
+          <xs:element minOccurs="0" name="codigoCae" type="xs:string" />
+          <xs:element minOccurs="0" name="codigoCrfm" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="resultado">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="anotaciones" type="xs:string" />
+      <xs:element minOccurs="0" name="descripcion" type="xs:string" />
+      <xs:element name="valido" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="cargarDte">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="dte" type="tns:requestDte" />
+      <xs:element minOccurs="0" name="anexo" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="requestDte">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="clave" type="xs:string" />
+      <xs:element minOccurs="0" name="dte" type="tns:dte" />
+      <xs:element minOccurs="0" name="usuario" type="xs:string" />
+      <xs:element name="validador" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="dte">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="cae" type="xs:string" />
+      <xs:element minOccurs="0" name="codigoEstablecimiento" type="xs:string" />
+      <xs:element minOccurs="0" name="codigoMoneda" type="xs:string" />
+      <xs:element minOccurs="0" name="correoComprador" type="xs:string" />
+      <xs:element minOccurs="0" name="departamentoComprador" type="xs:string" />
+      <xs:element minOccurs="0" name="departamentoVendedor" type="xs:string" />
+      <xs:element minOccurs="0" name="descripcionOtroImpuesto" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="detalleDte" nillable="true" type="tns:detalleDte" />
+      <xs:element minOccurs="0" name="detalleImpuestosIva" type="xs:double" />
+      <xs:element minOccurs="0" name="direccionComercialComprador" type="xs:string" />
+      <xs:element minOccurs="0" name="direccionComercialVendedor" type="xs:string" />
+      <xs:element minOccurs="0" name="estadoDocumento" type="xs:string" />
+      <xs:element minOccurs="0" name="fechaAnulacion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="fechaDocumento" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="fechaResolucion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="idDispositivo" type="xs:string" />
+      <xs:element minOccurs="0" name="importeBruto" type="xs:double" />
+      <xs:element minOccurs="0" name="importeDescuento" type="xs:double" />
+      <xs:element minOccurs="0" name="importeNetoGravado" type="xs:double" />
+      <xs:element minOccurs="0" name="importeOtrosImpuestos" type="xs:double" />
+      <xs:element minOccurs="0" name="importeTotalExento" type="xs:double" />
+      <xs:element name="montoTotalOperacion" type="xs:double" />
+      <xs:element minOccurs="0" name="municipioComprador" type="xs:string" />
+      <xs:element minOccurs="0" name="municipioVendedor" type="xs:string" />
+      <xs:element minOccurs="0" name="nitComprador" type="xs:string" />
+      <xs:element minOccurs="0" name="nitGFACE" type="xs:string" />
+      <xs:element minOccurs="0" name="nitVendedor" type="xs:string" />
+      <xs:element minOccurs="0" name="nombreComercialComprador" type="xs:string" />
+      <xs:element minOccurs="0" name="nombreComercialRazonSocialVendedor" type="xs:string" />
+      <xs:element minOccurs="0" name="nombreCompletoVendedor" type="xs:string" />
+      <xs:element minOccurs="0" name="numeroDocumento" type="xs:string" />
+      <xs:element minOccurs="0" name="numeroDte" type="xs:string" />
+      <xs:element minOccurs="0" name="numeroResolucion" type="xs:string" />
+      <xs:element minOccurs="0" name="observaciones" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_01" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_02" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_03" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_04" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_05" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_06" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_07" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_08" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_09" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_10" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_11" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_12" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_13" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_14" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_15" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_16" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_17" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_18" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_19" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_20" type="xs:string" />
+      <xs:element minOccurs="0" name="rangoFinalAutorizado" type="xs:string" />
+      <xs:element minOccurs="0" name="rangoInicialAutorizado" type="xs:string" />
+      <xs:element name="regimen2989" type="xs:boolean" />
+      <xs:element minOccurs="0" name="regimenISR" type="xs:string" />
+      <xs:element minOccurs="0" name="serieAutorizada" type="xs:string" />
+      <xs:element minOccurs="0" name="serieDocumento" type="xs:string" />
+      <xs:element minOccurs="0" name="telefonoComprador" type="xs:string" />
+      <xs:element minOccurs="0" name="tipoCambio" type="xs:double" />
+      <xs:element minOccurs="0" name="tipoDocumento" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="detalleDte">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="cantidad" type="xs:double" />
+      <xs:element minOccurs="0" name="codigoProducto" type="xs:string" />
+      <xs:element minOccurs="0" name="descripcionProducto" type="xs:string" />
+      <xs:element minOccurs="0" name="detalleImpuestosIva" type="xs:double" />
+      <xs:element minOccurs="0" name="importeExento" type="xs:double" />
+      <xs:element minOccurs="0" name="importeNetoGravado" type="xs:double" />
+      <xs:element minOccurs="0" name="importeOtrosImpuestos" type="xs:double" />
+      <xs:element minOccurs="0" name="importeTotalOperacion" type="xs:double" />
+      <xs:element minOccurs="0" name="montoBruto" type="xs:double" />
+      <xs:element minOccurs="0" name="montoDescuento" type="xs:double" />
+      <xs:element minOccurs="0" name="personalizado_01" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_02" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_03" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_04" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_05" type="xs:string" />
+      <xs:element minOccurs="0" name="personalizado_06" type="xs:string" />
+      <xs:element minOccurs="0" name="precioUnitario" type="xs:double" />
+      <xs:element minOccurs="0" name="tipoProducto" type="xs:string" />
+      <xs:element minOccurs="0" name="unidadMedida" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="cargarDteResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:responseDte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="responseDte">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:resultado">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="cae" type="xs:string" />
+          <xs:element minOccurs="0" name="estado" type="xs:string" />
+          <xs:element name="numeroDocumento" type="xs:long" />
+          <xs:element minOccurs="0" name="numeroDte" type="xs:string" />
+          <xs:element minOccurs="0" name="rangoFinalAutorizado" type="xs:string" />
+          <xs:element minOccurs="0" name="rangoInicialAutorizado" type="xs:string" />
+          <xs:element minOccurs="0" name="regimen" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="anulacionDte">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="dte" type="tns:requestAnulacionDte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="requestAnulacionDte">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="clave" type="xs:string" />
+      <xs:element minOccurs="0" name="codigoEstablecimiento" type="xs:string" />
+      <xs:element minOccurs="0" name="concepto" type="xs:string" />
+      <xs:element minOccurs="0" name="fechaAnulacion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="numeroDte" type="xs:string" />
+      <xs:element minOccurs="0" name="tipoDocumento" type="xs:string" />
+      <xs:element minOccurs="0" name="usuario" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="anulacionDteResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:responseAnulacionDte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="responseAnulacionDte">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:resultado">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="dte" type="tns:dte" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="validacionDte">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="validacion" type="tns:requestValidacion" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="requestValidacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="clave" type="xs:string" />
+      <xs:element minOccurs="0" name="codigoEstablecimiento" type="xs:string" />
+      <xs:element minOccurs="0" name="nitComprador" type="xs:string" />
+      <xs:element minOccurs="0" name="nitVendedor" type="xs:string" />
+      <xs:element minOccurs="0" name="numeroDte" type="xs:string" />
+      <xs:element minOccurs="0" name="usuario" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="validacionDteResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:responseValidacion" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="responseValidacion">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:resultado">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="dte" type="tns:dte" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="registrarDte">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="dte" type="tns:requestDte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="registrarDteResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:responseDte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="registrarDteSap">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="dte" type="tns:requestDte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="registrarDteSapResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:responseDteSap" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="responseDteSap">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:resultado">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="cae" type="xs:string" />
+          <xs:element minOccurs="0" name="estado" type="xs:string" />
+          <xs:element minOccurs="0" name="numeroDocumento" type="xs:string" />
+          <xs:element minOccurs="0" name="numeroDte" type="xs:string" />
+          <xs:element minOccurs="0" name="rangoFinalAutorizado" type="xs:string" />
+          <xs:element minOccurs="0" name="rangoInicialAutorizado" type="xs:string" />
+          <xs:element minOccurs="0" name="regimen" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+</xs:schema>

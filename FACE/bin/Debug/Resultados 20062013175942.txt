@@ -1,0 +1,22 @@
+1) Documento: Manual 500 Estado: Rechazado Motivo:El dato contenido en el parámetro Requestor no es un GUID válido. Favor de proporcionar un GUID válido en el parámetro Requestor. ****** Mensaje ******
+1234
+
+Descripción: El dato contenido en el parámetro Requestor no es un GUID válido.
+Sugerencia:  Favor de proporcionar un GUID válido en el parámetro Requestor.
+
+
+******  Información técnica. ******
+        RequestorGuidRejected
+        IdDelSolicitanteRechazado
+        3002
+        REQUESTOR_ID_REJECTED
+******  Detalles ******
+Procesador:  HONDO
+Módulo:      mx.com.fact.util.dll
+Clase:       TransactionTag
+Método:      PreValidateRequestor
+Fecha:       2013-06-20T17:58:00
+******  Parámetros (Primeros 300 carácteres como ASCII printable) ******
+s = 1234
+******  Fin de detalles ******
+

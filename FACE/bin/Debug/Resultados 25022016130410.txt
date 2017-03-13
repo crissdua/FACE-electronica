@@ -1,0 +1,1578 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 20596 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 450
+fechaDocumento: 23/06/2015
+fechaAnulacion: 23/06/2015
+observaciones: Prueba de facturacion Coban
+telefonoComprador: 2379-1200 Z.14
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 450
+detalleImpuestosIva: 48.21
+tipoCambio: 1
+direccionComercialComprador: AV. LAS AMERICAS 18-81, ZONA 14 EDIF.COLUMBUS CENTER NIV.14
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: ACEROS DE GUATEMALA
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 401.79
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 1
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000003
+1) descripcionProducto: ELEMENTO FLEXIBLE BOWEX M48
+1) montoBruto :450
+1) precioUnitario: 401.7857
+1) importeExento: 0
+1) importeNetoGravado: 450
+1) importeTotalOperacion: 450
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: The request was aborted: Could not create SSL/TLS secure channel.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 20911 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 65
+fechaDocumento: 15/07/2015
+fechaAnulacion: 25/02/2016 1:04:13 p. m.
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 65
+detalleImpuestosIva: 6.96
+tipoCambio: 1
+direccionComercialComprador: Lote No. 5 zona 5, Colonia San Pablo, Coban A.V.
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 58.04
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 2
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A002554
+1) descripcionProducto: CINTA SELLA Y AISLA 1212164 1" X 10 (2.5cm x 304.8cm)
+1) montoBruto :65
+1) precioUnitario: 58.0357
+1) importeExento: 0
+1) importeNetoGravado: 65
+1) importeTotalOperacion: 65
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 2 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 20988 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 2
+fechaDocumento: 20/07/2015
+fechaAnulacion: 25/02/2016 1:04:15 p. m.
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 2
+detalleImpuestosIva: 0.21
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 1.79
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 3
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000748
+1) descripcionProducto: UNION 40-1 MAXTOP
+1) montoBruto :2
+1) precioUnitario: 1.7857
+1) importeExento: 0
+1) importeNetoGravado: 2
+1) importeTotalOperacion: 2
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 3 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 21139 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 27
+fechaDocumento: 30/07/2015
+fechaAnulacion: 25/02/2016 1:04:17 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 27
+detalleImpuestosIva: 2.89
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 24.11
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 4
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000548
+1) descripcionProducto: SILICON GRIS 5699 70ML/2.36onz.  BLISTER 18718
+1) montoBruto :27
+1) precioUnitario: 24.1071
+1) importeExento: 0
+1) importeNetoGravado: 27
+1) importeTotalOperacion: 27
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 4 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 21330 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 28
+fechaDocumento: 12/08/2015
+fechaAnulacion: 25/02/2016 1:04:18 p. m.
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 28
+detalleImpuestosIva: 3
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 25
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 5
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000447
+1) descripcionProducto: AFLOJALOTODO 300gm. NP 833656
+1) montoBruto :28
+1) precioUnitario: 25
+1) importeExento: 0
+1) importeNetoGravado: 28
+1) importeTotalOperacion: 28
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 5 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 21406 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 28
+fechaDocumento: 18/08/2015
+fechaAnulacion: 25/02/2016 1:04:20 p. m.
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 28
+detalleImpuestosIva: 3
+tipoCambio: 1
+direccionComercialComprador: Ciudad
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 25
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 6
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000447
+1) descripcionProducto: AFLOJALOTODO 300gm. NP 833656
+1) montoBruto :28
+1) precioUnitario: 25
+1) importeExento: 0
+1) importeNetoGravado: 28
+1) importeTotalOperacion: 28
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 6 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 21536 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 11
+fechaDocumento: 26/08/2015
+fechaAnulacion: 25/02/2016 1:04:22 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 11
+detalleImpuestosIva: 1.18
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 9.82
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 7
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000544
+1) descripcionProducto: SILICON NEGRO 70ml/71gm RTV 285951
+1) montoBruto :11
+1) precioUnitario: 9.8214
+1) importeExento: 0
+1) importeNetoGravado: 11
+1) importeTotalOperacion: 11
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 7 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 21567 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 613
+fechaDocumento: 28/08/2015
+fechaAnulacion: 25/02/2016 1:04:23 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 613
+detalleImpuestosIva: 65.68
+tipoCambio: 1
+direccionComercialComprador: Los Amates Isabal
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 547.32
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 8
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000120
+1) descripcionProducto: ACOPLE L099 LOVEJOY
+1) montoBruto :613
+1) precioUnitario: 547.3214
+1) importeExento: 0
+1) importeNetoGravado: 613
+1) importeTotalOperacion: 613
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 8 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 21568 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 56
+fechaDocumento: 28/08/2015
+fechaAnulacion: 25/02/2016 1:04:25 p. m.
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 56
+detalleImpuestosIva: 6
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 50
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 9
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A000447
+1) descripcionProducto: AFLOJALOTODO 300gm. NP 833656
+1) montoBruto :56
+1) precioUnitario: 25
+1) importeExento: 0
+1) importeNetoGravado: 56
+1) importeTotalOperacion: 56
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 9 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 21747 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 108.3
+fechaDocumento: 09/09/2015
+fechaAnulacion: 25/02/2016 1:04:27 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 108.3
+detalleImpuestosIva: 11.6
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 96.7
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 10
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000486
+1) descripcionProducto: FIXMASTER METAL MAGIC STEEL 4ONZ./113.4gm 98853
+1) montoBruto :108.3
+1) precioUnitario: 96.6964
+1) importeExento: 0
+1) importeNetoGravado: 108.3
+1) importeTotalOperacion: 108.3
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 10 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22139 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 67
+fechaDocumento: 07/10/2015
+fechaAnulacion: 25/02/2016 1:04:29 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 67
+detalleImpuestosIva: 7.18
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 59.82
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 11
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A002831
+1) descripcionProducto: ADHESIVO PARA CONSTRUCCION POWER GRAP 300ML/10onz. NP 1210760
+1) montoBruto :39
+1) precioUnitario: 34.8214
+1) importeExento: 0
+1) importeNetoGravado: 39
+1) importeTotalOperacion: 39
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A000447
+2) descripcionProducto: AFLOJALOTODO 300gm. NP 833656
+2) montoBruto :28
+2) precioUnitario: 25
+2) importeExento: 0
+2) importeNetoGravado: 28
+2) importeTotalOperacion: 28
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: FCEC 11 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22210 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 27
+fechaDocumento: 12/10/2015
+fechaAnulacion: 25/02/2016 1:04:30 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 27
+detalleImpuestosIva: 2.89
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 24.11
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 12
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000548
+1) descripcionProducto: SILICON GRIS 5699 70ML/2.36onz.  BLISTER 18718
+1) montoBruto :27
+1) precioUnitario: 24.1071
+1) importeExento: 0
+1) importeNetoGravado: 27
+1) importeTotalOperacion: 27
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 12 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22231 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 12
+fechaDocumento: 13/10/2015
+fechaAnulacion: 25/02/2016 1:04:32 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 12
+detalleImpuestosIva: 1.29
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 10.71
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 13
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000545
+1) descripcionProducto: SILICON ROJO RTV ALTA TEMPERATURA 70ML/71gm 285956
+1) montoBruto :12
+1) precioUnitario: 10.7143
+1) importeExento: 0
+1) importeNetoGravado: 12
+1) importeTotalOperacion: 12
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 13 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22306 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 174
+fechaDocumento: 16/10/2015
+fechaAnulacion: 25/02/2016 1:04:34 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 174
+detalleImpuestosIva: 18.64
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 155.36
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 14
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000538
+1) descripcionProducto: SELLADOR FLEXIBLE 515 50ML 61243
+1) montoBruto :146
+1) precioUnitario: 130.3571
+1) importeExento: 0
+1) importeNetoGravado: 146
+1) importeTotalOperacion: 146
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A000447
+2) descripcionProducto: AFLOJALOTODO 300gm. NP 833656
+2) montoBruto :28
+2) precioUnitario: 25
+2) importeExento: 0
+2) importeNetoGravado: 28
+2) importeTotalOperacion: 28
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: FCEC 14 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22789 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 88
+fechaDocumento: 17/11/2015
+fechaAnulacion: 25/02/2016 1:04:35 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 88
+detalleImpuestosIva: 9.43
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 78.57
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 15
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000447
+1) descripcionProducto: AFLOJALOTODO 300gm. NP 833656
+1) montoBruto :28
+1) precioUnitario: 25
+1) importeExento: 0
+1) importeNetoGravado: 28
+1) importeTotalOperacion: 28
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A000494
+2) descripcionProducto: GEAR CHAIN AND CABLE LUBRICANT 12onz./340gm 1906177
+2) montoBruto :60
+2) precioUnitario: 53.5714
+2) importeExento: 0
+2) importeNetoGravado: 60
+2) importeTotalOperacion: 60
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: FCEC 15 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22791 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 27
+fechaDocumento: 17/11/2015
+fechaAnulacion: 25/02/2016 1:04:37 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 27
+detalleImpuestosIva: 2.89
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 24.11
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 16
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A006040
+1) descripcionProducto: Lente Policarbonato Oscuro o Claro
+1) montoBruto :27
+1) precioUnitario: 24.1071
+1) importeExento: 0
+1) importeNetoGravado: 27
+1) importeTotalOperacion: 27
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 16 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22801 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 108
+fechaDocumento: 17/11/2015
+fechaAnulacion: 25/02/2016 1:04:39 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 108
+detalleImpuestosIva: 11.57
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 96.43
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 17
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000486
+1) descripcionProducto: FIXMASTER METAL MAGIC STEEL 4ONZ./113.4gm 98853
+1) montoBruto :108
+1) precioUnitario: 96.4286
+1) importeExento: 0
+1) importeNetoGravado: 108
+1) importeTotalOperacion: 108
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 17 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22872 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 32
+fechaDocumento: 23/11/2015
+fechaAnulacion: 25/02/2016 1:04:40 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 32
+detalleImpuestosIva: 3.43
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 28.57
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 18
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A005361
+1) descripcionProducto: FIJADOR/SELLADOR 271 6ml./0.20 onz 37421
+1) montoBruto :32
+1) precioUnitario: 28.5714
+1) importeExento: 0
+1) importeNetoGravado: 32
+1) importeTotalOperacion: 32
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 18 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22873 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 65
+fechaDocumento: 23/11/2015
+fechaAnulacion: 25/02/2016 1:04:42 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 65
+detalleImpuestosIva: 6.96
+tipoCambio: 1
+direccionComercialComprador: Cob?n Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cob?n
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 58.04
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 19
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000446
+1) descripcionProducto: ADHESIVO INSTANTEO 495 FCO/20g. 49503
+1) montoBruto :65
+1) precioUnitario: 58.0357
+1) importeExento: 0
+1) importeNetoGravado: 65
+1) importeTotalOperacion: 65
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 19 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 22901 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 11
+fechaDocumento: 25/11/2015
+fechaAnulacion: 25/02/2016 1:04:44 p. m.
+observaciones: N/D
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 11
+detalleImpuestosIva: 1.18
+tipoCambio: 1
+direccionComercialComprador: Cobán Alta Verapaz
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cobán
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 9.82
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 20
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000544
+1) descripcionProducto: SILICON NEGRO 70ml/71gm RTV 285951
+1) montoBruto :11
+1) precioUnitario: 9.8214
+1) importeExento: 0
+1) importeNetoGravado: 11
+1) importeTotalOperacion: 11
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 20 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-12-2015 al 29-02-2016"]}

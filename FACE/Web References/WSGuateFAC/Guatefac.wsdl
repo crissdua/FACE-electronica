@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://dbguatefac/Guatefac.wsdl" xmlns:ns1="http://dbguatefac/IGuatefac.xsd" name="Guatefac" targetNamespace="http://dbguatefac/Guatefac.wsdl" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <ns0:schema targetNamespace="http://dbguatefac/IGuatefac.xsd" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns0="http://schemas.xmlsoap.org/wsdl/" />
+  </types>
+  <message name="anulaDocumento0Request">
+    <part name="pUsuario" type="xsd:string" />
+    <part name="pPassword" type="xsd:string" />
+    <part name="pNitEmisor" type="xsd:string" />
+    <part name="pSerie" type="xsd:string" />
+    <part name="pPreimpreso" type="xsd:string" />
+    <part name="pNitComprador" type="xsd:string" />
+    <part name="pFechaAnulacion" type="xsd:string" />
+    <part name="pMotivoAnulacion" type="xsd:string" />
+  </message>
+  <message name="anulaDocumento0Response">
+    <part name="return" type="xsd:string" />
+  </message>
+  <message name="generaDocumento1Request">
+    <part name="pUsuario" type="xsd:string" />
+    <part name="pPassword" type="xsd:string" />
+    <part name="pNitEmisor" type="xsd:string" />
+    <part name="pEstablecimiento" type="xsd:decimal" />
+    <part name="pTipoDoc" type="xsd:decimal" />
+    <part name="pIdMaquina" type="xsd:string" />
+    <part name="pTipoRespuesta" type="xsd:string" />
+    <part name="pXml" type="xsd:string" />
+  </message>
+  <message name="generaDocumento1Response">
+    <part name="return" type="xsd:string" />
+  </message>
+  <portType name="GuatefacPortType">
+    <operation name="anulaDocumento">
+      <input name="anulaDocumento0Request" message="tns:anulaDocumento0Request" />
+      <output name="anulaDocumento0Response" message="tns:anulaDocumento0Response" />
+    </operation>
+    <operation name="generaDocumento">
+      <input name="generaDocumento1Request" message="tns:generaDocumento1Request" />
+      <output name="generaDocumento1Response" message="tns:generaDocumento1Response" />
+    </operation>
+  </portType>
+  <binding name="GuatefacBinding" type="tns:GuatefacPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <operation name="anulaDocumento">
+      <soap:operation soapAction="" style="rpc" />
+      <input name="anulaDocumento0Request">
+        <soap:body use="encoded" namespace="Guatefac" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output name="anulaDocumento0Response">
+        <soap:body use="encoded" namespace="Guatefac" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="generaDocumento">
+      <soap:operation soapAction="" style="rpc" />
+      <input name="generaDocumento1Request">
+        <soap:body use="encoded" namespace="Guatefac" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output name="generaDocumento1Response">
+        <soap:body use="encoded" namespace="Guatefac" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+  </binding>
+  <service name="Guatefac">
+    <port name="GuatefacPort" binding="tns:GuatefacBinding">
+      <soap:address location="http://192.168.5.188:7778/webservices63/svc01/Guatefac" />
+    </port>
+  </service>
+</definitions>

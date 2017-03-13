@@ -1,0 +1,21 @@
+1) Documento: M 1590112510 Estado: Rechazado Motivo:La transformación XSLT falló. Verifica si el recurso XSLT es accesible. ****** Mensaje ******
+/FactDocGT/Detalles/Detalle[1]/ValorConDR[1]: Regla R.15 ValorConDR: Monto = monto  del ValorSinDR más recargos menos descuentos; Valores: 123.450000 = 138.264; Es: false; Diferencia: 14.814; Tolerancia: 10; 
+
+Descripción: La transformación XSLT falló.
+Sugerencia:  Verifica si el recurso XSLT es accesible.
+
+
+******  Información técnica. ******
+        XmlTransformationFailed
+        TransformacionXsltFalló
+        5004
+        XSLT_TRANSFORM_FAILED
+******  Detalles ******
+Procesador:  HONDO
+Módulo:      mx.com.fact.FriendlyXml.dll
+Clase:       Transformer
+Método:      DoTransform
+Fecha:       2012-08-03T10:34:07
+******  Parámetros (Primeros 300 carácteres como ASCII printable) ******
+******  Fin de detalles ******
+

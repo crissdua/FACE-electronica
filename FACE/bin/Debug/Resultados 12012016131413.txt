@@ -1,0 +1,79 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 13 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 112
+fechaDocumento: 12/01/2016
+fechaAnulacion: 12/01/2016 13:14:15
+observaciones: N/D
+telefonoComprador: 12345678
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 112
+detalleImpuestosIva: 12
+tipoCambio: 1
+direccionComercialComprador: 40 calle 6-89 zona 78 de mixco, colonia no me mires nunca GUATEMALA
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Luis Arrazola
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 100
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 13
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: BC0004
+1) descripcionProducto: 7*10
+1) montoBruto :112
+1) precioUnitario: 100
+1) importeExento: 0
+1) importeNetoGravado: 112
+1) importeTotalOperacion: 112
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: Primario 13 Estado: Aprobado
+CAE: CFACE38Primario0000000013
+Firma: 41828c450768ba08a94e6858b6fae11a067304053b75786dbdb8c77bc18627b7

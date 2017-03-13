@@ -1,0 +1,155 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8625 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 682.55
+fechaDocumento: 2/1/2013
+fechaAnulacion: 1/25/2016 12:46:08 PM
+observaciones: 
+telefonoComprador: 2473-2184
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 682.55
+detalleImpuestosIva: 73.13
+tipoCambio: 1
+direccionComercialComprador: 20 calle 0-85 zona 12 Col. la Reformita
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: MOVIMIENTO DE MAQUINARIA COPROPIEDAD
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 609.42
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23486
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A002265
+1) descripcionProducto: SPROCKET 40B96
+1) montoBruto :803
+1) precioUnitario: 716.9643
+1) importeExento: 0
+1) importeNetoGravado: 803
+1) importeTotalOperacion: 803
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23486 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8626 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 90350
+fechaDocumento: 2/1/2013
+fechaAnulacion: 1/25/2016 12:47:49 PM
+observaciones: S3679-NG, 1a. Entrega
+telefonoComprador: 2421-8888
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 90350
+detalleImpuestosIva: 9680.36
+tipoCambio: 1
+direccionComercialComprador: 5a Av. 5-55 Torre III Nivel 5 Of. 503 EUROPLAZA Zona 14
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: NOVAGUATEMALA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 80669.64
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23487
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 10
+1) codigoProducto: A004256
+1) descripcionProducto: MOTORREDUCTOR 3HP 103RPM CNHMS3-6115YC-17  "S": pintura epoxica CHEMICAL DUTY
+1) montoBruto :90350
+1) precioUnitario: 8066.9643
+1) importeExento: 0
+1) importeNetoGravado: 90350
+1) importeTotalOperacion: 90350
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23487 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.

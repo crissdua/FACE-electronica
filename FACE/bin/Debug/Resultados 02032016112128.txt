@@ -1,0 +1,154 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 20596 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 450
+fechaDocumento: 23/06/2015
+fechaAnulacion: 23/06/2015
+observaciones: Prueba de facturacion Coban
+telefonoComprador: 2379-1200 Z.14
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 450
+detalleImpuestosIva: 48.21
+tipoCambio: 1
+direccionComercialComprador: AV. LAS AMERICAS 18-81, ZONA 14 EDIF.COLUMBUS CENTER NIV.14
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: ACEROS DE GUATEMALA
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 401.79
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 1
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000003
+1) descripcionProducto: ELEMENTO FLEXIBLE BOWEX M48
+1) montoBruto :450
+1) precioUnitario: 401.7857
+1) importeExento: 0
+1) importeNetoGravado: 450
+1) importeTotalOperacion: 450
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 1 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-01-2016 al 31-03-2016"]}
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 20911 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: FCEC
+montoTotalOperacion: 65
+fechaDocumento: 15/07/2015
+fechaAnulacion: 02/03/2016 11:22:42 a. m.
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 65
+detalleImpuestosIva: 6.96
+tipoCambio: 1
+direccionComercialComprador: Lote No. 5 zona 5, Colonia San Pablo, Coban A.V.
+serieAutorizada: FCEC
+importeOtrosImpuestos: 0
+numeroResolucion: 123
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Cliente Mostrador Cobán
+nombreComercialRazonSocialVendedor: sdf
+nombreCompletoVendedor: sdf
+municipioVendedor: 001
+departamentoVendedor: 001
+direccionComercialVendedor: sdfg
+fechaResolucion: 01/02/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 58.04
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 2
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A002554
+1) descripcionProducto: CINTA SELLA Y AISLA 1212164 1" X 10 (2.5cm x 304.8cm)
+1) montoBruto :65
+1) precioUnitario: 58.0357
+1) importeExento: 0
+1) importeNetoGravado: 65
+1) importeTotalOperacion: 65
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: FCEC 2 Estado: Rechazado Motivo:{"fecha_documento":["EFACE-1005 La fecha de documento esta fuera del periodo permitido; la fecha debe estar dentro del 01-01-2016 al 31-03-2016"]}

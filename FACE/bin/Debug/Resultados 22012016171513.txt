@@ -1,0 +1,301 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10066 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10067 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10068 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10069 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10070 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10071 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10072 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10073 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10074 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10075 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10076 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10077 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10078 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10079 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10080 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10081 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10082 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10083 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10084 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10085 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10086 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10087 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10088 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10089 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10090 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10091 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10092 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10093 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10094 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10095 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10096 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10097 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10098 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10099 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10100 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10101 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10102 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10103 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10104 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10105 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10106 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10107 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10108 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10109 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10110 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10111 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10112 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10113 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10114 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10115 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10116 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10117 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10118 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10119 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10120 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10121 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10122 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10123 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10124 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10125 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10126 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10127 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10128 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10131 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10132 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10133 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10137 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10142 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10143 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10144 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10153 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10154 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10155 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10157 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10158 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.ESTADO_DOC", or the name is ambiguous.

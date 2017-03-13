@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://listener.ingface.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="ingface" targetNamespace="http://listener.ingface.com/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://50.97.221.2:8089/listener/ingface?xsd=1" namespace="http://listener.ingface.com/" />
+    </xsd:schema>
+  </types>
+  <message name="hello">
+    <part name="parameters" element="tns:hello" />
+  </message>
+  <message name="helloResponse">
+    <part name="parameters" element="tns:helloResponse" />
+  </message>
+  <message name="registrarDte">
+    <part name="parameters" element="tns:registrarDte" />
+  </message>
+  <message name="registrarDteResponse">
+    <part name="parameters" element="tns:registrarDteResponse" />
+  </message>
+  <message name="anulacionDte">
+    <part name="parameters" element="tns:anulacionDte" />
+  </message>
+  <message name="anulacionDteResponse">
+    <part name="parameters" element="tns:anulacionDteResponse" />
+  </message>
+  <message name="cierre">
+    <part name="parameters" element="tns:cierre" />
+  </message>
+  <message name="cierreResponse">
+    <part name="parameters" element="tns:cierreResponse" />
+  </message>
+  <message name="validacionDte">
+    <part name="parameters" element="tns:validacionDte" />
+  </message>
+  <message name="validacionDteResponse">
+    <part name="parameters" element="tns:validacionDteResponse" />
+  </message>
+  <message name="cargarDte">
+    <part name="parameters" element="tns:cargarDte" />
+  </message>
+  <message name="cargarDteResponse">
+    <part name="parameters" element="tns:cargarDteResponse" />
+  </message>
+  <message name="registrarDteSap">
+    <part name="parameters" element="tns:registrarDteSap" />
+  </message>
+  <message name="registrarDteSapResponse">
+    <part name="parameters" element="tns:registrarDteSapResponse" />
+  </message>
+  <portType name="ingface">
+    <operation name="hello">
+      <input wsam:Action="http://listener.ingface.com/ingface/helloRequest" message="tns:hello" />
+      <output wsam:Action="http://listener.ingface.com/ingface/helloResponse" message="tns:helloResponse" />
+    </operation>
+    <operation name="registrarDte">
+      <input wsam:Action="http://listener.ingface.com/ingface/registrarDteRequest" message="tns:registrarDte" />
+      <output wsam:Action="http://listener.ingface.com/ingface/registrarDteResponse" message="tns:registrarDteResponse" />
+    </operation>
+    <operation name="anulacionDte">
+      <input wsam:Action="http://listener.ingface.com/ingface/anulacionDteRequest" message="tns:anulacionDte" />
+      <output wsam:Action="http://listener.ingface.com/ingface/anulacionDteResponse" message="tns:anulacionDteResponse" />
+    </operation>
+    <operation name="cierre">
+      <input wsam:Action="http://listener.ingface.com/ingface/cierreRequest" message="tns:cierre" />
+      <output wsam:Action="http://listener.ingface.com/ingface/cierreResponse" message="tns:cierreResponse" />
+    </operation>
+    <operation name="validacionDte">
+      <input wsam:Action="http://listener.ingface.com/ingface/validacionDteRequest" message="tns:validacionDte" />
+      <output wsam:Action="http://listener.ingface.com/ingface/validacionDteResponse" message="tns:validacionDteResponse" />
+    </operation>
+    <operation name="cargarDte">
+      <input wsam:Action="http://listener.ingface.com/ingface/cargarDteRequest" message="tns:cargarDte" />
+      <output wsam:Action="http://listener.ingface.com/ingface/cargarDteResponse" message="tns:cargarDteResponse" />
+    </operation>
+    <operation name="registrarDteSap">
+      <input wsam:Action="http://listener.ingface.com/ingface/registrarDteSapRequest" message="tns:registrarDteSap" />
+      <output wsam:Action="http://listener.ingface.com/ingface/registrarDteSapResponse" message="tns:registrarDteSapResponse" />
+    </operation>
+  </portType>
+  <binding name="ingfacePortBinding" type="tns:ingface">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="hello">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="registrarDte">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="anulacionDte">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="cierre">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="validacionDte">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="cargarDte">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="registrarDteSap">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="ingface">
+    <port name="ingfacePort" binding="tns:ingfacePortBinding">
+      <soap:address location="http://50.97.221.2:8089/listener/ingface" />
+    </port>
+  </service>
+</definitions>

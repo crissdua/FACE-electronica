@@ -1,0 +1,5 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: b0096afb-67fa-4419-b72c-8aa8843e666aClave: ESTANISLAO
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 260937 Tipo FAC
+Ocurrio un error: 1). [Microsoft][SQL Server Native Client 10.0][SQL Server]Could not find stored procedure 'SP_IT_DATOS_ENCABEZADO'.

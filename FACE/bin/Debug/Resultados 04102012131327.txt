@@ -1,0 +1,1 @@
+Documento:  500008 Estado: Rechazado Motivo:ERROR el TAG Serie no existe o viene mal definido en el formato XML

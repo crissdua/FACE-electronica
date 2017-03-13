@@ -1,0 +1,63 @@
+1) Documento: A 245 Estado: Rechazado Motivo:La Serie y Folio ya han sido Certificados Verifique en sus registros si, la asignaci?n no ha sido Certificado en otra oportunidad ****** Mensaje ******
+Duplicidad De DTE, Nit=000033479402 Establecimiento=1 Dispositivo=001 Serie=A Folio=24 Fecha Autorizaci?n=6/27/2013 12:00:00 AM N?mero Autorizaci?n=2013-5-20222-2482 Tipo de Documento=FACE63 (524288)
+
+Descripci?n: La Serie y Folio ya han sido Certificados
+Sugerencia:  Verifique en sus registros si, la asignaci?n no ha sido Certificado en otra oportunidad
+
+
+******  Informaci?n t?cnica. ******
+        DTEAssignmentIsUsed
+        DTE ya Certificado
+        3011
+        ASSIGNMENT_INVALID
+******  Detalles ******
+Procesador:  BACK-02
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsAssignmentUsedValid
+Fecha:       2014-05-28T11:48:59
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+2) Documento: A 246 Estado: Rechazado Motivo:La Serie y Folio ya han sido Certificados Verifique en sus registros si, la asignaci?n no ha sido Certificado en otra oportunidad ****** Mensaje ******
+Duplicidad De DTE, Nit=000033479402 Establecimiento=1 Dispositivo=001 Serie=A Folio=25 Fecha Autorizaci?n=6/27/2013 12:00:00 AM N?mero Autorizaci?n=2013-5-20222-2482 Tipo de Documento=FACE63 (524288)
+
+Descripci?n: La Serie y Folio ya han sido Certificados
+Sugerencia:  Verifique en sus registros si, la asignaci?n no ha sido Certificado en otra oportunidad
+
+
+******  Informaci?n t?cnica. ******
+        DTEAssignmentIsUsed
+        DTE ya Certificado
+        3011
+        ASSIGNMENT_INVALID
+******  Detalles ******
+Procesador:  BACK-02
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsAssignmentUsedValid
+Fecha:       2014-05-28T11:49:07
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+3) Documento: A 247 Estado: Rechazado Motivo:La Serie y Folio ya han sido Certificados Verifique en sus registros si, la asignación no ha sido Certificado en otra oportunidad ****** Mensaje ******
+Duplicidad De DTE, Nit=000033479402 Establecimiento=1 Dispositivo=001 Serie=A Folio=26 Fecha Autorización=6/27/2013 12:00:00 AM Número Autorización=2013-5-20222-2482 Tipo de Documento=FACE63 (524288)
+
+Descripción: La Serie y Folio ya han sido Certificados
+Sugerencia:  Verifique en sus registros si, la asignación no ha sido Certificado en otra oportunidad
+
+
+******  Información técnica. ******
+        DTEAssignmentIsUsed
+        DTE ya Certificado
+        3011
+        ASSIGNMENT_INVALID
+******  Detalles ******
+Procesador:  BACK-02
+Módulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+Método:      CallIsAssignmentUsedValid
+Fecha:       2014-05-28T11:49:15
+******  Parámetros (Primeros 300 carácteres como ASCII printable) ******
+******  Fin de detalles ******
+

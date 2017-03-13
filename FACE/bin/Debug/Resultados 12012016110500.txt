@@ -1,0 +1,5 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 1 Tipo FAC
+Ocurrio un error: Cannot find either column "DBO" or the user-defined function or aggregate "DBO.TIPODOC_GFACE", or the name is ambiguous.

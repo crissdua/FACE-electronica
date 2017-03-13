@@ -1,0 +1,383 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SESystem
+</name>
+</assembly>
+<members>
+<member name="M:SESystem.Connection.DBConnection.TraeDato(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna un valor de la ejecucion de un Query.
+ </summary>
+	<param name="sSQL">Debe contener el query que se desea Ejecutar</param>
+	<returns>un valor string que contiene el resultado de la primer columna del primer campo</returns>
+	<remarks>
+     -  Si el query no retorna ningun valor la funcion retornara doble comillas ("")
+     -  Si el query contiene un error de sintaxis la funcion dara una exepcion de "error en Obtener Dato"
+ </remarks>
+	<history>
+ 	[eporras]	23/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+        ''' 
+
+</member><member name="M:SESystem.Connection.DBConnection.TraeDatoOb(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna un valor de la ejecucion de un Query en tipo de dato de Origen. Ejemplo Integer, Datetime, Float etc.
+ </summary>
+	<param name="sSQL">Debe contener el query que se desea Ejecutar</param>
+	<returns>un valor del tipo del Campo de la base de datos que contiene el resultado de la primer columna del primer campo</returns>
+	<remarks>
+     -  Si el query no retorna ningun valor la funcion retornara "nothing"
+     -  Si el query contiene un error de sintaxis la funcion dara una exepcion de "error en Obtener Dato"
+ </remarks>
+	<history>
+ 	[eporras]	23/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.EjecutaSql(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Ejecuta la instruccion SQL especificada en el Servidor
+ </summary>
+	<param name="sSQL">Debe contener el query que se desea Ejecutar</param>
+	<returns>Retorna un DataSet con los resultados del Query</returns>
+	<remarks>
+     -  Si el QUERY ejecutado no retorna resultados la funcion retornara "Nothing" pero ejecutara la instruccion SQL
+     -  Si el query contiene un error de sintaxis la funcion dara una exepcion de "error en Obtener Dato"
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.EjecutaSqlTable(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Ejecuta la instruccion SQL especificada en el Servidor
+ </summary>
+	<param name="sSQL">Debe contener el query que se desea Ejecutar</param>
+	<returns>Retorna un DataTable con los Resultados del Query</returns>
+	<remarks>
+     -  Si el QUERY ejecutado no retorna resultados la funcion retornara "Nothing" pero ejecutara la instruccion SQL
+     -  Si el query contiene un error de sintaxis la funcion dara una exepcion de "error en Obtener Dato"
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.EjecutaSqlTableInst(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Ejecuta la instruccion SQL especificada en el Servidor
+ </summary>
+	<param name="sSQL">Debe de contener el Query que se desea Ejecutar</param>
+	<returns>Retorna un DataSet con los resultados del Query</returns>
+	<remarks>
+     -  Si el QUERY ejecutado no retorna resultados la funcion retornara "Nothing" pero ejecutara la instruccion SQL
+     -  Para utilizar esta funcion debe de INSTANCIAR la clase. 
+     -  Esta funcion crea una nueva coneccion hacia la base de datos, para poder utilizar procesos en paralelos.
+     -  Si el query contiene un error de sintaxis la funcion dara una exepcion de "error en Obtener Dato"
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.EjecutaSqlb(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Ejecuta la instruccion SQL especificada en el Servidor
+ </summary>
+	<param name="sSQL">Debe de contener el Query que se desea Ejecutar</param>
+	<returns>un valor boolean (True o False) si el Query se Ejecuto Correctamente </returns>
+	<remarks>
+     -  Si el query contiene un error de sintaxis la funcion dara una exepcion de "error en Obtener Dato"
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.EjecutaSqlbInst(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Ejecuta la instruccion SQL especificada en el Servidor
+ </summary>
+	<param name="sSQL">Debe de contener el Query que se desea Ejecutar</param>
+	<returns>un valor boolean (True o False) si el Query se Ejecuto Correctamente </returns>
+	<remarks>
+     -  Si el query contiene un error de sintaxis la funcion dara una exepcion de "error en Obtener Dato"
+     -  Para utilizar esta funcion debe de INSTANCIAR la clase. 
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.getCnnString">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna el String de Coneccion que se utiliza para Conectarse al servidor.
+ </summary>
+	<returns>El String de Coneccion</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.FormatDateDB">
+ -----------------------------------------------------------------------------
+ <summary>
+ esta funcion retorna el formato de la fecha del servidor en base al lenguaje.
+ si la base de datos esta instalada en español el formato de la fecha es dd/mm/yyy
+ si el formato es cualquier otro el formato es mm/dd/yyyy
+ </summary>
+	<returns>Retorna un String con el formato de la fecha</returns>
+	<example>Este ejemplo ilustra como debe de ser usada la funcion <c>formatDateDB</c>
+		<code>
+    Function RealizarPrueba(obFecha as date)
+     dim sFecha as string
+     sFecha = format(obFecha,FormatDateDB)
+    End Function
+ </code>
+	</example>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.FormatDateDB(System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna la fecha en string en el formato de la fecha del servidor.
+ si la base de datos esta instalada en español retornara el fecha en formato dd/mm/yyy
+ si el formato es cualquier otro retornara el fecha en formato es mm/dd/yyyy
+ </summary>
+	<param name="oDate">un objeto tipo fecha que contiene una fecha valida en formato local</param>
+	<returns>Retorna un String con el formato de la fecha</returns>
+	<example>Este ejemplo ilustra como debe de ser usada la funcion <c>formatDateDB(obFecha)</c>
+	</example>
+	<remarks>
+ esta funcion solo debe de ser utilizada para crear sqls en un string, ya que de lo contrario 
+ para el manejo interno de fechas se deben de utilizar objetos tipo date.
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.FomatDateLocal">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna el formato de la fecha en String  en el formato local. Esta funcion utiliza el DateTimeFormat del CultureInfo.
+ </summary>
+	<returns>Retorna el formato de la fecha en String  en el formato local</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.FomatDateLocal(System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Convierte la fecha que recibe como parametro y la devuelve en formato string con el formato local.
+ </summary>
+	<param name="oDate">Un Objeto tipo Date con una fecha valida</param>
+	<returns>La fecha en string en formato local</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.SP_SETParameter(System.String,System.Data.SqlDbType,System.Int32,System.Data.ParameterDirection,System.String@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Agrega un parametro para una ejecucion posterior de un procedimiento almacenado con la funcion SP_EjecutaSqlb
+ </summary>
+	<param name="sName">Especifica el Nombre del Parametro del Procedimiento Almacenado</param>
+	<param name="oTipo">Especifica el Tipo del Parametro del Procedimiento Almacenado</param>
+	<param name="iSize">Especifica el Tamaño del Parametro del Procedimiento Almacenado</param>
+	<param name="oDireccion">Especifica la Direccion del Parametron (Input,OutPut,InputOutPut,ReturnValue)</param>
+	<param name="sValor">Opcional. Si el parametro es Input se debe de espeficar un valor</param>
+	<example>
+     Este Ejemplo explica como debe de ser llenado un parametro
+ <code>
+   SP_SETParameter("@ano_periodo", Odbc.OdbcType.Int, 10, ParameterDirection.Input, EMD_txtANO_PERIODO.Text)
+ </code>
+	</example>
+	<remarks>
+ El Parametro Direccion se Especifica de la Siguiente Forma: 
+ - <c>ReturnValue:</c> Este tipo de Parametro debe de ser llamado RETURN_VALUE y es el que retornara el Valor de la Ejecucion del Procedimiento Almacenado.
+ Por Ejemplo: @RETURN_VALUE = ParametroAlmacenado @Parametro1 = 'a'
+ @RETURN_VALUE tendra el resultado de la llamada a ParametroAlmacenado.
+ - <c>Input:</c> El Parametro solo Recibe el Valor
+ - <c>Output:</c> El Parametro solo Regresa un Valor
+ - <c>InPutOutput:</c> El Parametro solo Regresa un Valor
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.SP_EjecutaSqlb(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Ejecuta la el procedimiento almacenado especificado, con los parametros agregados por la funcion <c>SP_SETParameter</c>
+	</summary>
+	<param name="sStoreProcedure"></param>
+	<returns>Retorna un valor Boolean True o False que indetifica si se Ejecuto correctamente el Procedimiento</returns>
+	<remarks>
+ Si Existieron Errores en el Procedimiento Almacenado la funcion retornara una Excepcion, la cual contiene todos los mensajes del Procedimiento Almacenado
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.SP_GETParameter(System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtiene un valor del la coleccion de parametros ingresada en SP_SETParameter
+ </summary>
+	<param name="iNumero">Numero Correlativo que identifica al Parametro</param>
+	<returns>Retorna un string con el valor de parametro especificado</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.SP_GETParameter(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+  Obtiene un valor del la coleccion de parametros ingresada en SP_SETParameter
+ </summary>
+	<param name="sNombreParametro"></param>
+	<returns></returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.SP_FREEParameter">
+ -----------------------------------------------------------------------------
+ <summary>
+ Inicializa la Coleccion de Parametros Utilizados para Ejecutar un Procedimiento Almacenado
+ </summary>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.cnn_InfoMessage(System.Object,System.Data.SqlClient.SqlInfoMessageEventArgs)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Realiza una Coleccion de los errores que estan dentro de la coleccion de la Coneccion.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Connection.DBConnection.SPCRollbackTran">
+	<summary>
+ Funcion que verifica si hay alguna transaccion abierta para hacerle
+ ROLLBACK esto para evitar bloqueos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SESystem.Connection.DBConnection.SPCBeginTran">
+	<summary>
+ Funcion que inicia una transaccion
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SESystem.Connection.DBConnection.SPCCommitTran">
+	<summary>
+ Funcion que ejecuta el Commit de una transaccion
+ ROLLBACK esto para evitar bloqueos.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SESystem.Connection.DBConnection">
+ -----------------------------------------------------------------------------
+ Project	 : SESystem
+ Class	 : Connection.DBConnection
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Esta clase orquestara e inicializara todas las conecciones que se realizen de la aplicacion hacia el servidor de Base de Datos. 
+ </summary>
+	<remarks>
+ Esta clase es la unica que tendra conectividad directa con la base de datos
+ </remarks>
+	<history>
+ 	[eporras]	24/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:SESystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SESystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SESystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:SESystem.Utils.Generales.ToTimeStampString(System.Byte[])">
+ -----------------------------------------------------------------------------
+ <summary>
+	</summary>
+	<param name="bytes"></param>
+	<returns></returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eporras]	25/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:SESystem.Utils.Generales.SEFormatNumber(System.Double)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna un Numero con formato ###,###,##0.00###
+ </summary>
+	<param name="dNumero"></param>
+	<returns></returns>
+	<remarks>
+     Esta función se utiliza para dar formato a numero de moneda, retorna dos decimales predeterminados,
+     pero si el numero tiene mas decimas retornara hasta 6 decimales
+ </remarks>
+	<history>
+ 	[eporras]	30/05/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

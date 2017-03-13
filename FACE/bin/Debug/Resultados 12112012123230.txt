@@ -1,0 +1,5 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: SERVICOMPClave: D32FCEBD8155233C5E8A2F4BF6C0E4FDF3B267F44B6AA4970919697C17BC4FE2
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 272 Tipo FAC
+Ocurrio un error: Referencia a objeto no establecida como instancia de un objeto.

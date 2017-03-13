@@ -1,0 +1,913 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 1 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 16,8
+fechaDocumento: 22/10/2012
+fechaAnulacion: 12/01/2016 12:43:10
+observaciones: Basado en Ofertas de ventas 2. Basado en Pedidos de cliente 3. Basado en Entregas 1.
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 16,8
+detalleImpuestosIva: 1,8
+tipoCambio: 1
+direccionComercialComprador: CIUDAD
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: cliente de pruebas 1
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 15
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 1
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 500
+1) codigoProducto: 12X18
+1) descripcionProducto: 12X18
+1) montoBruto :15
+1) precioUnitario: 0,03
+1) importeExento: 0
+1) importeNetoGravado: 15
+1) importeTotalOperacion: 15
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 2 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 16236
+fechaDocumento: 14/12/2012
+fechaAnulacion: 12/01/2016 12:43:16
+observaciones: Basado en Ofertas de ventas 4. Basado en Pedidos de cliente 5. Basado en Entregas 2.
+telefonoComprador: 12345678
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 16236
+detalleImpuestosIva: 1739,57
+tipoCambio: 1
+direccionComercialComprador: 40 calle 6-89 zona 78 de mixco, colonia no me mires nunca GUATEMALA
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Luis Arrazola
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 14496,43
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 2
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1650
+1) codigoProducto: BI0001
+1) descripcionProducto: 6 X 8
+1) montoBruto :16236
+1) precioUnitario: 8,7857
+1) importeExento: 0
+1) importeNetoGravado: 16236
+1) importeTotalOperacion: 16236
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 3 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 16236
+fechaDocumento: 20/12/2012
+fechaAnulacion: 12/01/2016 12:43:18
+observaciones: Basado en Pedidos de cliente 6. Basado en Entregas 3.
+telefonoComprador: 12345678
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 16236
+detalleImpuestosIva: 1739,57
+tipoCambio: 1
+direccionComercialComprador: 40 calle 6-89 zona 78 de mixco, colonia no me mires nunca GUATEMALA
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Luis Arrazola
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 14496,43
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 3
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1650
+1) codigoProducto: BI0001
+1) descripcionProducto: 6 X 8
+1) montoBruto :16236
+1) precioUnitario: 8,7857
+1) importeExento: 0
+1) importeNetoGravado: 16236
+1) importeTotalOperacion: 16236
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 4 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: USD
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 8000
+fechaDocumento: 07/01/2013
+fechaAnulacion: 12/01/2016 12:43:20
+observaciones: Basado en Pedidos de cliente 7.
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 8000
+detalleImpuestosIva: 857,14
+tipoCambio: 8
+direccionComercialComprador: CIUDAD
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: cliente nuevo
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 7142,86
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 4
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2000
+1) codigoProducto: BC0001
+1) descripcionProducto: puntos
+1) montoBruto :8000
+1) precioUnitario: 4
+1) importeExento: 0
+1) importeNetoGravado: 8000
+1) importeTotalOperacion: 8000
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 5 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: USD
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 2000
+fechaDocumento: 07/01/2013
+fechaAnulacion: 12/01/2016 12:43:21
+observaciones: Basado en Pedidos de cliente 7.
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 2000
+detalleImpuestosIva: 214,29
+tipoCambio: 8
+direccionComercialComprador: CIUDAD
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: cliente nuevo
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 1785,71
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 5
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 500
+1) codigoProducto: BC0001
+1) descripcionProducto: puntos
+1) montoBruto :2000
+1) precioUnitario: 4
+1) importeExento: 0
+1) importeNetoGravado: 2000
+1) importeTotalOperacion: 2000
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 6 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 60
+fechaDocumento: 23/04/2013
+fechaAnulacion: 12/01/2016 12:43:23
+observaciones: Basado en Pedidos de cliente 18. Basado en Entregas 4.
+telefonoComprador: 12345678
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 60
+detalleImpuestosIva: 6,43
+tipoCambio: 1
+direccionComercialComprador: 40 calle 6-89 zona 78 de mixco, colonia no me mires nunca GUATEMALA
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Luis Arrazola
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 53,57
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 6
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 15
+1) codigoProducto: BI0004
+1) descripcionProducto: 20X30X4
+1) montoBruto :60
+1) precioUnitario: 3,5714
+1) importeExento: 0
+1) importeNetoGravado: 60
+1) importeTotalOperacion: 60
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 7 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 87,36
+fechaDocumento: 10/12/2013
+fechaAnulacion: 12/01/2016 12:43:24
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 87,36
+detalleImpuestosIva: 9,36
+tipoCambio: 1
+direccionComercialComprador: CIUDAD
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: cliente de pruebas 1
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 78
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 7
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: BI0002
+1) descripcionProducto: 25*35*10
+1) montoBruto :87,36
+1) precioUnitario: 78
+1) importeExento: 0
+1) importeNetoGravado: 87,36
+1) importeTotalOperacion: 87,36
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 87,36
+fechaDocumento: 10/12/2013
+fechaAnulacion: 12/01/2016 12:43:25
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 87,36
+detalleImpuestosIva: 9,36
+tipoCambio: 1
+direccionComercialComprador: CIUDAD
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: cliente nuevo
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 78
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 8
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: BI0002
+1) descripcionProducto: 25*35*10
+1) montoBruto :87,36
+1) precioUnitario: 78
+1) importeExento: 0
+1) importeNetoGravado: 87,36
+1) importeTotalOperacion: 87,36
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 9 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 6009336
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 7,03
+fechaDocumento: 10/12/2013
+fechaAnulacion: 12/01/2016 12:43:27
+observaciones: Basado en Ofertas de ventas 44. Basado en Pedidos de cliente 39. Basado en Entregas 5.
+telefonoComprador: PENDIENTE
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 7,03
+detalleImpuestosIva: 0,75
+tipoCambio: 1
+direccionComercialComprador: 14 AVE 1-40 ZONA 2 MIXCO URBANIZACION GONZALEZ GUATEMALA MIXCOGUATEMALA
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: MIXCO
+departamentoComprador: Guatemala
+nombreComercialComprador: ADOSERVICIOS, S. A.
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 6,28
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 9
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 198
+1) codigoProducto: BI0011
+1) descripcionProducto: 4x9x3
+1) montoBruto :7,03
+1) precioUnitario: 0,0317
+1) importeExento: 0
+1) importeNetoGravado: 7,03
+1) importeTotalOperacion: 7,03
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 10 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 35712341
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 4,02
+fechaDocumento: 08/01/2014
+fechaAnulacion: 08/01/2014
+observaciones: Basado en Ofertas de ventas 47. Basado en Pedidos de cliente 43. Basado en Entregas 9.
+telefonoComprador: 66209100
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 4,02
+detalleImpuestosIva: 0,43
+tipoCambio: 1
+direccionComercialComprador: CARRETERA A SAN JOSE PINULA SAN JOSE PINULAGUATEMALA
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: SAN JOSE PINULA
+departamentoComprador: Guatemala
+nombreComercialComprador: VIAS DE NEGOCIOS, S.A.
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 3,59
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 0
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 12
+1) codigoProducto: BI0014
+1) descripcionProducto: 10.25*15.25*5.5 azul
+1) montoBruto :4,02
+1) precioUnitario: 0,2989
+1) importeExento: 0
+1) importeNetoGravado: 4,02
+1) importeTotalOperacion: 4,02
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 11 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 0,07
+fechaDocumento: 23/01/2014
+fechaAnulacion: 12/01/2016 12:43:31
+observaciones: Basado en Ofertas de ventas 57. Basado en Pedidos de cliente 46. Basado en Entregas 10.
+telefonoComprador: 45456655
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 0,07
+detalleImpuestosIva: 0,01
+tipoCambio: 1
+direccionComercialComprador: 3A AVE 3-00 Z.11 EL GUARDA GUATEMALA
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: VIRGILIO TOJ
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 0,06
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: ademar@alfred.com
+descripcionOtroImpuesto: N/D
+numeroDocumento: 11
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: BC0005
+1) descripcionProducto: 9*15
+1) montoBruto :0,07
+1) precioUnitario: 0,0321
+1) importeExento: 0
+1) importeNetoGravado: 0,07
+1) importeTotalOperacion: 0,07
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el c?digo de estado HTTP 404: Not Found.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: FITOPRUEBAClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 12 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: Primario
+montoTotalOperacion: 250
+fechaDocumento: 23/01/2014
+fechaAnulacion: 12/01/2016 12:43:32
+observaciones: Basado en Pedidos de cliente 41. Basado en Entregas 6.
+telefonoComprador: 12345678
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 250
+detalleImpuestosIva: 26,79
+tipoCambio: 1
+direccionComercialComprador: 40 calle 6-89 zona 78 de mixco, colonia no me mires nunca GUATEMALA
+serieAutorizada: Primario
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: Luis Arrazola
+nombreComercialRazonSocialVendedor: PRUEBA
+nombreCompletoVendedor: PRUEBA
+municipioVendedor: G
+departamentoVendedor: G
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 14/06/2014
+regimenISR: RET_DEFINITIVA
+importeBruto: 223,21
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 12
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 5
+1) codigoProducto: CO0006
+1) descripcionProducto: ser
+1) montoBruto :250
+1) precioUnitario: 44,6429
+1) importeExento: 0
+1) importeNetoGravado: 250
+1) importeTotalOperacion: 250
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Ocurrio un error: Error de la solicitud con el código de estado HTTP 404: Not Found.

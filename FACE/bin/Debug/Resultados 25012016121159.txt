@@ -1,0 +1,4394 @@
+**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8246 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 5933
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:00 PM
+observaciones: 
+telefonoComprador: 2329-2600
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 5933
+detalleImpuestosIva: 635.68
+tipoCambio: 1
+direccionComercialComprador: 5a. AVENIDA 5-55, ZONA 14 EUROPLAZA TORRE I NIVEL 6 606
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: MONTANA EXPLORADORA DE GUATEMALA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 5297.32
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 8
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A002996
+1) descripcionProducto: Polea 4 5V 925 E
+1) montoBruto :1932
+1) precioUnitario: 1725
+1) importeExento: 0
+1) importeNetoGravado: 1932
+1) importeTotalOperacion: 1932
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A003000
+2) descripcionProducto: Polea 4 5V 1130 E
+2) montoBruto :2525
+2) precioUnitario: 2254.4643
+2) importeExento: 0
+2) importeNetoGravado: 2525
+2) importeTotalOperacion: 2525
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+3) cantidad: 2
+3) codigoProducto: A000375
+3) descripcionProducto: QD BUSHING E 7/8" MARTIN
+3) montoBruto :1476
+3) precioUnitario: 658.9286
+3) importeExento: 0
+3) importeNetoGravado: 1476
+3) importeTotalOperacion: 1476
+3) montoDescuento: 0
+3) unidadMedida: UND
+3) detalleImpuestosIva: 0
+3) tipoProducto: B
+3) importeOtrosImpuestos: 0
+Documento: A 23108 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8247 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 2501
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: 
+telefonoComprador: 2423-9200
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 2501
+detalleImpuestosIva: 267.96
+tipoCambio: 1
+direccionComercialComprador: AV. DEL FERROCARRIL 49-65 ZONA 12
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: COLGATE-PALMOLIVE
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 2233.04
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 9
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 3
+1) codigoProducto: A000176
+1) descripcionProducto: ESTRELLA L/AL110 LOVEJOY
+1) montoBruto :528
+1) precioUnitario: 157.1429
+1) importeExento: 0
+1) importeNetoGravado: 528
+1) importeTotalOperacion: 528
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 2
+2) codigoProducto: A000160
+2) descripcionProducto: ESTRELLA CJ 42/55 ROTEX
+2) montoBruto :480
+2) precioUnitario: 214.2857
+2) importeExento: 0
+2) importeNetoGravado: 480
+2) importeTotalOperacion: 480
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+3) cantidad: 1
+3) codigoProducto: A000074
+3) descripcionProducto: REJILLA 1060T FALK
+3) montoBruto :1326
+3) precioUnitario: 1183.9286
+3) importeExento: 0
+3) importeNetoGravado: 1326
+3) importeTotalOperacion: 1326
+3) montoDescuento: 0
+3) unidadMedida: UND
+3) detalleImpuestosIva: 0
+3) tipoProducto: B
+3) importeOtrosImpuestos: 0
+4) cantidad: 1
+4) codigoProducto: A000334
+4) descripcionProducto: CADENA PARA ACOPLE 5018
+4) montoBruto :167
+4) precioUnitario: 149.1071
+4) importeExento: 0
+4) importeNetoGravado: 167
+4) importeTotalOperacion: 167
+4) montoDescuento: 0
+4) unidadMedida: UND
+4) detalleImpuestosIva: 0
+4) tipoProducto: B
+4) importeOtrosImpuestos: 0
+Documento: A 23109 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8248 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 14106.55
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:11 PM
+observaciones: 
+telefonoComprador: 2383-4079
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 14106.55
+detalleImpuestosIva: 1511.42
+tipoCambio: 1
+direccionComercialComprador: AV. PETAPA Y 44 CALLE C.C. PLAZA FLORENCIA LOCAL 3 ZONA 12
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: RECURSOS DE INGENIERIA TOTAL, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 12595.13
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 0
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A001155
+1) descripcionProducto: MOTORREDUCTOR 5HP 103RPM MOD. CNHM5-6125YB SUMITOMO
+1) montoBruto :14849
+1) precioUnitario: 13258.0357
+1) importeExento: 0
+1) importeNetoGravado: 14849
+1) importeTotalOperacion: 14849
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23110 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8249 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 120
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:12 PM
+observaciones: N/D
+telefonoComprador: 6636-1111
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 120
+detalleImpuestosIva: 12.86
+tipoCambio: 1
+direccionComercialComprador: KM. 19.5 CARR. AL PACIFICO VILLA NUEVA
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: DURECO
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 107.14
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23111
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 10
+1) codigoProducto: A000688
+1) descripcionProducto: CADENA 40-1 MAXTOP
+1) montoBruto :120
+1) precioUnitario: 10.7143
+1) importeExento: 0
+1) importeNetoGravado: 120
+1) importeTotalOperacion: 120
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23111 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8250 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 226.49
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:15 PM
+observaciones: TC. 7.90252 X $1.00
+telefonoComprador: 2286-4100/02
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 226.49
+detalleImpuestosIva: 24.27
+tipoCambio: 1
+direccionComercialComprador: DIAGONAL 6 10-01 ZONA 10 CENTRO GERENCIAL LAS MARGARITAS
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CEMENTOS PROGRESO, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 202.22
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23112
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 3
+1) codigoProducto: A000517
+1) descripcionProducto: MAXI COAT AEROSOL 12 OZ.
+1) montoBruto :226.49
+1) precioUnitario: 67.4085
+1) importeExento: 0
+1) importeNetoGravado: 226.49
+1) importeTotalOperacion: 226.49
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23112 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8251 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 980.1
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:16 PM
+observaciones: N/D
+telefonoComprador: 6685-9500
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 980.1
+detalleImpuestosIva: 105.01
+tipoCambio: 1
+direccionComercialComprador: KM.15.8 CARRETERA A EL SALVADOR CONDADO CONCEPCION
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: GRUPO Q GUATEMALA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 875.09
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23113
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 6
+1) codigoProducto: A000535
+1) descripcionProducto: SELLADOR DE BRIDAS 518 50ML
+1) montoBruto :980.1
+1) precioUnitario: 145.8482
+1) importeExento: 0
+1) importeNetoGravado: 980.1
+1) importeTotalOperacion: 980.1
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23113 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8252 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 16170
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:19 PM
+observaciones: 
+telefonoComprador: 2383-0770
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 16170
+detalleImpuestosIva: 1732.5
+tipoCambio: 1
+direccionComercialComprador: 31 CALLE 15-80, ZONA 12
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: GUATEMALAN CANDIES
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 14437.5
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23114
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 70
+1) codigoProducto: A003321
+1) descripcionProducto: CADENA C2050SS  ACERO INOX. 304  TSUBAKI
+1) montoBruto :16170
+1) precioUnitario: 206.25
+1) importeExento: 0
+1) importeNetoGravado: 16170
+1) importeTotalOperacion: 16170
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23114 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8253 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1770
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:21 PM
+observaciones: M3663-ECA
+telefonoComprador: 6643-4000
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1770
+detalleImpuestosIva: 189.64
+tipoCambio: 1
+direccionComercialComprador: Parque Industrial Flor del Campo Km. 32 Carr. al Pacifico
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: ENVASES UNIVERSALES REXAM  DE CENTROAMERICA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1580.36
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23115
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 10
+1) codigoProducto: A002274
+1) descripcionProducto: SPROCKET 50B16
+1) montoBruto :1770
+1) precioUnitario: 158.0357
+1) importeExento: 0
+1) importeNetoGravado: 1770
+1) importeTotalOperacion: 1770
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23115 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8254 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 5200
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:34 PM
+observaciones: 
+telefonoComprador: 2476-2783
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 5200
+detalleImpuestosIva: 557.14
+tipoCambio: 1
+direccionComercialComprador: 33 CALLE 6-34, ZONA 11 COL. LAS CHARCAS
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INDUSTRIA NACIONAL ALIMENTICIA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 4642.86
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23116
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: MO-P ERIEZ
+1) descripcionProducto: Inspeccion y revision de Calibraci?n detector de metales
+1) montoBruto :5200
+1) precioUnitario: 4642.8571
+1) importeExento: 0
+1) importeNetoGravado: 5200
+1) importeTotalOperacion: 5200
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23116 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8255 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 708
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:35 PM
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 708
+detalleImpuestosIva: 75.86
+tipoCambio: 1
+direccionComercialComprador: 24. AV. 19-05 ZONA 12
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: LACOPLAST
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 632.14
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23117
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A000161
+1) descripcionProducto: ESTRELLA CJ 48/60 ROTEX
+1) montoBruto :708
+1) precioUnitario: 316.0714
+1) importeExento: 0
+1) importeNetoGravado: 708
+1) importeTotalOperacion: 708
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23117 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8256 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 799.2
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:36 PM
+observaciones: 
+telefonoComprador: 6633-6550
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 799.2
+detalleImpuestosIva: 85.63
+tipoCambio: 1
+direccionComercialComprador: Calzada Roosevelt Torre Sol Oficina 6-C Edificio Tikal Futura 22-43 Zona 11 Guatemala, Guatemala
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: TEXTILES LIZTEX, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 713.57
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23118
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 8
+1) codigoProducto: A000486
+1) descripcionProducto: FIXMASTER METAL MAGIC STEEL 4ONZ.
+1) montoBruto :799.2
+1) precioUnitario: 89.1964
+1) importeExento: 0
+1) importeNetoGravado: 799.2
+1) importeTotalOperacion: 799.2
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23118 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8257 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 5740.05
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: N/D
+telefonoComprador: 2361-0008
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 5740.05
+detalleImpuestosIva: 615
+tipoCambio: 1
+direccionComercialComprador: AV.REFORMA 15-54, ZONA 9
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO LA UNION, S.A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 5125.05
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23119
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000046
+1) descripcionProducto: CUBIERTA 1080T10 FALK
+1) montoBruto :843.2
+1) precioUnitario: 752.8572
+1) importeExento: 0
+1) importeNetoGravado: 843.2
+1) importeTotalOperacion: 843.2
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A000076
+2) descripcionProducto: REJILLA 1080T FALK
+2) montoBruto :2052.75
+2) precioUnitario: 1832.8125
+2) importeExento: 0
+2) importeNetoGravado: 2052.75
+2) importeTotalOperacion: 2052.75
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+3) cantidad: 2
+3) codigoProducto: A000063
+3) descripcionProducto: HUB 1080T FALK
+3) montoBruto :2844.1
+3) precioUnitario: 1269.6875
+3) importeExento: 0
+3) importeNetoGravado: 2844.1
+3) importeTotalOperacion: 2844.1
+3) montoDescuento: 0
+3) unidadMedida: UND
+3) detalleImpuestosIva: 0
+3) tipoProducto: B
+3) importeOtrosImpuestos: 0
+Documento: A 23119 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8258 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1473.9
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: N/D
+telefonoComprador: 23346645
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1473.9
+detalleImpuestosIva: 157.92
+tipoCambio: 1
+direccionComercialComprador: Diagonal  6 10-65 Z.10 C.G.Las Margaritas Torre I, Of. 1701
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: BIO ETANOL
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1315.98
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 0
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000404
+1) descripcionProducto: ELEMENTO CON ESPACIADOR WES10 TB WOODS
+1) montoBruto :1473.9
+1) precioUnitario: 1315.9822
+1) importeExento: 0
+1) importeNetoGravado: 1473.9
+1) importeTotalOperacion: 1473.9
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23120 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8259 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1314
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:39 PM
+observaciones: 
+telefonoComprador: 2388-6900
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1314
+detalleImpuestosIva: 140.79
+tipoCambio: 1
+direccionComercialComprador: 7A. AVENIDA 6-53, ZONA 4 EDIFICIO EL TRIANGULO 4o. NIVEL
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CENTRAL AGRO INDUSTRIAL GUATEMALTECA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1173.21
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23121
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 20
+1) codigoProducto: A000548
+1) descripcionProducto: SILICON GRIS 5699 X 70ML BLISTER
+1) montoBruto :666
+1) precioUnitario: 29.7321
+1) importeExento: 0
+1) importeNetoGravado: 666
+1) importeTotalOperacion: 666
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 50
+2) codigoProducto: A000545
+2) descripcionProducto: SILICON ROJO RTV ALTA TEMPERATURA 70ML
+2) montoBruto :648
+2) precioUnitario: 11.5714
+2) importeExento: 0
+2) importeNetoGravado: 648
+2) importeTotalOperacion: 648
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23121 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8260 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 663
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:40 PM
+observaciones: 
+telefonoComprador: 2440-0432
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 663
+detalleImpuestosIva: 71.04
+tipoCambio: 1
+direccionComercialComprador: CIUDAD
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: COPRYSA. C. A. S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 591.96
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: CAL. AGU BAT 5-24, ZONA 11 LOCAL "B"  Telefono 2440-043
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23122
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 10
+1) codigoProducto: A000183
+1) descripcionProducto: ESTRELLA L090/095 LOVEJOY
+1) montoBruto :780
+1) precioUnitario: 69.6429
+1) importeExento: 0
+1) importeNetoGravado: 780
+1) importeTotalOperacion: 780
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23122 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8261 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1827.9
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:41 PM
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1827.9
+detalleImpuestosIva: 195.85
+tipoCambio: 1
+direccionComercialComprador: 4A. AVENIDA 8-93, ZONA 9
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: SERVICIO DE MAQUINARIA Y VEHICULOS, S.A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1632.05
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23123
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000350
+1) descripcionProducto: ELEMENTO FLEXIBLE E12 MARTIN
+1) montoBruto :1827.9
+1) precioUnitario: 1632.0536
+1) importeExento: 0
+1) importeNetoGravado: 1827.9
+1) importeTotalOperacion: 1827.9
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23123 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8262 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1478
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:42 PM
+observaciones: 
+telefonoComprador: N/D
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1478
+detalleImpuestosIva: 158.36
+tipoCambio: 1
+direccionComercialComprador: 4A. AVENIDA 8-93, ZONA 9
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: SERVICIO DE MAQUINARIA Y VEHICULOS, S.A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1319.64
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23124
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000416
+1) descripcionProducto: ELEMENTO WE20 TB WOODS
+1) montoBruto :1478
+1) precioUnitario: 1319.6429
+1) importeExento: 0
+1) importeNetoGravado: 1478
+1) importeTotalOperacion: 1478
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23124 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8263 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 15520
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:43 PM
+observaciones: N/D
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 15520
+detalleImpuestosIva: 1662.86
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 13857.14
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23125
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 100
+1) codigoProducto: A003146
+1) descripcionProducto: VIPER LUBE CLEAR  Loctite 39342  400 grms.
+1) montoBruto :15520
+1) precioUnitario: 138.5714
+1) importeExento: 0
+1) importeNetoGravado: 15520
+1) importeTotalOperacion: 15520
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23125 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8264 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 39729
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:44 PM
+observaciones: 
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 39729
+detalleImpuestosIva: 4256.68
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 35472.32
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23126
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 20
+1) codigoProducto: A000840
+1) descripcionProducto: CADENA 200-2 COTTER TSUBAKI
+1) montoBruto :39729
+1) precioUnitario: 1773.6161
+1) importeExento: 0
+1) importeNetoGravado: 39729
+1) importeTotalOperacion: 39729
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23126 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8265 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 2954
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: N/D
+telefonoComprador: 23290250 Pagos
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 2954
+detalleImpuestosIva: 316.5
+tipoCambio: 1
+direccionComercialComprador: 14 CALLE 8-51 ZONA 10
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: SIEMBRAS VISION, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 2637.5
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: r.ruiz@grupoaptek.com
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23127
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A003843
+1) descripcionProducto: PN 42.04.015 Browden cable "A" 16RFA 7.2
+1) montoBruto :2954
+1) precioUnitario: 2637.5
+1) importeExento: 0
+1) importeNetoGravado: 2954
+1) importeTotalOperacion: 2954
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23127 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8266 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 550
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: N/D
+telefonoComprador: 23290250 Pagos
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 550
+detalleImpuestosIva: 58.93
+tipoCambio: 1
+direccionComercialComprador: 14 CALLE 8-51 ZONA 10
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: SIEMBRAS VISION, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 491.07
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: r.ruiz@grupoaptek.com
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23128
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A003478
+1) descripcionProducto: FAJA DOBLE HB-2000 P/BACKHUS 14.28 32.03.006
+1) montoBruto :550
+1) precioUnitario: 491.0714
+1) importeExento: 0
+1) importeNetoGravado: 550
+1) importeTotalOperacion: 550
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23128 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8267 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 2298
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:47 PM
+observaciones: N/D
+telefonoComprador: 23290250 Pagos
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 2298
+detalleImpuestosIva: 246.21
+tipoCambio: 1
+direccionComercialComprador: 14 CALLE 8-51 ZONA 10
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: SIEMBRAS VISION, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 2051.79
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: r.ruiz@grupoaptek.com
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23129
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A002508
+1) descripcionProducto: ENTRETELA 151.5" 5X5 MESH 48X36 LATON
+1) montoBruto :2298
+1) precioUnitario: 2051.7857
+1) importeExento: 0
+1) importeNetoGravado: 2298
+1) importeTotalOperacion: 2298
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23129 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8268 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 13506
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:48 PM
+observaciones: N/D
+telefonoComprador: 2334-7653
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 13506
+detalleImpuestosIva: 1447.07
+tipoCambio: 1
+direccionComercialComprador: 7A. AV. 12-23 ZONA 9
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO PALO GORDO
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 12058.93
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 0
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A000076
+1) descripcionProducto: REJILLA 1080T FALK
+1) montoBruto :4830
+1) precioUnitario: 2156.25
+1) importeExento: 0
+1) importeNetoGravado: 4830
+1) importeTotalOperacion: 4830
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 2
+2) codigoProducto: A000046
+2) descripcionProducto: CUBIERTA 1080T10 FALK
+2) montoBruto :1984
+2) precioUnitario: 885.7143
+2) importeExento: 0
+2) importeNetoGravado: 1984
+2) importeTotalOperacion: 1984
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+3) cantidad: 4
+3) codigoProducto: A000063
+3) descripcionProducto: HUB 1080T FALK
+3) montoBruto :6692
+3) precioUnitario: 1493.75
+3) importeExento: 0
+3) importeNetoGravado: 6692
+3) importeTotalOperacion: 6692
+3) montoDescuento: 0
+3) unidadMedida: UND
+3) detalleImpuestosIva: 0
+3) tipoProducto: B
+3) importeOtrosImpuestos: 0
+Documento: A 23130 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8269 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 8100
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:50 PM
+observaciones: N3632-SA
+telefonoComprador: 2279-1221
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 8100
+detalleImpuestosIva: 867.86
+tipoCambio: 1
+direccionComercialComprador: 12 CALLE 1-25 ZONA 10 15 NIVEL TORRE NORTE
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: COMPANIA AGRICOLA INDUSTRIAL SANTA ANA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 7232.14
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23131
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A004190
+1) descripcionProducto: Motoreductor Netzsch pra NM021B Cod. NDB4036827
+1) montoBruto :8100
+1) precioUnitario: 7232.1429
+1) importeExento: 0
+1) importeNetoGravado: 8100
+1) importeTotalOperacion: 8100
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23131 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8270 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 28980
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:51 PM
+observaciones: N3657-SA
+telefonoComprador: 2440-9977
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 28980
+detalleImpuestosIva: 3105
+tipoCambio: 1
+direccionComercialComprador: 28 CALLE 0-31 ZONA 3
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: PRODUCTOS ALIMENTICIOS CENTROAMERICANOS
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 25875
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23132
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 18
+1) codigoProducto: A001457
+1) descripcionProducto: ESTATOR NR. NMP5023174
+1) montoBruto :28980
+1) precioUnitario: 1437.5
+1) importeExento: 0
+1) importeNetoGravado: 28980
+1) importeTotalOperacion: 28980
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23132 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8271 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 4776
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:51 PM
+observaciones: N3659-SA
+telefonoComprador: 2279-1221
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 4776
+detalleImpuestosIva: 511.71
+tipoCambio: 1
+direccionComercialComprador: 12 CALLE 1-25 ZONA 10 15 NIVEL TORRE NORTE
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: COMPANIA AGRICOLA INDUSTRIAL SANTA ANA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 4264.29
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23133
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A003439
+1) descripcionProducto: ESTATOR NM021  NDB4959512 NETZSCH
+1) montoBruto :2140
+1) precioUnitario: 955.3571
+1) importeExento: 0
+1) importeNetoGravado: 2140
+1) importeTotalOperacion: 2140
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 2
+2) codigoProducto: A001561
+2) descripcionProducto: SELLO MECANICO NR. NDB4924396 NETZSCH
+2) montoBruto :2636
+2) precioUnitario: 1176.7857
+2) importeExento: 0
+2) importeNetoGravado: 2636
+2) importeTotalOperacion: 2636
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23133 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8272 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 405
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:52 PM
+observaciones: 
+telefonoComprador: 2420-4466
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 405
+detalleImpuestosIva: 43.39
+tipoCambio: 1
+direccionComercialComprador: CALZ. ROOSEVELT 11-76, ZONA 7
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: FABRICA Y ENSAMBLADORA DE CAMIONES
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 361.61
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23134
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 6
+1) codigoProducto: A000556
+1) descripcionProducto: SUPERFLEX NEGRO 300ML
+1) montoBruto :205.2
+1) precioUnitario: 30.5357
+1) importeExento: 0
+1) importeNetoGravado: 205.2
+1) importeTotalOperacion: 205.2
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 6
+2) codigoProducto: A000548
+2) descripcionProducto: SILICON GRIS 5699 X 70ML BLISTER
+2) montoBruto :199.8
+2) precioUnitario: 29.7321
+2) importeExento: 0
+2) importeNetoGravado: 199.8
+2) importeTotalOperacion: 199.8
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23134 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8273 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 2708.1
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:53 PM
+observaciones: N/D
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 2708.1
+detalleImpuestosIva: 290.15
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 2417.95
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23135
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 6
+1) codigoProducto: A000898
+1) descripcionProducto: UNION 200-2 TSUBAKI
+1) montoBruto :2708.1
+1) precioUnitario: 402.9911
+1) importeExento: 0
+1) importeNetoGravado: 2708.1
+1) importeTotalOperacion: 2708.1
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23135 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8274 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 466
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: 
+telefonoComprador: 2326-5600
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 466
+detalleImpuestosIva: 49.93
+tipoCambio: 1
+direccionComercialComprador: Diagonal 19, Avenida Petapa 7-35 Zona 21
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CENTRAL DE EMPAQUES
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 416.07
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23136
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A000291
+1) descripcionProducto: SLEEVE 6JE LOVEJOY
+1) montoBruto :466
+1) precioUnitario: 208.0357
+1) importeExento: 0
+1) importeNetoGravado: 466
+1) importeTotalOperacion: 466
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23136 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8275 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 466
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:55 PM
+observaciones: 
+telefonoComprador: 2326-5600
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 466
+detalleImpuestosIva: 49.93
+tipoCambio: 1
+direccionComercialComprador: Diagonal 19, Avenida Petapa 7-35 Zona 21
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CENTRAL DE EMPAQUES
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 416.07
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23137
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A000291
+1) descripcionProducto: SLEEVE 6JE LOVEJOY
+1) montoBruto :466
+1) precioUnitario: 208.0357
+1) importeExento: 0
+1) importeNetoGravado: 466
+1) importeTotalOperacion: 466
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23137 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8276 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 87960
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:55 PM
+observaciones: N/D
+telefonoComprador: 2361-0008
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 87960
+detalleImpuestosIva: 9424.29
+tipoCambio: 1
+direccionComercialComprador: AV.REFORMA 15-54, ZONA 9
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO LA UNION, S.A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 78535.71
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23138
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 12
+1) codigoProducto: A004204
+1) descripcionProducto: SCREEN 60" 105M TBC SSZ 8" CNTR W/10M BACKING PN 06025833
+1) montoBruto :87960
+1) precioUnitario: 6544.6429
+1) importeExento: 0
+1) importeNetoGravado: 87960
+1) importeTotalOperacion: 87960
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23138 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8277 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1333.8
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: N/D
+telefonoComprador: 2329-2600
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1333.8
+detalleImpuestosIva: 142.91
+tipoCambio: 1
+direccionComercialComprador: 5a. AVENIDA 5-55, ZONA 14 EUROPLAZA TORRE I NIVEL 6 606
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: MONTANA EXPLORADORA DE GUATEMALA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1190.89
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23139
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 3
+1) codigoProducto: A000551
+1) descripcionProducto: STEEL PUTTY 16ONZ.
+1) montoBruto :1333.8
+1) precioUnitario: 396.9643
+1) importeExento: 0
+1) importeNetoGravado: 1333.8
+1) importeTotalOperacion: 1333.8
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23139 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8278 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 887
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:57 PM
+observaciones: 
+telefonoComprador: 6634-1946
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 887
+detalleImpuestosIva: 95.04
+tipoCambio: 1
+direccionComercialComprador: 4A. AVENIDA 8-93, ZONA 9
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: OLMECA, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 791.96
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 0
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A004008
+1) descripcionProducto: OIL SLINGER para 6190 ratio 59
+1) montoBruto :690
+1) precioUnitario: 616.0714
+1) importeExento: 0
+1) importeNetoGravado: 690
+1) importeTotalOperacion: 690
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A001994
+2) descripcionProducto: SELLO RETENEDOR BAJA VELOCIDAD P/N 18 619- 620
+2) montoBruto :197
+2) precioUnitario: 175.8929
+2) importeExento: 0
+2) importeNetoGravado: 197
+2) importeTotalOperacion: 197
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23140 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8279 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1333.8
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:58 PM
+observaciones: 
+telefonoComprador: 2329-2600
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1333.8
+detalleImpuestosIva: 142.91
+tipoCambio: 1
+direccionComercialComprador: 5a. AVENIDA 5-55, ZONA 14 EUROPLAZA TORRE I NIVEL 6 606
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: MONTANA EXPLORADORA DE GUATEMALA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1190.89
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23141
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 3
+1) codigoProducto: A000551
+1) descripcionProducto: STEEL PUTTY 16ONZ.
+1) montoBruto :1333.8
+1) precioUnitario: 396.9643
+1) importeExento: 0
+1) importeNetoGravado: 1333.8
+1) importeTotalOperacion: 1333.8
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23141 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8280 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 2150
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:12:59 PM
+observaciones: L3653-AI
+telefonoComprador: 2429-8600
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 2150
+detalleImpuestosIva: 230.36
+tipoCambio: 1
+direccionComercialComprador: KM.18.5 CARRETERA SAN JOSE PINULA, ALDEA EL PAJON
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: EXPORTADORA MERCANTIL AGRO-INDUSTRIAL
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1919.64
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23142
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A004081
+1) descripcionProducto: ACOPLE UNIFLEX U75R LOVEJOY
+1) montoBruto :2150
+1) precioUnitario: 1919.6429
+1) importeExento: 0
+1) importeNetoGravado: 2150
+1) importeTotalOperacion: 2150
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23142 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8281 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 16548
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:00 PM
+observaciones: H3668-M
+telefonoComprador: 2329-2600
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 16548
+detalleImpuestosIva: 1773
+tipoCambio: 1
+direccionComercialComprador: 5a. AVENIDA 5-55, ZONA 14 EUROPLAZA TORRE I NIVEL 6 606
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: MONTANA EXPLORADORA DE GUATEMALA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 14775
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23143
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A002731
+1) descripcionProducto: BOMBA I09-F351002, POS 9207
+1) montoBruto :16548
+1) precioUnitario: 14775
+1) importeExento: 0
+1) importeNetoGravado: 16548
+1) importeTotalOperacion: 16548
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23143 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8282 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 12450
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:01 PM
+observaciones: IB3648-IM
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 12450
+detalleImpuestosIva: 1333.93
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 11116.07
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23144
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A004209
+1) descripcionProducto: FAJA 4/8V1600  Marca Gates
+1) montoBruto :12450
+1) precioUnitario: 5558.0357
+1) importeExento: 0
+1) importeNetoGravado: 12450
+1) importeTotalOperacion: 12450
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23144 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8283 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 24900
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:02 PM
+observaciones: CR3644-CU
+telefonoComprador: 2476-8084
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 24900
+detalleImpuestosIva: 2667.86
+tipoCambio: 1
+direccionComercialComprador: Av. Reforma 9-55 Z. 10 Edif. Reforma 10 6to. Nivel Oficina 610
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CHABIL UTZAJ, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 22232.14
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23145
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 5
+1) codigoProducto: A004229
+1) descripcionProducto: SURGE CHECK VALVE MODEL AC208271 ANDERSON
+1) montoBruto :12450
+1) precioUnitario: 2223.2143
+1) importeExento: 0
+1) importeNetoGravado: 12450
+1) importeTotalOperacion: 12450
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 5
+2) codigoProducto: A004229
+2) descripcionProducto: SURGE CHECK VALVE MODEL AC208271 ANDERSON
+2) montoBruto :12450
+2) precioUnitario: 2223.2143
+2) importeExento: 0
+2) importeNetoGravado: 12450
+2) importeTotalOperacion: 12450
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23145 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8284 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 12479.65
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:03 PM
+observaciones: T.C. 7.9025 X $1.00
+telefonoComprador: 2286-4100/02
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 12479.65
+detalleImpuestosIva: 1337.11
+tipoCambio: 1
+direccionComercialComprador: DIAGONAL 6 10-01 ZONA 10 CENTRO GERENCIAL LAS MARGARITAS
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CEMENTOS PROGRESO, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 11142.54
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23146
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A003803
+1) descripcionProducto: POLEA 4 SPC 371
+1) montoBruto :11606.05
+1) precioUnitario: 10362.5446
+1) importeExento: 0
+1) importeNetoGravado: 11606.05
+1) importeTotalOperacion: 11606.05
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A004246
+2) descripcionProducto: BUJE TAPER LOCK 3535 1-3/16 MARTIN
+2) montoBruto :873.6
+2) precioUnitario: 780
+2) importeExento: 0
+2) importeNetoGravado: 873.6
+2) importeTotalOperacion: 873.6
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23146 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8285 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1181.5
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:04 PM
+observaciones: M3672-IM
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1181.5
+detalleImpuestosIva: 126.59
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1054.91
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23147
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 5
+1) codigoProducto: A002319
+1) descripcionProducto: SPROCKET 60B18
+1) montoBruto :1181.5
+1) precioUnitario: 210.9821
+1) importeExento: 0
+1) importeNetoGravado: 1181.5
+1) importeTotalOperacion: 1181.5
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23147 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8286 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 602.56
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:05 PM
+observaciones: T.C. 7.9025 X $1.00
+telefonoComprador: 2286-4100/02
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 602.56
+detalleImpuestosIva: 64.56
+tipoCambio: 1
+direccionComercialComprador: DIAGONAL 6 10-01 ZONA 10 CENTRO GERENCIAL LAS MARGARITAS
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CEMENTOS PROGRESO, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 538
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23148
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000386
+1) descripcionProducto: QD BUSHING SH 1/2"  MARTIN
+1) montoBruto :175
+1) precioUnitario: 156.25
+1) importeExento: 0
+1) importeNetoGravado: 175
+1) importeTotalOperacion: 175
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A004237
+2) descripcionProducto: POLEA 2 3V 412 SH  MARCA MARTIN
+2) montoBruto :427.56
+2) precioUnitario: 381.75
+2) importeExento: 0
+2) importeNetoGravado: 427.56
+2) importeTotalOperacion: 427.56
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23148 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8287 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 467.5
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:06 PM
+observaciones: 
+telefonoComprador: 2476-2156
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 467.5
+detalleImpuestosIva: 50.09
+tipoCambio: 1
+direccionComercialComprador: AGUILAR BATRES 30-19, ZONA 12
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: PRODUCTOS Y SERVICIOS TECNICOS
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 417.41
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23149
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 50
+1) codigoProducto: A000767
+1) descripcionProducto: UNION 50-1 ACERO INOXIDABLE MAXTOP
+1) montoBruto :550
+1) precioUnitario: 9.8214
+1) importeExento: 0
+1) importeNetoGravado: 550
+1) importeTotalOperacion: 550
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23149 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8288 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1422.05
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:08 PM
+observaciones: 
+telefonoComprador: 2476-2156
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1422.05
+detalleImpuestosIva: 152.36
+tipoCambio: 1
+direccionComercialComprador: AGUILAR BATRES 30-19, ZONA 12
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: PRODUCTOS Y SERVICIOS TECNICOS
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1269.69
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 0
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A000367
+1) descripcionProducto: HUB 5018 MARTIN
+1) montoBruto :684
+1) precioUnitario: 305.3571
+1) importeExento: 0
+1) importeNetoGravado: 684
+1) importeTotalOperacion: 684
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A000343
+2) descripcionProducto: CUBIERTA 5018 MARTIN
+2) montoBruto :822
+2) precioUnitario: 733.9286
+2) importeExento: 0
+2) importeNetoGravado: 822
+2) importeTotalOperacion: 822
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+3) cantidad: 1
+3) codigoProducto: A000334
+3) descripcionProducto: CADENA PARA ACOPLE 5018
+3) montoBruto :167
+3) precioUnitario: 149.1071
+3) importeExento: 0
+3) importeNetoGravado: 167
+3) importeTotalOperacion: 167
+3) montoDescuento: 0
+3) unidadMedida: UND
+3) detalleImpuestosIva: 0
+3) tipoProducto: B
+3) importeOtrosImpuestos: 0
+Documento: A 23150 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8289 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 3320
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:09 PM
+observaciones: N/D
+telefonoComprador: 2476-7440
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 3320
+detalleImpuestosIva: 355.71
+tipoCambio: 1
+direccionComercialComprador: Km. 65 FINCA LOS CERRITOS LITORAL PACIFICO, ESCUINTLA
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: COMPA?IA CENTROAMERICANA DE PAPELES Y CARTONES
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 2964.29
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23151
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000416
+1) descripcionProducto: ELEMENTO WE20 TB WOODS
+1) montoBruto :1478
+1) precioUnitario: 1319.6429
+1) importeExento: 0
+1) importeNetoGravado: 1478
+1) importeTotalOperacion: 1478
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 2
+2) codigoProducto: A000425
+2) descripcionProducto: HUB WE20H TB WOODS
+2) montoBruto :1842
+2) precioUnitario: 822.3214
+2) importeExento: 0
+2) importeNetoGravado: 1842
+2) importeTotalOperacion: 1842
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23151 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8290 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 3643
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:10 PM
+observaciones: 
+telefonoComprador: 2277-5175
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 3643
+detalleImpuestosIva: 390.32
+tipoCambio: 1
+direccionComercialComprador: DIAGONAL 6, 10-31 ZONA 10
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CONCEPCION, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 3252.68
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23152
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A003016
+1) descripcionProducto: Polea 6 5V 1030 E
+1) montoBruto :2905
+1) precioUnitario: 2593.75
+1) importeExento: 0
+1) importeNetoGravado: 2905
+1) importeTotalOperacion: 2905
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 1
+2) codigoProducto: A002763
+2) descripcionProducto: QD BUSHING E 1"  MARTIN
+2) montoBruto :738
+2) precioUnitario: 658.9286
+2) importeExento: 0
+2) importeNetoGravado: 738
+2) importeTotalOperacion: 738
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23152 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8291 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1990
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: 
+telefonoComprador: 2277-5175
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1990
+detalleImpuestosIva: 213.21
+tipoCambio: 1
+direccionComercialComprador: DIAGONAL 6, 10-31 ZONA 10
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CONCEPCION, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1776.79
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23153
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A002935
+1) descripcionProducto: Retenedor de Baja 170x200x16 B NBR PARAMAX
+1) montoBruto :1340
+1) precioUnitario: 598.2143
+1) importeExento: 0
+1) importeNetoGravado: 1340
+1) importeTotalOperacion: 1340
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 2
+2) codigoProducto: A001967
+2) descripcionProducto: RETENEDOR 80X100X12 NITRILE
+2) montoBruto :650
+2) precioUnitario: 290.1786
+2) importeExento: 0
+2) importeNetoGravado: 650
+2) importeTotalOperacion: 650
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23153 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8292 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 9000
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: 
+telefonoComprador: 2277-5175
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 9000
+detalleImpuestosIva: 964.29
+tipoCambio: 1
+direccionComercialComprador: DIAGONAL 6, 10-31 ZONA 10
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: CONCEPCION, S. A.
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 8035.71
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23154
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 200
+1) codigoProducto: A004201
+1) descripcionProducto: Kilos SUPERFLOC C-492PWG
+1) montoBruto :9000
+1) precioUnitario: 40.1786
+1) importeExento: 0
+1) importeNetoGravado: 9000
+1) importeTotalOperacion: 9000
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23154 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8293 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 1726.35
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:13 PM
+observaciones: N/D
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 1726.35
+detalleImpuestosIva: 184.97
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 1541.38
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23155
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 1
+1) codigoProducto: A000350
+1) descripcionProducto: ELEMENTO FLEXIBLE E12 MARTIN
+1) montoBruto :1726.35
+1) precioUnitario: 1541.384
+1) importeExento: 0
+1) importeNetoGravado: 1726.35
+1) importeTotalOperacion: 1726.35
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23155 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8294 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 2289.9
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: 
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 2289.9
+detalleImpuestosIva: 245.35
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 2044.55
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23156
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 3
+1) codigoProducto: A000407
+1) descripcionProducto: ELEMENTO CON ESPACIADOR WES3 TB WOODS
+1) montoBruto :2289.9
+1) precioUnitario: 681.5178
+1) importeExento: 0
+1) importeNetoGravado: 2289.9
+1) importeTotalOperacion: 2289.9
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23156 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8295 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 46374
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: 
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 46374
+detalleImpuestosIva: 4968.64
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 41405.36
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23157
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 3
+1) codigoProducto: A002491
+1) descripcionProducto: SET TELA 0.06 x 2.11mm BMA 3300/30 SG100587
+1) montoBruto :46374
+1) precioUnitario: 13801.7857
+1) importeExento: 0
+1) importeNetoGravado: 46374
+1) importeTotalOperacion: 46374
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23157 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8296 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 7901.6
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:17 PM
+observaciones: N/D
+telefonoComprador: 2332-1192
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 7901.6
+detalleImpuestosIva: 846.6
+tipoCambio: 1
+direccionComercialComprador: DIAGONAL 6, 10-31 ZONA 10
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: PANTALEON
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 7055
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23158
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A000413
+1) descripcionProducto: ELEMENTO CON ESPACIADOR WES60 TB WOODS
+1) montoBruto :7901.6
+1) precioUnitario: 3527.5
+1) importeExento: 0
+1) importeNetoGravado: 7901.6
+1) importeTotalOperacion: 7901.6
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+Documento: A 23158 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8297 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ACTIVO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 8585
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/25/2016 12:13:17 PM
+observaciones: 
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 8585
+detalleImpuestosIva: 919.82
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 7665.18
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 23159
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 2
+1) codigoProducto: A000408
+1) descripcionProducto: ELEMENTO CON ESPACIADOR WES30 TB WOODS
+1) montoBruto :4501.6
+1) precioUnitario: 2009.6429
+1) importeExento: 0
+1) importeNetoGravado: 4501.6
+1) importeTotalOperacion: 4501.6
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 2
+2) codigoProducto: A000409
+2) descripcionProducto: ELEMENTO CON ESPACIADOR WES4 TB WOODS
+2) montoBruto :1762.9
+2) precioUnitario: 787.0089
+2) importeExento: 0
+2) importeNetoGravado: 1762.9
+2) importeTotalOperacion: 1762.9
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+3) cantidad: 2
+3) codigoProducto: A000411
+3) descripcionProducto: ELEMENTO CON ESPACIADOR WES5 TB WOODS
+3) montoBruto :2320.5
+3) precioUnitario: 1035.9375
+3) importeExento: 0
+3) importeNetoGravado: 2320.5
+3) importeTotalOperacion: 2320.5
+3) montoDescuento: 0
+3) unidadMedida: UND
+3) detalleImpuestosIva: 0
+3) tipoProducto: B
+3) importeOtrosImpuestos: 0
+Documento: A 23159 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.**************************************************************************************************************Obteniendo parametros del sistema
+Credenciales WS Usuario: adminClave: 88B5372650CE28295ED8670AB4FCB35D87969B627160EF3A6E701B6A74B280D6
+Conectando a base de datos
+Obteniendo informacion de encabezado y detalle del documento 8298 Tipo FAC
+idDispositivo: 001
+
+estadoDocumento: ANULADO
+codigoMoneda: GTQ
+tipoDocumento: CFACE
+serieDocumento: 38
+nitComprador: 00000000000
+nitVendedor: C/F
+serieAutorizada: A
+montoTotalOperacion: 43196
+fechaDocumento: 1/2/2013
+fechaAnulacion: 1/2/2013
+observaciones: 
+telefonoComprador: 2364-0850
+importeDescuento: 0
+importeTotalExento: 0
+importeNetoGravado: 43196
+detalleImpuestosIva: 4628.14
+tipoCambio: 1
+direccionComercialComprador: 22 AV. 11-00, ZONA 15, VISTA HERMOSA III
+serieAutorizada: A
+importeOtrosImpuestos: 0
+numeroResolucion: 778
+municipioComprador: Guatemala
+departamentoComprador: Guatemala
+nombreComercialComprador: INGENIO MAGDALENA
+nombreComercialRazonSocialVendedor: FITOPRUEBA
+nombreCompletoVendedor: FITOPRUEBA
+municipioVendedor: GUATEMALA
+departamentoVendedor: GUATEMALA
+direccionComercialVendedor: GUATEMALA
+fechaResolucion: 1/21/2015
+regimenISR: RET_DEFINITIVA
+importeBruto: 38567.86
+nitGFACE: 12521337
+codigoEstablecimiento: 001
+correoComprador: N/D
+descripcionOtroImpuesto: N/D
+numeroDocumento: 0
+personalizado_01: 
+personalizado_02: 
+personalizado_03: 
+personalizado_04: 
+personalizado_05: 
+personalizado_06: 
+personalizado_07: 
+personalizado_08: 
+personalizado_09: 
+personalizado_10: 
+personalizado_11: 
+personalizado_12: 
+personalizado_13: 
+personalizado_14: 
+personalizado_15: 
+personalizado_16: 
+personalizado_17: 
+personalizado_18: 
+personalizado_19: 
+personalizado_20: 
+1) cantidad: 20
+1) codigoProducto: A000574
+1) descripcionProducto: WEAR RESISTENT PUTTY 16ONZ.
+1) montoBruto :12280
+1) precioUnitario: 548.2143
+1) importeExento: 0
+1) importeNetoGravado: 12280
+1) importeTotalOperacion: 12280
+1) montoDescuento: 0
+1) unidadMedida: UND
+1) detalleImpuestosIva: 0
+1) tipoProducto: B
+1) importeOtrosImpuestos: 0
+2) cantidad: 2
+2) codigoProducto: A002491
+2) descripcionProducto: SET TELA 0.06 x 2.11mm BMA 3300/30 SG100587
+2) montoBruto :30916
+2) precioUnitario: 13801.7857
+2) importeExento: 0
+2) importeNetoGravado: 30916
+2) importeTotalOperacion: 30916
+2) montoDescuento: 0
+2) unidadMedida: UND
+2) detalleImpuestosIva: 0
+2) tipoProducto: B
+2) importeOtrosImpuestos: 0
+Documento: A 23160 Estado: Rechazado Motivo:"GFACE-000 Couldn't find Eface without an ID"
+Ocurrio un error: [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 't'.

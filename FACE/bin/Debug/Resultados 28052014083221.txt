@@ -1,0 +1,189 @@
+1) Documento: A 236 Estado: Rechazado Motivo:La Serie y Folio ya han sido Certificados Verifique en sus registros si, la asignaci?n no ha sido Certificado en otra oportunidad ****** Mensaje ******
+Duplicidad De DTE, Nit=000033479402 Establecimiento=1 Dispositivo=001 Serie=A Folio=15 Fecha Autorizaci?n=6/27/2013 12:00:00 AM N?mero Autorizaci?n=2013-5-20222-2482 Tipo de Documento=FACE63 (524288)
+
+Descripci?n: La Serie y Folio ya han sido Certificados
+Sugerencia:  Verifique en sus registros si, la asignaci?n no ha sido Certificado en otra oportunidad
+
+
+******  Informaci?n t?cnica. ******
+        DTEAssignmentIsUsed
+        DTE ya Certificado
+        3011
+        ASSIGNMENT_INVALID
+******  Detalles ******
+Procesador:  BACK-03
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsAssignmentUsedValid
+Fecha:       2014-05-28T08:34:04
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+2) Documento: A 237 Estado: Rechazado Motivo:La Serie y Folio ya han sido Certificados Verifique en sus registros si, la asignaci?n no ha sido Certificado en otra oportunidad ****** Mensaje ******
+Duplicidad De DTE, Nit=000033479402 Establecimiento=1 Dispositivo=001 Serie=A Folio=16 Fecha Autorizaci?n=6/27/2013 12:00:00 AM N?mero Autorizaci?n=2013-5-20222-2482 Tipo de Documento=FACE63 (524288)
+
+Descripci?n: La Serie y Folio ya han sido Certificados
+Sugerencia:  Verifique en sus registros si, la asignaci?n no ha sido Certificado en otra oportunidad
+
+
+******  Informaci?n t?cnica. ******
+        DTEAssignmentIsUsed
+        DTE ya Certificado
+        3011
+        ASSIGNMENT_INVALID
+******  Detalles ******
+Procesador:  BACK-02
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsAssignmentUsedValid
+Fecha:       2014-05-28T08:53:49
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+3) Documento: A 238 Estado: Rechazado Motivo:Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite. Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora. ****** Mensaje ******
+CheckTimeStampsGTFactUtil: Procesamiento DTE previos sin Autorizaci?n. (000033479402)
+
+Descripci?n: Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite.
+Sugerencia:  Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora.
+
+
+******  Informaci?n t?cnica. ******
+        DateTimeMetaphysical
+        FechaFueraDeLimite
+        3024
+        DATETIME_METAPHYSICAL
+******  Detalles ******
+Procesador:  BACK-02
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsUserAllowedValid
+Fecha:       2014-05-28T08:54:06
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+4) Documento: A 239 Estado: Rechazado Motivo:Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite. Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora. ****** Mensaje ******
+CheckTimeStampsGTFactUtil: Procesamiento DTE previos sin Autorizaci?n. (000033479402)
+
+Descripci?n: Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite.
+Sugerencia:  Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora.
+
+
+******  Informaci?n t?cnica. ******
+        DateTimeMetaphysical
+        FechaFueraDeLimite
+        3024
+        DATETIME_METAPHYSICAL
+******  Detalles ******
+Procesador:  BACK-03
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsUserAllowedValid
+Fecha:       2014-05-28T08:54:14
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+5) Documento: A 240 Estado: Rechazado Motivo:Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite. Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora. ****** Mensaje ******
+CheckTimeStampsGTFactUtil: Procesamiento DTE previos sin Autorizaci?n. (000033479402)
+
+Descripci?n: Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite.
+Sugerencia:  Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora.
+
+
+******  Informaci?n t?cnica. ******
+        DateTimeMetaphysical
+        FechaFueraDeLimite
+        3024
+        DATETIME_METAPHYSICAL
+******  Detalles ******
+Procesador:  BACK-03
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsUserAllowedValid
+Fecha:       2014-05-28T08:54:26
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+6) Documento: A 241 Estado: Rechazado Motivo:Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite. Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora. ****** Mensaje ******
+CheckTimeStampsGTFactUtil: Procesamiento DTE previos sin Autorizaci?n. (000033479402)
+
+Descripci?n: Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite.
+Sugerencia:  Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora.
+
+
+******  Informaci?n t?cnica. ******
+        DateTimeMetaphysical
+        FechaFueraDeLimite
+        3024
+        DATETIME_METAPHYSICAL
+******  Detalles ******
+Procesador:  BACK-03
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsUserAllowedValid
+Fecha:       2014-05-28T08:54:33
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+7) Documento: A 242 Estado: Rechazado Motivo:Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite. Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora. ****** Mensaje ******
+CheckTimeStampsGTFactUtil: Procesamiento DTE previos sin Autorizaci?n. (000033479402)
+
+Descripci?n: Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite.
+Sugerencia:  Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora.
+
+
+******  Informaci?n t?cnica. ******
+        DateTimeMetaphysical
+        FechaFueraDeLimite
+        3024
+        DATETIME_METAPHYSICAL
+******  Detalles ******
+Procesador:  BACK-02
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsUserAllowedValid
+Fecha:       2014-05-28T08:54:36
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+8) Documento: A 243 Estado: Rechazado Motivo:Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite. Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora. ****** Mensaje ******
+CheckTimeStampsGTFactUtil: Procesamiento DTE previos sin Autorizaci?n. (000033479402)
+
+Descripci?n: Se solicita una operaci?n con una fecha, hora, minuto y segundo fuera de un l?mite.
+Sugerencia:  Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora.
+
+
+******  Informaci?n t?cnica. ******
+        DateTimeMetaphysical
+        FechaFueraDeLimite
+        3024
+        DATETIME_METAPHYSICAL
+******  Detalles ******
+Procesador:  BACK-02
+M?dulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+M?todo:      CallIsUserAllowedValid
+Fecha:       2014-05-28T08:54:42
+******  Par?metros (Primeros 300 car?cteres como ASCII printable) ******
+******  Fin de detalles ******
+
+9) Documento: A 244 Estado: Rechazado Motivo:Se solicita una operación con una fecha, hora, minuto y segundo fuera de un límite. Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora. ****** Mensaje ******
+CheckTimeStampsGTFactUtil: Procesamiento DTE previos sin Autorización. (000033479402)
+
+Descripción: Se solicita una operación con una fecha, hora, minuto y segundo fuera de un límite.
+Sugerencia:  Por ejemplo: cancelar con una fecha anterior al emitir; o timbrar con una fecha futura al ahora.
+
+
+******  Información técnica. ******
+        DateTimeMetaphysical
+        FechaFueraDeLimite
+        3024
+        DATETIME_METAPHYSICAL
+******  Detalles ******
+Procesador:  BACK-02
+Módulo:      mx.com.fact.util.dll
+Clase:       Native_GT
+Método:      CallIsUserAllowedValid
+Fecha:       2014-05-28T08:55:55
+******  Parámetros (Primeros 300 carácteres como ASCII printable) ******
+******  Fin de detalles ******
+

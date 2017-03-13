@@ -1,0 +1,39 @@
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.exe.config
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.vbproj.ResolveComReference.cache
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.exe
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.XmlSerializers.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.pdb
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.xml
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\SESystem.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\SESystem.pdb
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\SESystem.xml
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\Interop.SAPbobsCOM.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\Interop.SAPbouiCOM.dll
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.License.resources
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.Resources.resources
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.exe
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.xml
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.pdb
+C:\Users\capac\Desktop\Proyectos SBO\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.XmlSerializers.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.exe.config
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\Interop.SQLDMO.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.vbproj.ResolveComReference.cache
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.exe
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.xml
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.pdb
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.XmlSerializers.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.exe
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.XmlSerializers.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.pdb
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\FACE.xml
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\Interop.SAPbobsCOM.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\Interop.SAPbouiCOM.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\bin\Release\Interop.SQLDMO.dll
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.License.resources
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.Resources.resources
+C:\Users\Josue\Documents\ITLIGENCIA\SAP\LLAMASA\Facturacion Electronica\Fuentes\FACE\FACE\obj\x86\Release\FACE.vbproj.GenerateResource.Cache

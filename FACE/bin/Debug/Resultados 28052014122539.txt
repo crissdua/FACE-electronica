@@ -1,0 +1,6 @@
+1). [Microsoft][SQL Server Native Client 10.0][SQL Server]Incorrect syntax near 'www'.
+2). [Microsoft][SQL Server Native Client 10.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 10.0][SQL Server]Incorrect syntax near 'www'.
+2). [Microsoft][SQL Server Native Client 10.0][SQL Server]Statement(s) could not be prepared.
+
