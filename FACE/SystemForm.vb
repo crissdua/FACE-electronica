@@ -196,7 +196,8 @@ Public Class SystemForm
 
             Dim RecSet As SAPbobsCOM.Recordset
             Dim sql As String = ""
-            sql = "delete  [@FACE_TIPODOC]"
+            'sql = "delete  [@FACE_TIPODOC]"
+            sql = ("CALL SP_FACE_QUERYS('2','','')")
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(sql)
 
@@ -304,50 +305,53 @@ Public Class SystemForm
                 Utils.AddDocumentType(oCompany, "74", "Factura Especial Electrónica", 1, "FACE-74")
             End If
 
-            sql = "select * from  [@FACE_PARAMETROS]"
+            'sql = "select * from  [@FACE_PARAMETROS]"
+            sql = ("CALL SP_FACE_QUERYS('5','','')")
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(sql)
             If RecSet.RecordCount = 0 Then
-                sql = "insert into [@FACE_PARAMETROS] values('ASS',0,-3,0,'ASS',null)"
+                sql = ("CALL SP_FACE_QUERYS('6','','')")
                 RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('CODE',1,-3,1,'CODE',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('DIE',2,-3,2,'DIE',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('DIRE',3,-3,3,'DIRE',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('EMAILF',4,-3,4,'EMAILF',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('IENT',5,-3,5,'IENT',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('IFACE',6,-3,6,'IFACE',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('IUSR',7,-3,7,'IUSR',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('IUSRN',8,-3,8,'IUSRN',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('NIT',9,-3,9,'NIT',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('NOMC',10,-3,10,'NOMC',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('NOME',11,-3,11,'NOME',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('OFFL',12,-3,12,'OFFL',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('PASSDB',0,-3,13,'PASSDB',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('PATHPDF',0,-3,14,'PATHPDF',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('PATHXML',0,-3,15,'PATHXML',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('PREFIX',0,-3,16,'PREFIX',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('PRINTB',0,-3,17,'PRINTB',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('URLWS',0,-3,18,'URLWS',null)"
-                RecSet.DoQuery(sql)
-                sql = "insert into [@FACE_PARAMETROS] values('USRDB',0,-3,19,'USRDB',null)"
-                RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('ASS',0,-3,0,'ASS',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('CODE',1,-3,1,'CODE',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('DIE',2,-3,2,'DIE',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('DIRE',3,-3,3,'DIRE',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('EMAILF',4,-3,4,'EMAILF',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('IENT',5,-3,5,'IENT',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('IFACE',6,-3,6,'IFACE',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('IUSR',7,-3,7,'IUSR',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('IUSRN',8,-3,8,'IUSRN',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('NIT',9,-3,9,'NIT',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('NOMC',10,-3,10,'NOMC',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('NOME',11,-3,11,'NOME',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('OFFL',12,-3,12,'OFFL',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('PASSDB',0,-3,13,'PASSDB',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('PATHPDF',0,-3,14,'PATHPDF',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('PATHXML',0,-3,15,'PATHXML',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('PREFIX',0,-3,16,'PREFIX',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('PRINTB',0,-3,17,'PRINTB',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('URLWS',0,-3,18,'URLWS',null)"
+                'RecSet.DoQuery(sql)
+                'sql = "insert into [@FACE_PARAMETROS] values('USRDB',0,-3,19,'USRDB',null)"
+                'RecSet.DoQuery(sql)
             End If
 
         Catch ex As Exception

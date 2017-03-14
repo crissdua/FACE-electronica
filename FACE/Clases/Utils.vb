@@ -461,17 +461,21 @@ Module Utils
 
         Try
             If Code2 <> "" Then
-                sql = "select * from [@FACE_TIPODOC] where U_codigo='" & Code & "' and code='" & Code2 & "'"
+                'sql = "select * from [@FACE_TIPODOC] where U_codigo='" & Code & "' and code='" & Code2 & "'"
+                sql = ("CALL SP_FACE_QUERYS('3','" & Code & "','" & Code2 & "')")
             Else
-                sql = "select * from [@FACE_TIPODOC] where U_codigo='" & Code & "'"
+                'sql = "select * from [@FACE_TIPODOC] where U_codigo='" & Code & "'"
+                sql = ("CALL SP_FACE_QUERYS('4','" & Code & "','')")
             End If
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(sql)
             If RecSet.RecordCount = 0 Then
                 If Code2 <> "" Then
-                    sql = "insert into [@FACE_TIPODOC] (code,lineid,u_codigo,u_descripcion) values('" & Code2 & "'," & LineID & ",'" & Code & "','" & Description & "')"
+                    'sql = "insert into [@FACE_TIPODOC] (code,lineid,u_codigo,u_descripcion) values('" & Code2 & "'," & LineID & ",'" & Code & "','" & Description & "')"
+                    sql = ("CALL SP_FACE_QUERYS_4P('1','" & Code2 & "','" & LineID & "','" & Code & "','" & Description & "')")
                 Else
-                    sql = "insert into [@FACE_TIPODOC] (code,lineid,u_codigo,u_descripcion) values('" & Code & "'," & LineID & ",'" & Code & "','" & Description & "')"
+                    'sql = "insert into [@FACE_TIPODOC] (code,lineid,u_codigo,u_descripcion) values('" & Code & "'," & LineID & ",'" & Code & "','" & Description & "')"
+                    sql = ("CALL SP_FACE_QUERYS_4P('1','" & Code & "','" & LineID & "','" & Code & "','" & Description & "')")
                 End If
                 RecSet.DoQuery(sql)
             End If
@@ -489,7 +493,8 @@ Module Utils
             If addSymbol Then
                 TableName = "@" & TableName
             End If
-            QryStr = "select TableID,FieldID,AliasID from CUFD WHERE TableID='" & TableName & "' and AliasID  ='" & FieldName & "'"
+            'QryStr = "select TableID,FieldID,AliasID from CUFD WHERE TableID='" & TableName & "' and AliasID  ='" & FieldName & "'"
+            QryStr = ("CALL SP_FACE_QUERYS( '1','" & TableName & "','" & FieldName & "')")
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(QryStr)
             If RecSet.RecordCount > 0 Then

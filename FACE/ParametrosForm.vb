@@ -651,7 +651,8 @@ Public Class ParametrosForm
             Next
 
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-            QryStr = "delete  [@FACE_RESOLUCION]"
+            'QryStr = "delete  [@FACE_RESOLUCION]"
+            QryStr = ("CALL SP_FACE_QUERYS('7','','')")
             RecSet.DoQuery(QryStr)
 
             For i = 0 To oGrid.Rows.Count - 1
@@ -682,8 +683,9 @@ Public Class ParametrosForm
                     'RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                     'RecSet.DoQuery(Sql)
                     'If RecSet.RecordCount = 0 Then
-                    Sql = "insert into [@FACE_RESOLUCION] (Code,LineId,Object,LogInst,U_SERIE,U_RESOLUCION,U_AUTORIZACION,U_FECHA_AUTORIZACION,U_FACTURA_DEL,U_FACTURA_AL,U_TIPO_DOC,U_ES_BATCH,U_SUCURSAL,U_DISPOSITIVO,U_NOMBRE_SUCURSAL,U_DIR_SUCURSAL,U_MUNI_SUCURSAL,U_DEPTO_SUCURSAL,U_USUARIO,U_CLAVE) " & _
-                          "values ('" & serie & "'," & serie & ",null,null,'" & serie & "','" & Resolucion & "','" & Autorizacion & "','" & FechaRes & "'," & Del & "," & Al & ",'" & TipoDoc & "'," & EsBatch & ",'" & Sucursal & "','" & Dispositivo & "','" & nomSucursal & "','" & DirSucursal & "','" & MuniSucursal & "','" & DeptoSucursal & "','" & Usuario & "','" & Clave & "')"
+                    'Sql = "insert into [@FACE_RESOLUCION] (Code,LineId,Object,LogInst,U_SERIE,U_RESOLUCION,U_AUTORIZACION,U_FECHA_AUTORIZACION,U_FACTURA_DEL,U_FACTURA_AL,U_TIPO_DOC,U_ES_BATCH,U_SUCURSAL,U_DISPOSITIVO,U_NOMBRE_SUCURSAL,U_DIR_SUCURSAL,U_MUNI_SUCURSAL,U_DEPTO_SUCURSAL,U_USUARIO,U_CLAVE) " & _
+                    '      "values ('" & serie & "'," & serie & ",null,null,'" & serie & "','" & Resolucion & "','" & Autorizacion & "','" & FechaRes & "'," & Del & "," & Al & ",'" & TipoDoc & "'," & EsBatch & ",'" & Sucursal & "','" & Dispositivo & "','" & nomSucursal & "','" & DirSucursal & "','" & MuniSucursal & "','" & DeptoSucursal & "','" & Usuario & "','" & Clave & "')"
+                    Sql = ("CALL SP_FACE_QUERYS_GUARDADATOSSERIE")
                     RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                     RecSet.DoQuery(Sql)
                     'Else
@@ -710,7 +712,8 @@ Public Class ParametrosForm
         Try
 
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-            QryStr = "Select * from [@FACE_PARAMETROS]"
+            ' QryStr = "Select * from [@FACE_PARAMETROS]"
+            QryStr = ("CALL SP_FACE_QUERYS('5','','')")
             RecSet.DoQuery(QryStr)
             RecCount = RecSet.RecordCount
             RecSet.MoveFirst()
@@ -797,18 +800,18 @@ Public Class ParametrosForm
 
         Try
 
-
-            QryStr = "select  a.Series,a.SeriesName," & _
-                     "Case objectcode WHEN 13 THEN CASE DocSubType WHEN 'DN' THEN 'Nota de Debito' ELSE 'Factura' END ELSE CASE objectcode WHEN 14 THEN 'Nota de Credito' ELSE 'Factura Proveedor' end End 'Tipo Serie'," & _
-                     "'Es documento electrónico' = Case isnull(b.U_SERIE, '100') WHEN '100' THEN '0' ELSE 'Y' End," & _
-                     "U_RESOLUCION Resolucion,U_AUTORIZACION Autorizacion,U_FECHA_AUTORIZACION Fecha, U_FACTURA_DEL 'De la Factura', U_FACTURA_AL 'A la factura',  " & _
-                     "b.U_TIPO_DOC 'Tipo Documento','Es batch' = Case isnull(b.U_ES_BATCH, '100') WHEN '100' THEN '0' ELSE 'Y' End ,b.U_SUCURSAL '# Sucursal',b.U_NOMBRE_SUCURSAL 'Nombre Sucursal', b.U_DISPOSITIVO '# Dispositivo',    " & _
-                     "b.U_DIR_SUCURSAL 'Direccion Sucursal',b.U_MUNI_SUCURSAL Municipio, b.U_DEPTO_SUCURSAL Departamento,b.U_USUARIO 'Usuario GFACE', b.U_CLAVE 'Clave GFACE' " & _
-                     "from NNM1 a left outer join [@FACE_RESOLUCION] b " & _
-                     "on  a.Series =b.U_SERIE " & _
-                     " where a.objectcode in ('13','14','18','2','4') " & _
-                     " order by a.objectcode,a.docsubtype "
-            '"where ObjectCode in(13,18) "
+            QryStr = ("CALL SP_FACE_LLENAGRID")
+            'QryStr = "select  a.Series,a.SeriesName," & _
+            '         "Case objectcode WHEN 13 THEN CASE DocSubType WHEN 'DN' THEN 'Nota de Debito' ELSE 'Factura' END ELSE CASE objectcode WHEN 14 THEN 'Nota de Credito' ELSE 'Factura Proveedor' end End 'Tipo Serie'," & _
+            '         "'Es documento electrónico' = Case isnull(b.U_SERIE, '100') WHEN '100' THEN '0' ELSE 'Y' End," & _
+            '         "U_RESOLUCION Resolucion,U_AUTORIZACION Autorizacion,U_FECHA_AUTORIZACION Fecha, U_FACTURA_DEL 'De la Factura', U_FACTURA_AL 'A la factura',  " & _
+            '         "b.U_TIPO_DOC 'Tipo Documento','Es batch' = Case isnull(b.U_ES_BATCH, '100') WHEN '100' THEN '0' ELSE 'Y' End ,b.U_SUCURSAL '# Sucursal',b.U_NOMBRE_SUCURSAL 'Nombre Sucursal', b.U_DISPOSITIVO '# Dispositivo',    " & _
+            '         "b.U_DIR_SUCURSAL 'Direccion Sucursal',b.U_MUNI_SUCURSAL Municipio, b.U_DEPTO_SUCURSAL Departamento,b.U_USUARIO 'Usuario GFACE', b.U_CLAVE 'Clave GFACE' " & _
+            '         "from NNM1 a left outer join [@FACE_RESOLUCION] b " & _
+            '         "on  a.Series =b.U_SERIE " & _
+            '         " where a.objectcode in ('13','14','18','2','4') " & _
+            '         " order by a.objectcode,a.docsubtype "
+            ''"where ObjectCode in(13,18) "
             oForm.DataSources.DataTables.Add("MyDataTable")
 
             oForm.DataSources.DataTables.Item(0).ExecuteQuery(QryStr)
@@ -838,12 +841,13 @@ Public Class ParametrosForm
             Dim oGridColumn As SAPbouiCOM.ComboBoxColumn = oGrid.Columns.Item(9)
             Dim RecSet As SAPbobsCOM.Recordset
             Dim Sql As String
-            Sql = "select u_codigo,u_descripcion from [@FACE_TIPODOC]"
+            'Sql = "select u_codigo,u_descripcion from [@FACE_TIPODOC]"
+            Sql = ("CALL SP_FACE_QUERYS('8','','')")
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(Sql)
             oGridColumn.DisplayType = SAPbouiCOM.BoComboDisplayType.cdt_Description
             For index = 0 To RecSet.RecordCount - 1
-                oGridColumn.ValidValues.Add(RecSet.Fields.Item("u_codigo").Value, RecSet.Fields.Item("u_descripcion").Value)
+                oGridColumn.ValidValues.Add(RecSet.Fields.Item("U_CODIGO").Value, RecSet.Fields.Item("U_DESCRIPCION").Value)
                 RecSet.MoveNext()
             Next
         Catch ex As Exception

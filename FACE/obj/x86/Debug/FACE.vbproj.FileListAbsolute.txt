@@ -189,14 +189,14 @@ C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.v
 C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.exe
 C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.xml
 C:\Users\DANNY\Documents\Instaladores\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.exe.config
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.exe
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.xml
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.exe
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.pdb
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\bin\Debug\FACE.xml
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.vbprojResolveAssemblyReference.cache
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
-C:\Users\criss\Desktop\FACE electronica\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe.config
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.exe
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.xml
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
+C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe
+C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\FACE.pdb
+C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\FACE.xml
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbprojResolveAssemblyReference.cache
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
