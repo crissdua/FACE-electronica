@@ -343,7 +343,7 @@ Public Class BatchForm
                         '           "on b.Series=c.Series " & _
                         '           "where a.U_SERIE = " & mySerie.Value & " And b.DocEntry = " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(1).Name, i)
                         'End If
-                        sql = "EXEC SPFACE_DATOSDOC " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(1).Name, i)
+                        sql = "CALL SPFACE_DATOSDOC ( " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(1).Name, i) & ")"
                         RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                         RecSet.DoQuery(sql)
                         myLog = "Registros Obtenidos " & RecSet.RecordCount & vbNewLine
@@ -362,7 +362,7 @@ Public Class BatchForm
                             Serie = RecSet.Fields.Item("Series").Value
                             Doc = RecSet.Fields.Item("DocNum").Value
                             SerieName = RecSet.Fields.Item("SeriesName").Value
-                            docEntry = RecSet.Fields.Item("docentry").Value
+                            docEntry = RecSet.Fields.Item("DocEntry").Value
                             myLog += "Enviando documento " & docEntry & vbNewLine
                             If TipoGFACE <> TipoFACE.GuateFacturas Then
                                 Utils.EnviaDocumento(oCompany, SBO_Application, Tipo, Serie, Doc, SerieName, Utils.Pais, docEntry, True, i + 1, myLog)
@@ -463,34 +463,36 @@ Public Class BatchForm
         Try
 
             If Utils.Empresa = EmpresaFACE.LLAMASA Or Utils.Empresa = EmpresaFACE.QUALIPHARM Or Utils.Empresa = EmpresaFACE.FFACSA Or Utils.Empresa = EmpresaFACE.PRINTER Then
-                sql = "EXEC SP_INT_LISTADOBATCH " & Serie & ",'" & del & "','" & al & "'"
+                sql = "CALL SP_INT_LISTADOBATCH('" & Serie & "','" & del & "','" & al & "')"
             Else
-                sql = "select Estado=case isnull(a.U_ESTADO_FACE,'P') when 'P' then 'Pendiente' when 'R' then 'Rechazado' when 'A' then 'Autorizado' end ,a.docentry 'Correlativo','Tipo Documento'= case a.DocSubType when '--' then 'Factura' when 'DN' then 'Nota Debito' End , " & _
-                      "DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento' " & _
-                      "from oinv a " & _
-                      "inner join NNM1 b " & _
-                      "on a.Series = b.Series "
+                'sql = "select Estado=case isnull(a.U_ESTADO_FACE,'P') when 'P' then 'Pendiente' when 'R' then 'Rechazado' when 'A' then 'Autorizado' end ,a.docentry 'Correlativo','Tipo Documento'= case a.DocSubType when '--' then 'Factura' when 'DN' then 'Nota Debito' End , " & _
+                '      "DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento' " & _
+                '      "from oinv a " & _
+                '      "inner join NNM1 b " & _
+                '      "on a.Series = b.Series "
                 If incluirRechazadas Then
-                    sql += "where isnull(U_ESTADO_FACE,'P') in ('P','R') "
+                    ' sql += "where isnull(U_ESTADO_FACE,'P') in ('P','R') "
+                    sql = ("CALL SP_FACE_QUERYS_4P('2','" & del & "','" & al & "','" & Serie & "','')")
                 Else
-                    sql += "where isnull(U_ESTADO_FACE,'P')='P' "
+                    'sql += "where isnull(U_ESTADO_FACE,'P')='P' "
+                    sql = ("CALL SP_FACE_QUERYS_4P('3','" & del & "','" & al & "','" & Serie & "','')")
                 End If
-                sql += " and a.docdate between '" & del & "' and '" & al & "'"
-                sql += "and   b.Series = " & Serie & _
-                      " union " & _
-                      "select Estado=case isnull(a.U_ESTADO_FACE,'P') when 'P' then 'Pendiente' when 'R' then 'Rechazado' when 'A' then 'Autorizado' end ,a.docentry 'Correlativo','Nota Credito' 'Tipo Documento',  " & _
-                      "DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento'  " & _
-                      "from ORIN  a " & _
-                      "inner join NNM1 b " & _
-                      "on a.Series = b.Series  "
-                If incluirRechazadas Then
-                    sql += "where isnull(U_ESTADO_FACE,'P') in ('P','R') "
-                Else
-                    sql += "where isnull(U_ESTADO_FACE,'P')='P' "
-                End If
-                sql += " and a.docdate between '" & del & "' and '" & al & "'"
-                sql += "and   b.Series =" & Serie & _
-                      " order by Correlativo desc"
+                'sql += " and a.docdate between '" & del & "' and '" & al & "'"
+                'sql += "and   b.Series = " & Serie & _
+                '      " union " & _
+                '      "select Estado=case isnull(a.U_ESTADO_FACE,'P') when 'P' then 'Pendiente' when 'R' then 'Rechazado' when 'A' then 'Autorizado' end ,a.docentry 'Correlativo','Nota Credito' 'Tipo Documento',  " & _
+                '      "DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento'  " & _
+                '      "from ORIN  a " & _
+                '      "inner join NNM1 b " & _
+                '      "on a.Series = b.Series  "
+                'If incluirRechazadas Then
+                '    sql += "where isnull(U_ESTADO_FACE,'P') in ('P','R') "
+                'Else
+                '    sql += "where isnull(U_ESTADO_FACE,'P')='P' "
+                'End If
+                'sql += " and a.docdate between '" & del & "' and '" & al & "'"
+                'sql += "and   b.Series =" & Serie & _
+                '      " order by Correlativo desc"
             End If
             cmdEnviar = oForm.Items.Item("cmdEnviar")
             cmdEnviar.Enabled = False
@@ -538,29 +540,7 @@ Public Class BatchForm
         Dim sUser = oCompany.UserSignature
         Try
 
-            sql += "select "
-            sql += "0 Series, "
-            sql += "'Todos' SeriesName  "
-            sql += "union "
-            sql += "select "
-            sql += "a.Series, "
-            sql += "a.SeriesName+' ('+ "
-            sql += "Case OBJECTCODE WHEN 13 THEN   "
-            sql += "'Factura' "
-            sql += "WHEN 14  THEN   "
-            sql += "'Nota Credito'  "
-            sql += "WHEN 18 THEN "
-            sql += "'Factura Proveedor'"
-            sql += "WHEN 4 THEN  "
-            sql += "'Manual' "
-            sql += "WHEN 2 THEN"
-            sql += "'Manual' "
-            sql += "ELSE  "
-            sql += "'Nota Debito'  END+')' SeriesName  "
-            sql += "from NNM1 a   "
-            sql += "inner join [@FACE_RESOLUCION] b   "
-            sql += "on a.Series=b.U_SERIE   "
-            sql += "where isnull(b.U_ES_BATCH,'N')='Y' "
+            sql += ("CALL SP_FACE_QUERYS('9','',''")
 
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(sql)

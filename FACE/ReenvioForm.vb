@@ -304,31 +304,34 @@ Public Class ReenvioForm
                     If oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(0).Name, i) = "Y" Then
                         If oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(3).Name, i) = "Factura" Then
                             Tipo = "FAC"
-                            sql = "select U_TIPO_DOC Tipo,b.Series,b.DocNum,c.SeriesName,b.docentry  " & _
-                                  "from [@FACE_RESOLUCION] a " & _
-                                  "inner join OINV b " & _
-                                  "on a.U_SERIE = b.Series " & _
-                                  "inner join NNM1 c " & _
-                                  "on b.Series=c.Series " & _
-                                  "where a.U_SERIE =b.series And b.DocEntry = " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i)
+                            'sql = "select U_TIPO_DOC Tipo,b.Series,b.DocNum,c.SeriesName,b.docentry  " & _
+                            '      "from [@FACE_RESOLUCION] a " & _
+                            '      "inner join OINV b " & _
+                            '      "on a.U_SERIE = b.Series " & _
+                            '      "inner join NNM1 c " & _
+                            '      "on b.Series=c.Series " & _
+                            '      "where a.U_SERIE =b.series And b.DocEntry = " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i)
+                            sql = ("CALL SP_FACE_QUERYS('15','" & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i) & "','')")
                         ElseIf oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(3).Name, i) = "Nota debito" Then
                             Tipo = "ND"
-                            sql = "select U_TIPO_DOC Tipo,b.Series,b.DocNum,c.SeriesName,b.docentry  " & _
-                                  "from [@FACE_RESOLUCION] a " & _
-                                  "inner join OINV b " & _
-                                  "on a.U_SERIE = b.Series " & _
-                                  "inner join NNM1 c " & _
-                                  "on b.Series=c.Series " & _
-                                  "where a.U_SERIE =b.series And b.DocEntry = " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i)
+                            'sql = "select U_TIPO_DOC Tipo,b.Series,b.DocNum,c.SeriesName,b.docentry  " & _
+                            '      "from [@FACE_RESOLUCION] a " & _
+                            '      "inner join OINV b " & _
+                            '      "on a.U_SERIE = b.Series " & _
+                            '      "inner join NNM1 c " & _
+                            '      "on b.Series=c.Series " & _
+                            '      "where a.U_SERIE =b.series And b.DocEntry = " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i)
+                            sql = ("CALL SP_FACE_QUERYS('15','" & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i) & "','')")
                         Else
                             Tipo = "NC"
-                            sql = "select U_TIPO_DOC Tipo,b.Series,b.DocNum,c.SeriesName,b.docentry  " & _
-                                  "from [@FACE_RESOLUCION] a " & _
-                                  "inner join ORIN b " & _
-                                  "on a.U_SERIE = b.Series " & _
-                                  "inner join NNM1 c " & _
-                                  "on b.Series=c.Series " & _
-                                  "where a.U_SERIE =b.series And b.DocEntry = " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i)
+                            'sql = "select U_TIPO_DOC Tipo,b.Series,b.DocNum,c.SeriesName,b.docentry  " & _
+                            '      "from [@FACE_RESOLUCION] a " & _
+                            '      "inner join ORIN b " & _
+                            '      "on a.U_SERIE = b.Series " & _
+                            '      "inner join NNM1 c " & _
+                            '      "on b.Series=c.Series " & _
+                            '      "where a.U_SERIE =b.series And b.DocEntry = " & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i)
+                            sql = ("CALL SP_FACE_QUERYS('15','" & oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i) & "','')")
                         End If
                         RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                         RecSet.DoQuery(sql)

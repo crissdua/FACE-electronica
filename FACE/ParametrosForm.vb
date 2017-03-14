@@ -884,7 +884,8 @@ Public Class ParametrosForm
         Dim QryStr As String
         Try
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-            QryStr = "select * from [@FACE_PARAMETROS] where U_PARAMETRO='" & IDParametro & "'"
+            'QryStr = "select * from [@FACE_PARAMETROS] where U_PARAMETRO='" & IDParametro & "'"
+            QryStr = ("CALL SP_FACE_QUERYS('10','" & IDParametro & "',''")
             RecSet.DoQuery(QryStr)
             If RecSet.RecordCount > 0 Then
                 result = True
@@ -914,7 +915,8 @@ Public Class ParametrosForm
                 End If
             Else
                 RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-                QryStr = "update [@FACE_PARAMETROS] set U_VALOR='" & ValorParmetro & "' where U_PARAMETRO='" & IDParametro & "'"
+                'QryStr = "update [@FACE_PARAMETROS] set U_VALOR='" & ValorParmetro & "' where U_PARAMETRO='" & IDParametro & "'"
+                QryStr = ("CALL SP_FACE_QUERYS('11','" & ValorParmetro & "','" & IDParametro & "'")
                 RecSet.DoQuery(QryStr)
                 System.Runtime.InteropServices.Marshal.ReleaseComObject(RecSet)
                 RecSet = Nothing

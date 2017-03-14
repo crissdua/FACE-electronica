@@ -283,11 +283,14 @@ Public Class ConsultaForm
                     Serie = oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(0).Name, i)
                     Doc = oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i)
                     If Tipo = "F" Then
-                        sql = "select U_FACE_PDFFILE  from OINV WHERE SERIES='" & Serie & "' aND   DocNum ='" & Doc & "' AND DocSubType ='--'"
+                        'sql = "select U_FACE_PDFFILE  from OINV WHERE SERIES='" & Serie & "' aND   DocNum ='" & Doc & "' AND DocSubType ='--'"
+                        sql = ("CALL SP_FACE_QUERYS('12','" & Serie & "','" & Doc & "')")
                     ElseIf Tipo = "N" Then
-                        sql = "select U_FACE_PDFFILE  from OINV WHERE SERIES='" & Serie & "' aND   DocNum ='" & Doc & "' AND DocSubType ='DN'"
+                        'sql = "select U_FACE_PDFFILE  from OINV WHERE SERIES='" & Serie & "' aND   DocNum ='" & Doc & "' AND DocSubType ='DN'"
+                        sql = ("CALL SP_FACE_QUERYS('13','" & Serie & "','" & Doc & "')")
                     Else
-                        sql = "select U_FACE_PDFFILE  from ORIN WHERE SERIES='" & Serie & "' aND   DocNum ='" & Doc & "'"
+                        'sql = "select U_FACE_PDFFILE  from ORIN WHERE SERIES='" & Serie & "' aND   DocNum ='" & Doc & "'"
+                        sql = ("CALL SP_FACE_QUERYS('14','" & Serie & "','" & Doc & "')")
                     End If
                     RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                     RecSet.DoQuery(sql)
@@ -331,9 +334,11 @@ Public Class ConsultaForm
                     Serie = oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(0).Name, i)
                     Doc = oGrid.DataTable.GetValue(oGrid.DataTable.Columns.Item(2).Name, i)
                     If cmbTipo.Value = "Facturas" Or cmbTipo.Value = "Notas de débito" Then
-                        sql = "select U_MOTIVO_RECHAZO  from OINV  where Series=" & Serie & " and DocNum ='" & Doc & "' and DocSubType ='" & Tipo & "'"
+                        'sql = "select U_MOTIVO_RECHAZO  from OINV  where Series=" & Serie & " and DocNum ='" & Doc & "' and DocSubType ='" & Tipo & "'"
+                        sql = ("CALL SP_FACE_QUERYS_4P('4','" & Serie & "','" & Doc & "','" & Tipo & "','')")
                     Else
-                        sql = "select U_MOTIVO_RECHAZO  from ORIN  where Series=" & Serie & " and DocNum ='" & Doc & "'"
+                        'sql = "select U_MOTIVO_RECHAZO  from ORIN  where Series=" & Serie & " and DocNum ='" & Doc & "'"
+                        sql = ("CALL SP_FACE_QUERYS_4P('5','" & Serie & "','" & Doc & "','','')")
                     End If
                     RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                     RecSet.DoQuery(sql)
@@ -417,24 +422,25 @@ Public Class ConsultaForm
                 Else
                     docType = "DN"
                 End If
-                sql = "select a.Series 'Codigo Serie',SeriesName  'Serie Documento', DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento' " & _
-                      "from oinv a " & _
-                      "inner join NNM1 b " & _
-                      "on a.Series = b.Series " & _
-                      "where U_ESTADO_FACE='" & estatus & "' " & _
-                      "AND a.DocSubType ='" & docType & "'" & _
-                      " and a.docdate between '" & del.Value & "' and '" & Al.Value & "'" & _
-                      " order by a.docdate desc "
-
+                'sql = "select a.Series 'Codigo Serie',SeriesName  'Serie Documento', DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento' " & _
+                '      "from oinv a " & _
+                '      "inner join NNM1 b " & _
+                '      "on a.Series = b.Series " & _
+                '      "where U_ESTADO_FACE='" & estatus & "' " & _
+                '      "AND a.DocSubType ='" & docType & "'" & _
+                '      " and a.docdate between '" & del.Value & "' and '" & Al.Value & "'" & _
+                '      " order by a.docdate desc "
+                sql = ("CALL SP_FACE_QUERYS_4P('6','" & estatus & "','" & docType & "','" & del.Value & "','" & Al.Value & "'")
             Else
-                sql = "select a.Series 'Codigo Serie',SeriesName 'Serie Documento', DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento',CardName 'Cliente',convert(numeric(18,2),DocTotal,1) 'Total Documento' " & _
-                      "from orin a " & _
-                      "inner join NNM1 b " & _
-                      "on a.Series = b.Series " & _
-                      "where U_ESTADO_FACE='" & estatus & "'" & _
-                      " AND a.DocSubType ='--'" & _
-                      " and a.docdate between '" & del.Value & "' and '" & Al.Value & "'" & _
-                      " order by a.docdate desc "
+                'sql = "select a.Series 'Codigo Serie',SeriesName 'Serie Documento', DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento',CardName 'Cliente',convert(numeric(18,2),DocTotal,1) 'Total Documento' " & _
+                '      "from orin a " & _
+                '      "inner join NNM1 b " & _
+                '      "on a.Series = b.Series " & _
+                '      "where U_ESTADO_FACE='" & estatus & "'" & _
+                '      " AND a.DocSubType ='--'" & _
+                '      " and a.docdate between '" & del.Value & "' and '" & Al.Value & "'" & _
+                '      " order by a.docdate desc "
+                sql = ("CALL SP_FACE_QUERYS_4P('6','" & estatus & "','','" & del.Value & "','" & Al.Value & "'")
             End If
 
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
