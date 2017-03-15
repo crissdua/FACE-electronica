@@ -157,7 +157,8 @@
             If addSymbol Then
                 TableName = "@" & TableName
             End If
-            QryStr = "select TableID,FieldID,AliasID from CUFD WHERE TableID='" & TableName & "' and AliasID  ='" & FieldName & "'"
+            QryStr = ("CALL SP_FACE_QUERYS('18','" & TableName & "','" & FieldName & "')")
+            'QryStr = "select TableID,FieldID,AliasID from CUFD WHERE TableID='" & TableName & "' and AliasID  ='" & FieldName & "'"
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(QryStr)
             If RecSet.RecordCount > 0 Then

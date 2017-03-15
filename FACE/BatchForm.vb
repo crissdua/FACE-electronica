@@ -540,7 +540,7 @@ Public Class BatchForm
         Dim sUser = oCompany.UserSignature
         Try
 
-            sql += ("CALL SP_FACE_QUERYS('9','',''")
+            sql += ("CALL SP_FACE_QUERYS('9','','')")
 
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(sql)

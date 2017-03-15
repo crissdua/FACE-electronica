@@ -685,7 +685,7 @@ Public Class ParametrosForm
                     'If RecSet.RecordCount = 0 Then
                     'Sql = "insert into [@FACE_RESOLUCION] (Code,LineId,Object,LogInst,U_SERIE,U_RESOLUCION,U_AUTORIZACION,U_FECHA_AUTORIZACION,U_FACTURA_DEL,U_FACTURA_AL,U_TIPO_DOC,U_ES_BATCH,U_SUCURSAL,U_DISPOSITIVO,U_NOMBRE_SUCURSAL,U_DIR_SUCURSAL,U_MUNI_SUCURSAL,U_DEPTO_SUCURSAL,U_USUARIO,U_CLAVE) " & _
                     '      "values ('" & serie & "'," & serie & ",null,null,'" & serie & "','" & Resolucion & "','" & Autorizacion & "','" & FechaRes & "'," & Del & "," & Al & ",'" & TipoDoc & "'," & EsBatch & ",'" & Sucursal & "','" & Dispositivo & "','" & nomSucursal & "','" & DirSucursal & "','" & MuniSucursal & "','" & DeptoSucursal & "','" & Usuario & "','" & Clave & "')"
-                    Sql = ("CALL SP_FACE_QUERYS_GUARDADATOSSERIE")
+                    Sql = ("CALL SP_FACE_QUERYS_GUARDADATOSSERIE('" & serie & "','" & Resolucion & "','" & Autorizacion & "','" & FechaRes & "'," & Del & "," & Al & ",'" & TipoDoc & "'," & EsBatch & ",'" & Sucursal & "','" & Dispositivo & "','" & nomSucursal & "','" & DirSucursal & "','" & MuniSucursal & "','" & DeptoSucursal & "','" & Usuario & "','" & Clave & "')")
                     RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                     RecSet.DoQuery(Sql)
                     'Else
@@ -885,7 +885,7 @@ Public Class ParametrosForm
         Try
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             'QryStr = "select * from [@FACE_PARAMETROS] where U_PARAMETRO='" & IDParametro & "'"
-            QryStr = ("CALL SP_FACE_QUERYS('10','" & IDParametro & "',''")
+            QryStr = ("CALL SP_FACE_QUERYS('10','" & IDParametro & "','')")
             RecSet.DoQuery(QryStr)
             If RecSet.RecordCount > 0 Then
                 result = True
@@ -916,7 +916,7 @@ Public Class ParametrosForm
             Else
                 RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                 'QryStr = "update [@FACE_PARAMETROS] set U_VALOR='" & ValorParmetro & "' where U_PARAMETRO='" & IDParametro & "'"
-                QryStr = ("CALL SP_FACE_QUERYS('11','" & ValorParmetro & "','" & IDParametro & "'")
+                QryStr = ("CALL SP_FACE_QUERYS('11','" & ValorParmetro & "','" & IDParametro & "')")
                 RecSet.DoQuery(QryStr)
                 System.Runtime.InteropServices.Marshal.ReleaseComObject(RecSet)
                 RecSet = Nothing

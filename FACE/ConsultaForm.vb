@@ -430,7 +430,7 @@ Public Class ConsultaForm
                 '      "AND a.DocSubType ='" & docType & "'" & _
                 '      " and a.docdate between '" & del.Value & "' and '" & Al.Value & "'" & _
                 '      " order by a.docdate desc "
-                sql = ("CALL SP_FACE_QUERYS_4P('6','" & estatus & "','" & docType & "','" & del.Value & "','" & Al.Value & "'")
+                sql = ("CALL SP_FACE_QUERYS_4P('6','" & estatus & "','" & docType & "','" & del.Value & "','" & Al.Value & "')")
             Else
                 'sql = "select a.Series 'Codigo Serie',SeriesName 'Serie Documento', DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento',CardName 'Cliente',convert(numeric(18,2),DocTotal,1) 'Total Documento' " & _
                 '      "from orin a " & _
@@ -440,7 +440,7 @@ Public Class ConsultaForm
                 '      " AND a.DocSubType ='--'" & _
                 '      " and a.docdate between '" & del.Value & "' and '" & Al.Value & "'" & _
                 '      " order by a.docdate desc "
-                sql = ("CALL SP_FACE_QUERYS_4P('6','" & estatus & "','','" & del.Value & "','" & Al.Value & "'")
+                sql = ("CALL SP_FACE_QUERYS_4P('6','" & estatus & "','','" & del.Value & "','" & Al.Value & "')")
             End If
 
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)

@@ -382,21 +382,27 @@ Public Class ReenvioForm
             Del = oForm.Items.Item("txtDel").Specific
             Al = oForm.Items.Item("txtAl").Specific
 
-            sql = "select 'Y' Seleccionar,a.u_motivo_rechazo 'Descripcion Rechazó',a.docentry 'Correlativo','Tipo Documento'= case a.DocSubType when '--' then 'Factura' when 'DN' then 'Nota Debito' End ,SeriesName  'Serie Documento', " & _
-                  "DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento'  " & _
-                  "from oinv a  " & _
-                  "inner join NNM1 b  " & _
-                  "on a.Series = b.Series " & _
-                  "where U_ESTADO_FACE='R' "
-            If Del.Value <> "" And Al.Value <> "" Then sql += " and DocDate between '" & Del.Value & "' and '" & Al.Value & "' "
-            sql += "union " & _
-                  "select 'Y' Seleccionar,a.u_motivo_rechazo 'Descripcion Rechazó',a.docentry 'Correlativo','Nota Credito',SeriesName  'Serie Documento', DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento'  " & _
-                  "from ORIN  a " & _
-                  "inner join NNM1 b  " & _
-                  "on a.Series = b.Series " & _
-                  "where U_ESTADO_FACE='R' "
-            If Del.Value <> "" And Al.Value <> "" Then sql += " and DocDate between '" & Del.Value & "' and '" & Al.Value & "' "
-            sql += "order by a.docentry desc"
+            sql = ("CALL SP_FACE_QUERYS('16','','')")
+            'sql = "select 'Y' Seleccionar,a.u_motivo_rechazo 'Descripcion Rechazó',a.docentry 'Correlativo','Tipo Documento'= case a.DocSubType when '--' then 'Factura' when 'DN' then 'Nota Debito' End ,SeriesName  'Serie Documento', " & _
+            '      "DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento'  " & _
+            '      "from oinv a  " & _
+            '      "inner join NNM1 b  " & _
+            '      "on a.Series = b.Series " & _
+            '      "where U_ESTADO_FACE='R' "
+            If Del.Value <> "" And Al.Value <> "" Then
+                'sql += " and DocDate between '" & Del.Value & "' and '" & Al.Value & "' "
+                sql = ("CALL SP_FACE_QUERYS('17','" & Del.Value & "','" & Al.Value & "')")
+            End If
+            'sql += "union " & _
+            '      "select 'Y' Seleccionar,a.u_motivo_rechazo 'Descripcion Rechazó',a.docentry 'Correlativo','Nota Credito',SeriesName  'Serie Documento', DocNum 'No. Documento',convert(char(10),DocDate,103)  'Fecha Documento' ,CardName  'Cliente',convert(numeric(18,2),DocTotal,1)  'Total Documento'  " & _
+            '      "from ORIN  a " & _
+            '      "inner join NNM1 b  " & _
+            '      "on a.Series = b.Series " & _
+            '      "where U_ESTADO_FACE='R' "
+            'If Del.Value <> "" And Al.Value <> "" Then
+            '    sql += " and DocDate between '" & Del.Value & "' and '" & Al.Value & "' "
+            'End If
+            'sql += "order by a.docentry desc"
 
             RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(sql)
