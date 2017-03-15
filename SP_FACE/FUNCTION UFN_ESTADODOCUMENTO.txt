@@ -1,0 +1,26 @@
+CREATE FUNCTION UFN_ESTADODOCUMENTO (IN DocEntry INT) 
+RETURNS Result char(1)
+LANGUAGE SQLSCRIPT 
+AS 
+DocEntryNC int;
+SerieNC int;
+BEGIN 
+
+select distinct ifnull("TrgetEntry",0) INTO DocEntryNC
+	from INV1
+	where "DocEntry" = :DocEntry and ifnull("TrgetEntry",0) <>0;
+	
+
+	SELECT B."Series" INTO SerieNC
+	FROM NNM1 A
+	INNER JOIN ORIN B
+	ON A."Series" = B."Series" 
+	WHERE "DocEntry" =:DocEntryNC;
+
+	IF :SerieNC=3 OR :SerieNC=418 then
+		Result :='A';
+	ELSE
+		Result :='V';
+	END IF;
+--    SELECT sso_obtieneserieCV('1010101') from dummy
+END;
