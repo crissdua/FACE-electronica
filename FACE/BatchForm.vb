@@ -570,4 +570,7 @@ Public Class BatchForm
         Return conteiner
     End Function
 
+    Protected Overrides Sub Finalize()
+        MyBase.Finalize()
+    End Sub
 End Class

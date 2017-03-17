@@ -1,0 +1,44 @@
+CREATE PROCEDURE [dbo].[SPFACE_DATOSDOC]
+@DOCENETRY INT
+AS
+SELECT
+	C.U_TIPO_DOC Tipo,
+	B.Series,
+	A.DocNum,
+	ISNULL(B.BEGINSTR,B.SeriesName) SeriesName, 
+	A.DocEntry 
+FROM OINV A
+INNER JOIN NNM1 B
+ON A.Series=B.Series 
+OR B.EndStr =-1 AND B.ObjectCode = 13
+INNER JOIN [@FACE_RESOLUCION] C
+ON C.U_SERIE =B.Series 
+WHERE A.DocEntry =  @DOCENETRY
+UNION 
+SELECT
+	C.U_TIPO_DOC Tipo,
+	B.Series,
+	A.DocNum,
+	ISNULL(B.BEGINSTR,B.SeriesName) SeriesName, 
+	A.DocEntry 
+FROM ORIN A
+INNER JOIN NNM1 B
+ON A.Series=B.Series 
+OR B.EndStr =-1 AND B.ObjectCode = 14
+INNER JOIN [@FACE_RESOLUCION] C
+ON C.U_SERIE =B.Series 
+WHERE A.DocEntry =  @DOCENETRY
+UNION
+SELECT
+	C.U_TIPO_DOC Tipo,
+	B.Series,
+	A.DocNum,
+	ISNULL(B.BEGINSTR,B.SeriesName) SeriesName, 
+	A.DocEntry 
+FROM OPCH A
+INNER JOIN NNM1 B
+ON A.Series=B.Series 
+OR B.EndStr =-1 AND B.ObjectCode = 16
+INNER JOIN [@FACE_RESOLUCION] C
+ON C.U_SERIE =B.Series 
+WHERE A.DocEntry =  @DOCENETRY

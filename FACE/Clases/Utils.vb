@@ -53,7 +53,7 @@ Module Utils
         Dim Ds As New DataSet
         Dim result As String = ""
         Try
-            Sql = "EXEC SP_ITFACE_GENERATXTGUATEFAC " & Docentry & ",'" & Tipo & "'"
+            Sql = "EXEC SP_ITFACE_GENERATXTGUATEFAC " & Docentry & ",'" & Tipo & "'" 'No esta SP
             Ds = TraeDataset(Sql)
             If Ds.Tables(0).Rows.Count > 0 Then
                 For t = 0 To Ds.Tables.Count - 1
@@ -77,9 +77,9 @@ Module Utils
 
         RecSet = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
         If TipoDoc = "ND" Then
-            sql = "select isnull(u_estado_face,'P') estado from oinv where docentry=" & DocEntry
+            sql = ("CALL SP_FACE_UTILS('1','" & DocEntry & "','','','','')")
         Else
-            sql = "select isnull(u_estado_face,'P') estado from orin where docentry=" & DocEntry
+            sql = ("CALL SP_FACE_UTILS('2','" & DocEntry & "','','','','')")
         End If
         RecSet.DoQuery(sql)
         Return RecSet.Fields.Item("estado").Value.ToString
@@ -90,7 +90,8 @@ Module Utils
         Dim sql As String = ""
 
         RecSet = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-        sql = "select replace(convert(varchar, getdate(), 111),'/','-') +'T'+convert(varchar, getdate(), 108) Fecha"
+        'sql = "select replace(convert(varchar, getdate(), 111),'/','-') +'T'+convert(varchar, getdate(), 108) Fecha"
+        sql = ("CALL SP_FACE_UTILS('3','','','','','')")
         RecSet.DoQuery(sql)
         Return RecSet.Fields.Item("Fecha").Value.ToString
     End Function
@@ -242,9 +243,11 @@ Module Utils
 
             rs = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             If Tipo = "FAC" Or Tipo = "ND" Then
-                QryStr = "select docnum from oinv where docentry=" & DocEntry
+                'QryStr = "select docnum from oinv where docentry=" & DocEntry
+                QryStr = ("CALL SP_FACE_UTILS('4','" & DocEntry & "','','','','')")
             Else
-                QryStr = "select docnum from orin where docentry=" & DocEntry
+                'QryStr = "select docnum from orin where docentry=" & DocEntry
+                QryStr = ("CALL SP_FACE_UTILS('5','" & DocEntry & "','','','','')")
             End If
             rs.DoQuery(QryStr)
             NumFac = CLng(rs.Fields.Item("docnum").Value.ToString)
@@ -296,9 +299,12 @@ Module Utils
                 RecSet = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
 
                 Try
-                    TipoDoc = CInt(TraeDato("SELECT U_TIPO_DOC FROM [@FACE_RESOLUCION] WHERE U_SERIE = " & CodSerie))
-                    Dim Sucursal As Decimal = CInt(TraeDato("SELECT U_SUCURSAL FROM [@FACE_RESOLUCION] WHERE U_SERIE = " & CodSerie))
-                    Dim Maquina As String = TraeDato("SELECT U_DISPOSITIVO FROM [@FACE_RESOLUCION] WHERE U_SERIE = " & CodSerie)
+                    'TipoDoc = CInt(TraeDato("SELECT U_TIPO_DOC FROM [@FACE_RESOLUCION] WHERE U_SERIE = " & CodSerie))
+                    'Dim Sucursal As Decimal = CInt(TraeDato("SELECT U_SUCURSAL FROM [@FACE_RESOLUCION] WHERE U_SERIE = " & CodSerie))
+                    'Dim Maquina As String = TraeDato("SELECT U_DISPOSITIVO FROM [@FACE_RESOLUCION] WHERE U_SERIE = " & CodSerie)
+                    TipoDoc = CInt(TraeDato("CALL SP_FACE_UTILS('6','" & CodSerie & "','','','','')"))
+                    Dim Sucursal As Decimal = CInt(TraeDato("CALL SP_FACE_UTILS('7','" & CodSerie & "','','','','')"))
+                    Dim Maquina As String = TraeDato("CALL SP_FACE_UTILS('8','" & CodSerie & "','','','','')")
                     Response = WS.generaDocumento(ObtieneValorParametro(OCompany, SBO_Application, "IUSR"), ObtieneValorParametro(OCompany, SBO_Application, "IUSRN"), ObtieneValorParametro(OCompany, SBO_Application, "NIT"), Sucursal, TipoDoc, Maquina, "R", xmlDoc.InnerXml)
                     If Response <> "" Then
                         Try
@@ -314,11 +320,14 @@ Module Utils
                 Catch ex As Exception
                     Select Case Tipo
                         Case Is = "FAC"
-                            QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & doc2.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE  docentry=" & DocEntry
+                            'QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & doc2.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE  docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('10','" & doc2.InnerXml & "','" & ex.Message & "','" & DocEntry & "','','')")
                         Case Is = "ND"
-                            QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & doc2.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            'QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & doc2.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('10','" & doc2.InnerXml & "','" & ex.Message & "','" & DocEntry & "','','')")
                         Case Is = "NC"
-                            QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & doc2.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            'QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & doc2.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('10','" & doc2.InnerXml & "','" & ex.Message & "','" & DocEntry & "','','')")
                     End Select
                     RecSet.DoQuery(QryStr)
                     SBO_Application.SetStatusBarMessage("Falla al intentar registrar el documento , motivo de la fálla: " & ex.Message, SAPbouiCOM.BoMessageTime.bmt_Short, True)
@@ -334,25 +343,28 @@ Module Utils
                     Dim xlPreimpreso As Xml.XmlNodeList = xmlWSResp.GetElementsByTagName("Preimpreso")
                     Dim xmlNombre As Xml.XmlNodeList = xmlWSResp.GetElementsByTagName("Nombre")
                     Dim xmlDir As Xml.XmlNodeList = xmlWSResp.GetElementsByTagName("Direccion")
-                    Dim fields As String
+                    'Dim fields As String
 
-                    fields = "U_ESTADO_FACE='A',"
-                    fields += "U_FACE_XML='" & xmlWSResp.InnerXml & "',"
-                    fields += "U_FIRMA_ELETRONICA='" & xmlFirma(0).InnerText & "',"
-                    fields += "U_NUMERO_DOCUMENTO='" & xlPreimpreso(0).InnerText & "',"
-                    'fields += "U_NOMBRE='" & xmlNombre(0).InnerText & "',"
-                    'fields += "U_DIRECCION='" & xmlDir(0).InnerText & "',"
-                    fields += "U_SERIE_FACE='" & xmlSerie(0).InnerText & "'"
-                    'fields += "U_FACTURA_INI='" & IniAut(0).InnerText & "',"
-                    'fields += "U_FACTURA_FIN='" & FinAut(0).InnerText & "' "
+                    'fields = "U_ESTADO_FACE='A',"
+                    'fields += "U_FACE_XML='" & xmlWSResp.InnerXml & "',"
+                    'fields += "U_FIRMA_ELETRONICA='" & xmlFirma(0).InnerText & "',"
+                    'fields += "U_NUMERO_DOCUMENTO='" & xlPreimpreso(0).InnerText & "',"
+                    ''fields += "U_NOMBRE='" & xmlNombre(0).InnerText & "',"
+                    ''fields += "U_DIRECCION='" & xmlDir(0).InnerText & "',"
+                    'fields += "U_SERIE_FACE='" & xmlSerie(0).InnerText & "'"
+                    ''fields += "U_FACTURA_INI='" & IniAut(0).InnerText & "',"
+                    ''fields += "U_FACTURA_FIN='" & FinAut(0).InnerText & "' "
 
                     Select Case Tipo
                         Case Is = "FAC"
-                            QryStr = "update OINV set " & fields & " WHERE docentry=" & DocEntry
+                            'QryStr = "update OINV set " & fields & " WHERE docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('11','" & DocEntry & ",','" & xmlWSResp.InnerXml & ",','" & xmlFirma(0).InnerText & ",','" & xlPreimpreso(0).InnerText & ",','" & xmlSerie(0).InnerText & "')")
                         Case Is = "ND"
-                            QryStr = "update OINV set " & fields & " WHERE  docentry=" & DocEntry
+                            'QryStr = "update OINV set " & fields & " WHERE  docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('11','" & DocEntry & ",','" & xmlWSResp.InnerXml & ",','" & xmlFirma(0).InnerText & ",','" & xlPreimpreso(0).InnerText & ",','" & xmlSerie(0).InnerText & "')")
                         Case Is = "NC"
-                            QryStr = "update ORIN set " & fields & " WHERE docentry=" & DocEntry
+                            'QryStr = "update ORIN set " & fields & " WHERE docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('26','" & DocEntry & ",','" & xmlWSResp.InnerXml & ",','" & xmlFirma(0).InnerText & ",','" & xlPreimpreso(0).InnerText & ",','" & xmlSerie(0).InnerText & "')")
                     End Select
                     RecSet.DoQuery(QryStr)
                     If ProcesarBatch = False Then SBO_Application.SetStatusBarMessage("Documento electrónico ha sido autorizado correctamente", SAPbouiCOM.BoMessageTime.bmt_Short, False)
@@ -363,11 +375,14 @@ Module Utils
 
                     Select Case Tipo
                         Case Is = "FAC"
-                            QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlWSResp.InnerXml & "',U_MOTIVO_RECHAZO='" & RespuestaXML.Item(0).InnerText & "' WHERE  docentry=" & DocEntry
+                            'QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlWSResp.InnerXml & "',U_MOTIVO_RECHAZO='" & RespuestaXML.Item(0).InnerText & "' WHERE  docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('12','" & xmlWSResp.InnerXml & "','" & RespuestaXML.Item(0).InnerText & "','" & DocEntry & "','','')")
                         Case Is = "ND"
-                            QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlWSResp.InnerXml & "',U_MOTIVO_RECHAZO='" & RespuestaXML.Item(0).InnerText & "' WHERE  docentry=" & DocEntry
+                            'QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlWSResp.InnerXml & "',U_MOTIVO_RECHAZO='" & RespuestaXML.Item(0).InnerText & "' WHERE  docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('12','" & xmlWSResp.InnerXml & "','" & RespuestaXML.Item(0).InnerText & "','" & DocEntry & "','','')")
                         Case Is = "NC"
-                            QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlWSResp.InnerXml & "',U_MOTIVO_RECHAZO='" & RespuestaXML.Item(0).InnerText & "' WHERE  docentry=" & DocEntry
+                            'QryStr = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlWSResp.InnerXml & "',U_MOTIVO_RECHAZO='" & RespuestaXML.Item(0).InnerText & "' WHERE  docentry=" & DocEntry
+                            QryStr = ("CALL SP_FACE_UTILS('12','" & xmlWSResp.InnerXml & "','" & RespuestaXML.Item(0).InnerText & "','" & DocEntry & "','','')")
                     End Select
                     RecSet.DoQuery(QryStr)
                     If ProcesarBatch = False Then SBO_Application.SetStatusBarMessage("Registro de documento electrónico fallído, motivo del rechazó: " & RespuestaXML.Item(0).InnerText, SAPbouiCOM.BoMessageTime.bmt_Short)
@@ -521,19 +536,21 @@ Module Utils
         Dim sql As String
         Try
             If Tipo = "FAC" Or Tipo = "ND" Then
-                sql = "select isnull(sum( case doctype when 'S' then 1 else b.Quantity end * b.PriceAfVat),0)" & _
-                      "from oinv a " & _
-                      "inner join INV1 b " & _
-                      "on a.DocEntry=b.docentry " & _
-                      "where a.docentry =  " & docEntry & _
-                      " and   b.TaxCode='EXE' "
+                'sql = "select isnull(sum( case doctype when 'S' then 1 else b.Quantity end * b.PriceAfVat),0)" & _
+                '      "from oinv a " & _
+                '      "inner join INV1 b " & _
+                '      "on a.DocEntry=b.docentry " & _
+                '      "where a.docentry =  " & docEntry & _
+                '      " and   b.TaxCode='EXE' "
+                sql = ("CALL SP_FACE_UTILS('13','" & docEntry & "','','','','')")
             Else
-                sql = "select isnull(sum( case doctype when 'S' then 1 else b.Quantity end * b.PriceAfVat),0)" & _
-                      "from oinv a " & _
-                      "inner join RIN1 b " & _
-                      "on a.DocEntry=b.docentry " & _
-                      "where a.docentry =  " & docEntry & _
-                      " and   b.TaxCode='EXE' "
+                'sql = "select isnull(sum( case doctype when 'S' then 1 else b.Quantity end * b.PriceAfVat),0)" & _
+                '      "from oinv a " & _
+                '      "inner join RIN1 b " & _
+                '      "on a.DocEntry=b.docentry " & _
+                '      "where a.docentry =  " & docEntry & _
+                '      " and   b.TaxCode='EXE' "
+                sql = ("CALL SP_FACE_UTILS('14','" & docEntry & "','','','','')")
             End If
 
             Return CDec(TraeDato(sql))
@@ -560,6 +577,7 @@ Module Utils
         Try
             If Utils.TipoGFACE = TipoFACE.Documenta Or Utils.TipoGFACE = TipoFACE.GYT Then
                 QryStr = "select * from [@FACE_PARAMETROS] "
+                QryStr = ("CALL SP_FACE_QUERYS('5','','')")
                 RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                 RecSet.DoQuery(QryStr)
                 If RecSet.RecordCount > 0 Then
@@ -616,9 +634,11 @@ Module Utils
         Dim sql As String
         Try
             If Tipo = "FAC" Or Tipo = "ND" Then
-                sql = "select isnull(SUM(LineTotal),0) from INV1 where TaxCode <>'EXE' and DocEntry=" & docEntry
+                'sql = "select isnull(SUM(LineTotal),0) from INV1 where TaxCode <>'EXE' and DocEntry=" & docEntry
+                sql = ("CALL SP_FACE_UTILS('15','" & docEntry & "','','','','')")
             Else
-                sql = "select isnull(SUM(LineTotal),0) from RIN1 where TaxCode <>'EXE' and DocEntry=" & docEntry
+                'sql = "select isnull(SUM(LineTotal),0) from RIN1 where TaxCode <>'EXE' and DocEntry=" & docEntry
+                sql = ("CALL SP_FACE_UTILS('16','" & docEntry & "','','','','')")
             End If
             Return CDec(TraeDato(sql))
         Catch ex As Exception
@@ -897,7 +917,8 @@ Module Utils
         Try
             If TypeDoc = "FAC" Or TypeDoc = "ND" Then
                 RecSet = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-                QryStr = "select * from OINV WHERE  docentry=" & DocEntry & " and isnull(u_estado_face,'P')='A'"
+                'QryStr = "select * from OINV WHERE  docentry=" & DocEntry & " and isnull(u_estado_face,'P')='A'"
+                QryStr = ("CALL SP_FACE_UTILS('17','" & DocEntry & "','','','','')")
                 RecSet.DoQuery(QryStr)
                 If RecSet.RecordCount > 0 Then
                     result = True
@@ -905,7 +926,8 @@ Module Utils
             End If
             If TypeDoc = "NC" Then
                 RecSet = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-                QryStr = "select * from ORIN WHERE  docentry=" & DocEntry & " and isnull(u_estado_face,'P')='A'"
+                'QryStr = "select * from ORIN WHERE  docentry=" & DocEntry & " and isnull(u_estado_face,'P')='A'"
+                QryStr = ("CALL SP_FACE_UTILS('18','" & DocEntry & "','','','','')")
                 RecSet.DoQuery(QryStr)
                 If RecSet.RecordCount > 0 Then
                     result = True
@@ -913,7 +935,8 @@ Module Utils
             End If
             If TypeDoc = "FACP" Then
                 RecSet = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-                QryStr = "select * from OPCH WHERE  docentry=" & DocEntry & " and isnull(u_estado_face,'P')='A'"
+                'QryStr = "select * from OPCH WHERE  docentry=" & DocEntry & " and isnull(u_estado_face,'P')='A'"
+                QryStr = ("CALL SP_FACE_UTILS('19','" & DocEntry & "','','','','')")
                 RecSet.DoQuery(QryStr)
                 If RecSet.RecordCount > 0 Then
                     result = True
@@ -934,7 +957,8 @@ Module Utils
         Dim RecSet As SAPbobsCOM.Recordset
 
         Try
-            sql = "SELECT isnull(U_ES_BATCH,'N') FROM [@FACE_RESOLUCION] WHERE CODE=" & CodeSerie
+            'sql = "SELECT isnull(U_ES_BATCH,'N') FROM [@FACE_RESOLUCION] WHERE CODE=" & CodeSerie
+            sql = ("CALL SP_FACE_UTILS('20','" & CodeSerie & "','','','','')")
             RecSet = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
             RecSet.DoQuery(sql)
             If RecSet.RecordCount > 0 Then
@@ -1044,11 +1068,14 @@ Module Utils
                 End If
                 RecSet = OCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
                 If Tipo = "NC" Then
-                    Sql = "select nnm1.SeriesName,ORIN.DocNum from ORIN inner join NNM1 on ORIN.Series = isnull(nnm1.endstr,nnm1.Series)  where ORIN.DocEntry =" & DocEntry
+                    'Sql = "select nnm1.SeriesName,ORIN.DocNum from ORIN inner join NNM1 on ORIN.Series = isnull(nnm1.endstr,nnm1.Series)  where ORIN.DocEntry =" & DocEntry
+                    Sql = ("CALL SP_FACE_UTILS('21','" & DocEntry & "','','','','')")
                 ElseIf Tipo = "FACP" Then
-                    Sql = "select nnm1.SeriesName,OPCH.DocNum from OPCH inner join NNM1 on OPCH.Series = isnull(nnm1.endstr,nnm1.Series)  where OPCH.DocEntry =" & DocEntry
+                    'Sql = "select nnm1.SeriesName,OPCH.DocNum from OPCH inner join NNM1 on OPCH.Series = isnull(nnm1.endstr,nnm1.Series)  where OPCH.DocEntry =" & DocEntry
+                    Sql = ("CALL SP_FACE_UTILS('22','" & DocEntry & "','','','','')")
                 Else
-                    Sql = "select nnm1.SeriesName,oinv.DocNum from OINV inner join NNM1 on oinv.Series = isnull(nnm1.endstr,nnm1.Series)  where oinv.DocEntry =" & DocEntry
+                    'Sql = "select nnm1.SeriesName,oinv.DocNum from OINV inner join NNM1 on oinv.Series = isnull(nnm1.endstr,nnm1.Series)  where oinv.DocEntry =" & DocEntry
+                    Sql = ("CALL SP_FACE_UTILS('23','" & DocEntry & "','','','','')")
                 End If
                 RecSet.DoQuery(Sql)
                 Serie = RecSet.Fields.Item("SeriesName").Value.ToString
@@ -1064,13 +1091,17 @@ Module Utils
                     LogEnvio += "Ocurruio un error " & ex.Message & vbNewLine
                     Select Case Tipo
                         Case Is = "FAC"
-                            Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlDoc.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            'Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlDoc.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('24','" & xmlDoc.InnerXml & "','" & ex.Message & "','" & DocEntry & "','','')")
                         Case Is = "FACP"
-                            Sql = "update OPCH set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlDoc.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            'Sql = "update OPCH set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlDoc.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('25','" & xmlDoc.InnerXml & "','" & ex.Message & "','" & DocEntry & "','','')")
                         Case Is = "ND"
-                            Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlDoc.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            'Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlDoc.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('24','" & xmlDoc.InnerXml & "','" & ex.Message & "','" & DocEntry & "','','')")
                         Case Is = "NC"
-                            Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlDoc.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE  docentry=" & DocEntry
+                            'Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & xmlDoc.InnerXml & "',U_MOTIVO_RECHAZO='" & ex.Message & "' WHERE  docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('24','" & xmlDoc.InnerXml & "','" & ex.Message & "','" & DocEntry & "','','')")
                     End Select
                     RecSet.DoQuery(Sql)
                     SBO_Application.SetStatusBarMessage("Falla al intentar registrar el documento , motivo de la fálla: " & ex.Message, SAPbouiCOM.BoMessageTime.bmt_Short, True)
@@ -1106,26 +1137,30 @@ Module Utils
 
                     firma = xmlDoc2.ChildNodes.Item(1).ChildNodes(0).ChildNodes(1).ChildNodes(1).ChildNodes(1).InnerText
 
-                    Dim fields As String
-                    fields = "U_ESTADO_FACE='A',"
-                    fields += "U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',"
-                    fields += "U_FACE_PDFFILE=null,"
-                    fields += "U_FIRMA_ELETRONICA='" & firma & "',"
-                    fields += "U_NUMERO_DOCUMENTO='" & docF(0).InnerText & "',"
-                    fields += "U_NUMERO_RESOLUCION='" & nAutorizacion(0).InnerText & "',"
-                    fields += "U_SERIE_FACE='" & serieF(0).InnerText & "',"
-                    fields += "U_FACTURA_INI='" & IIf(IsNothing(IniAut(0).InnerText), "N", IniAut(0).InnerText) & "',"
-                    fields += "U_FACTURA_FIN='" & FinAut(0).InnerText & "' "
+                    'Dim fields As String
+                    'fields = "U_ESTADO_FACE='A',"
+                    'fields += "U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',"
+                    'fields += "U_FACE_PDFFILE=null,"
+                    'fields += "U_FIRMA_ELETRONICA='" & firma & "',"
+                    'fields += "U_NUMERO_DOCUMENTO='" & docF(0).InnerText & "',"
+                    'fields += "U_NUMERO_RESOLUCION='" & nAutorizacion(0).InnerText & "',"
+                    'fields += "U_SERIE_FACE='" & serieF(0).InnerText & "',"
+                    'fields += "U_FACTURA_INI='" & IIf(IsNothing(IniAut(0).InnerText), "N", IniAut(0).InnerText) & "',"
+                    'fields += "U_FACTURA_FIN='" & FinAut(0).InnerText & "' "
 
                     Select Case Tipo
                         Case Is = "FAC"
-                            Sql = "update OINV set " & fields & " WHERE  docentry=" & DocEntry
+                            'Sql = "update OINV set " & fields & " WHERE  docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('1','" & DocEntry & "','" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & ",','" & firma & ",','" & docF(0).InnerText & ",','" & nAutorizacion(0).InnerText & ",','" & serieF(0).InnerText & ",','" & IIf(IsNothing(IniAut(0).InnerText), "N", IniAut(0).InnerText) & ",','" & FinAut(0).InnerText & "')")
                         Case Is = "FACP"
-                            Sql = "update OPCH set " & fields & " WHERE  docentry=" & DocEntry
+                            'Sql = "update OPCH set " & fields & " WHERE  docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('2','" & DocEntry & "','" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & ",','" & firma & ",','" & docF(0).InnerText & ",','" & nAutorizacion(0).InnerText & ",','" & serieF(0).InnerText & ",','" & IIf(IsNothing(IniAut(0).InnerText), "N", IniAut(0).InnerText) & ",','" & FinAut(0).InnerText & "')")
                         Case Is = "ND"
-                            Sql = "update OINV set " & fields & " WHERE  docentry=" & DocEntry
+                            'Sql = "update OINV set " & fields & " WHERE  docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('1','" & DocEntry & "','" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & ",','" & firma & ",','" & docF(0).InnerText & ",','" & nAutorizacion(0).InnerText & ",','" & serieF(0).InnerText & ",','" & IIf(IsNothing(IniAut(0).InnerText), "N", IniAut(0).InnerText) & ",','" & FinAut(0).InnerText & "')")
                         Case Is = "NC"
-                            Sql = "update ORIN set " & fields & " WHERE  docentry=" & DocEntry
+                            'Sql = "update ORIN set " & fields & " WHERE  docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('3','" & DocEntry & "','" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & ",','" & firma & ",','" & docF(0).InnerText & ",','" & nAutorizacion(0).InnerText & ",','" & serieF(0).InnerText & ",','" & IIf(IsNothing(IniAut(0).InnerText), "N", IniAut(0).InnerText) & ",','" & FinAut(0).InnerText & "')")
                     End Select
 
                     Try
@@ -1146,13 +1181,17 @@ Module Utils
                     Log += IIf(Linea <> "", Linea & ") ", "") & "Documento: " & Serie & " " & NumDoc & " Estado: Rechazado Motivo:" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & vbNewLine
                     Select Case Tipo
                         Case Is = "FAC"
-                            Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',U_MOTIVO_RECHAZO='" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "' WHERE docentry=" & DocEntry
+                            'Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',U_MOTIVO_RECHAZO='" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "' WHERE docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('27','" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "','" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "','" & DocEntry & "','','')")
                         Case Is = "FACP"
-                            Sql = "update OPCH set U_ESTADO_FACE ='R',U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',U_MOTIVO_RECHAZO='" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "' WHERE docentry=" & DocEntry
+                            'Sql = "update OPCH set U_ESTADO_FACE ='R',U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',U_MOTIVO_RECHAZO='" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "' WHERE docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('28','" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "','" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "','" & DocEntry & "','','')")
                         Case Is = "ND"
-                            Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',U_MOTIVO_RECHAZO='" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "' WHERE  docentry=" & DocEntry
+                            'Sql = "update OINV set U_ESTADO_FACE ='R',U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',U_MOTIVO_RECHAZO='" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "' WHERE  docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('27','" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "','" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "','" & DocEntry & "','','')")
                         Case Is = "NC"
-                            Sql = "update ORIN set U_ESTADO_FACE ='R',U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',U_MOTIVO_RECHAZO='" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "' WHERE  docentry=" & DocEntry
+                            'Sql = "update ORIN set U_ESTADO_FACE ='R',U_FACE_XML='" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "',U_MOTIVO_RECHAZO='" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "' WHERE  docentry=" & DocEntry
+                            Sql = ("CALL SP_FACE_UTILS('29','" & Mid(Replace(xmlDoc2.InnerXml, "'", "''''"), 1, 254) & "','" & tag.Response.Description & " " & tag.Response.Hint & " " & Replace(tag.Response.Data, "'", "''''") & "','" & DocEntry & "','','')")
                     End Select
                     Try
                         RecSet.DoQuery(Sql)

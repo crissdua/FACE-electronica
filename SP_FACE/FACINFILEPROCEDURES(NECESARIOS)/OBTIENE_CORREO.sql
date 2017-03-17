@@ -1,0 +1,13 @@
+CREATE FUNCTION [dbo].[OBTIENE_CORREO](@CORREO VARCHAR(MAX)) RETURNS varchar(MAX) 
+AS 
+BEGin
+
+	DECLARE @RESULT varchar(MAX)
+	
+	IF CHARINDEX(';',@CORREO)=0
+		SET @RESULT =@CORREO
+	ELSE 
+		select top 1 @RESULT=Splitcolumn from UDF_Split(@CORREO,';')
+		
+	RETURN @RESULT
+END
