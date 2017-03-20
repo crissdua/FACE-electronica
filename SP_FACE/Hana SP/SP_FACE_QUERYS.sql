@@ -122,7 +122,7 @@ BEGIN
 /***** CONDICION 16 *****/
 	IF (:condicion = 16) THEN
 		select 'Y' AS "Seleccionar",
-		TO_ALPHANUM(A."U_MOTIVO_RECHAZO") AS "Descripcion Rechazó",
+		TO_ALPHANUM(A."U_MOTIVO_RECHAZO") AS "Descripcion RechazÃ³",
 		A."DocEntry" AS "Correlativo",
 		case A."DocSubType" when (char(45)||char(45)) then 'Factura' when 'DN' then 'Nota Debito' End AS "Tipo Documento" ,
 		"SeriesName" as "Serie Documento",
@@ -135,7 +135,7 @@ BEGIN
         where "U_ESTADO_FACE" ='R'
         union 
         select 'Y' AS "Seleccionar",
-        TO_ALPHANUM(A."U_MOTIVO_RECHAZO") AS "Descripcion Rechazó",
+        TO_ALPHANUM(A."U_MOTIVO_RECHAZO") AS "Descripcion RechazÃ³",
         A."DocEntry" AS "Correlativo",
         '' AS "Nota Credito",
         "SeriesName" AS "Serie Documento", 
@@ -152,7 +152,7 @@ BEGIN
 /***** CONDICION 17 *****/
 	IF (:condicion = 17) THEN
 		select 'Y' AS "Seleccionar",
-		TO_ALPHANUM(A."U_MOTIVO_RECHAZO") AS "Descripcion Rechazó",
+		TO_ALPHANUM(A."U_MOTIVO_RECHAZO") AS "Descripcion RechazÃ³",
 		A."DocEntry" AS "Correlativo",
 		case A."DocSubType" when (char(45)||char(45)) then 'Factura' when 'DN' then 'Nota Debito' End AS "Tipo Documento" ,
 		"SeriesName" as "Serie Documento",
@@ -166,7 +166,7 @@ BEGIN
         and "DocDate" between :param1 and :param2 
          union 
         select 'Y' AS "Seleccionar",
-        TO_ALPHANUM(A."U_MOTIVO_RECHAZO") AS "Descripcion Rechazó",
+        TO_ALPHANUM(A."U_MOTIVO_RECHAZO") AS "Descripcion RechazÃ³",
         A."DocEntry" AS "Correlativo",
         '' AS "Nota Credito",
         "SeriesName" AS "Serie Documento", 

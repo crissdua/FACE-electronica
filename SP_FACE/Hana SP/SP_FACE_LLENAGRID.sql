@@ -17,7 +17,7 @@ ELSE
 	ELSE 'Factura Proveedor' 
 	END 
 End "Tipo Serie",
-Case iFnull(B."U_SERIE", '100') WHEN '100' THEN '0' ELSE 'Y' End AS "Es documento electrónico",
+Case iFnull(B."U_SERIE", '100') WHEN '100' THEN '0' ELSE 'Y' End AS "Es documento electrÃ³nico",
 B."U_RESOLUCION" AS "Resolucion",
 B."U_AUTORIZACION" AS "Autorizacion",
 B."U_FECHA_AUTORIZACION" AS "Fecha", 

@@ -1,4 +1,3 @@
-drop procedure SP_FACE_IT_DATOS_ENCABEZADO;
 CREATE procedure SP_FACE_IT_DATOS_ENCABEZADO 
 (in Docentry int,
 Tipo char(3)

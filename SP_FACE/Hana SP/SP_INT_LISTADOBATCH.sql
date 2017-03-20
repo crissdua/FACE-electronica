@@ -14,11 +14,11 @@ IF (:Serie <> 0) THEN
 	B."SeriesName" AS "Serie", 
 	"DocNum" AS "No. Documento", TO_NVARCHAR("DocDate") AS "Fecha Documento" ,"CardName" AS "Cliente",
 	TO_DECIMAL("DocTotal",25,3) AS "Total Documento", 
-	case (SELECT UFN_ESTADODOCUMENTO(A."DocEntry") from DUMMY) when 'A' then 'Anulado' else 'Vigente' end AS "Estado del Documento" 
+	case (SELECT UFN_ESTADODOCUMENTO(A."DocEntry") from dummy) when 'A' then 'Anulado' else 'Vigente' end AS "Estado del Documento" 
 	from OINV A 
 	inner join NNM1 B on A."Series" = B."Series" 
 	where IFNULL("U_ESTADO_FACE",'P') in ('P','R')  
-	and A."DocDate" between :FechaIni and  :FechaFin
+	--and A."DocDate" between :FechaIni and  :FechaFin
 	and   B."Series" = :Serie 
 	union 
 	select 
@@ -30,7 +30,7 @@ IF (:Serie <> 0) THEN
 	TO_NVARCHAR("DocDate") AS "Fecha Documento" ,
 	"CardName" AS "Cliente",
 	TO_DECIMAL("DocTotal",25,3) AS "Total Documento", 
-	case (SELECT UFN_ESTADODOCUMENTONC(A."DocEntry") from DUMMY) when 'A' then 'Anulado' else 'Vigente' end AS "Estado del Documento"   
+	case (select "U_DocstatusCC" from ORIN where "DocEntry" = A."DocEntry") when 'A' then 'Anulado' else 'Vigente' end AS "Estado del Documento"   
 	from ORIN  A 
 	inner join NNM1 B 
 	on A."Series" = B."Series"  
@@ -48,7 +48,7 @@ else
 	TO_NVARCHAR("DocDate") AS "Fecha Documento" ,
 	"CardName" AS "Cliente",
 	TO_DECIMAL("DocTotal",25,3) AS "Total Documento", 
-	case (SELECT UFN_ESTADODOCUMENTO(A."DocEntry") from DUMMY) when 'A' then 'Anulado' else 'Vigente' end AS "Estado del Documento" 
+	case (SELECT UFN_ESTADODOCUMENTO(A."DocEntry") from dummy) when 'A' then 'Anulado' else 'Vigente' end AS "Estado del Documento" 
 	from OINV A 
 	inner join NNM1 B 
 	on A."Series" = B."Series" 
@@ -65,7 +65,7 @@ else
 	TO_NVARCHAR("DocDate") AS "Fecha Documento" ,
 	"CardName" AS "Cliente",
 	TO_DECIMAL("DocTotal",25,3) AS "Total Documento", 
-	case (SELECT UFN_ESTADODOCUMENTONC(A."DocEntry") from DUMMY) when 'A' then 'Anulado' else 'Vigente' end AS "Estado del Documento"   
+	case (select "U_DocstatusCC" from ORIN where "DocEntry" = A."DocEntry") when 'A' then 'Anulado' else 'Vigente' end AS "Estado del Documento"   
 	from ORIN  A 
 	inner join NNM1 B 
 	on A."Series" = B."Series"  

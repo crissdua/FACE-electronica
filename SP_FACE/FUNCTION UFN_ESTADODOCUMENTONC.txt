@@ -1,8 +1,0 @@
-CREATE FUNCTION UFN_ESTADODOCUMENTONC (IN DocEntry INT) 
-RETURNS Result char(1)
-LANGUAGE SQLSCRIPT 
-AS 
-BEGIN 
-
-	select "U_DocstatusCC" INTO Result from ORIN where "DocEntry" = :DocEntry;
-END;

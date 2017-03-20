@@ -11,7 +11,7 @@ SELECT
 FROM OINV A
 INNER JOIN NNM1 B
 ON A."Series"=B."Series" 
-OR B."EndStr" =-1 AND B."ObjectCode" = 13
+OR B."EndStr" = '-1' AND B."ObjectCode" = 13
 INNER JOIN "@FACE_RESOLUCION" C
 ON C."U_SERIE" =B."Series" 
 WHERE A."DocEntry" = :DOCENETRY
