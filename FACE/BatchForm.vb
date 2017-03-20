@@ -260,6 +260,7 @@ Public Class BatchForm
         End Try
     End Sub
 
+
     Private Sub Enviar()
         Dim oGrid As SAPbouiCOM.Grid
         Dim Tipo As String = ""

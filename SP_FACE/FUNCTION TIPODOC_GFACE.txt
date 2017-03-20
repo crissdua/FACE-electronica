@@ -1,0 +1,11 @@
+CREATE FUNCTION TIPODOC_GFACE (IN val NVARCHAR(20)) 
+RETURNS a nvarchar(20)
+LANGUAGE SQLSCRIPT READS SQL DATA 
+AS 
+BEGIN 
+select IFNULL("Code",'N/D') INTO a 
+	from "@FACE_TIPODOC"
+	WHERE "U_CODIGO" = :val;
+
+--    SELECT sso_obtieneserieCV('1010101') from dummy
+END;

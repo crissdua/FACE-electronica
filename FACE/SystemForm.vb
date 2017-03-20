@@ -101,17 +101,15 @@ Public Class SystemForm
         '// add an event type to the container
         '// this method returns an EventFilter object
         oFilter = oFilters.Add(SAPbouiCOM.BoEventTypes.et_ITEM_PRESSED)
+        oFilter = oFilters.Add(SAPbouiCOM.BoEventTypes.et_FORM_DATA_ADD)
 
         '// assign the form type on which the event would be processed
         oFilter.AddEx("133") 'Orders Form
-        oFilter.AddEx("179") 'Orders Form
-        oFilter.AddEx("65303") 'Orders Form
-        oFilter.AddEx("141")
+
 
         'oFilter = oFilters.Add(SAPbouiCOM.BoEventTypes.et_KEY_DOWN)
 
-        '// assign the form type on which the event would be processed
-        oFilter.Add(60006) 'Orders Form
+
 
         '// For a list of all form types see the help or use the
         '// Tools -> User Tools -> Display Debug Information option
@@ -426,7 +424,6 @@ Public Class SystemForm
 
 
     Private Sub moSBOApplication_FormDataEvent(ByRef BusinessObjectInfo As SAPbouiCOM.BusinessObjectInfo, ByRef BubbleEvent As Boolean) Handles SBO_Application.FormDataEvent
-      
         If (BusinessObjectInfo.EventType = SAPbouiCOM.BoEventTypes.et_FORM_DATA_ADD Or BusinessObjectInfo.EventType = SAPbouiCOM.BoEventTypes.et_FORM_DATA_UPDATE) And BusinessObjectInfo.FormTypeEx = "133" And BusinessObjectInfo.ActionSuccess = True Then
             Dim xml As New Xml.XmlDocument
             Dim Serie As SAPbouiCOM.ComboBox = oOrderForm.Items.Item("88").Specific
@@ -460,8 +457,9 @@ Public Class SystemForm
                 'fields += "U_SERIE_FACE='" & serieF(0).InnerText & "',"
                 'fields += "U_FACTURA_INI='" & IniAut(0).InnerText & "',"
                 'fields += "U_FACTURA_FIN='" & FinAut(0).InnerText & "' "
-
-                EnviaDocumento(oCompany, SBO_Application, "FAC", Serie.Selected.Value, "", Serie.Selected.Description, Pais, DocEntry(0).InnerText)
+                'MessageBox.Show("Funciona")
+                EnviarFAC(DocEntry(0).InnerText)
+                'EnviaDocumento(oCompany, SBO_Application, "FAC", Serie.Selected.Value, "", Serie.Selected.Description, Pais, DocEntry(0).InnerText)
             End If
         End If
 
@@ -537,7 +535,89 @@ Public Class SystemForm
         '    End If
         'End If
     End Sub
+    Private Sub EnviarFAC(entry As String)
+        Dim oGrid As SAPbouiCOM.Grid
+        Dim Tipo As String = ""
+        Dim ProcesarBatch As Boolean = False
+        Dim Serie As String = ""
+        Dim Doc As String = ""
+        Dim SerieName As String = ""
+        Dim sql As String = ""
+        Dim RecSet As SAPbobsCOM.Recordset
+        Dim docEntry As String = ""
+        Dim myLog As String = ""
+        Dim Log As String = ""
+        Dim TotalDocs As String
+        Dim cont As Integer = 0
+        Dim content As String
+        Dim dirXML As String = ObtieneValorParametro(oCompany, SBO_Application, "PATHXML")
 
+        Try
+            Utils.FileLog = Replace(Application.StartupPath & "\Resultados " & Format(Date.Now, "ddMMyyyyHHmmss") & ".txt", "\\", "\")
+            sql = "CALL SPFACE_DATOSDOC ( " & entry & ")"
+                RecSet = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
+                RecSet.DoQuery(sql)
+            myLog = "Registros Obtenidos " & RecSet.RecordCount & vbNewLine
+            Tipo = RecSet.Fields.Item("Tipo").Value
+            If Tipo = "63" Then
+                Tipo = "FAC"
+            ElseIf Tipo = "64" Then
+                Tipo = "NC"
+            ElseIf Tipo = "65" Then
+                Tipo = "ND"
+            ElseIf Tipo = "Factura Proveedor" Then
+                Tipo = "FACP"
+
+            End If
+            myLog += "Tipo de documento a procesar " & Tipo & vbNewLine
+            Serie = RecSet.Fields.Item("Series").Value
+                    Doc = RecSet.Fields.Item("DocNum").Value
+                    SerieName = RecSet.Fields.Item("SeriesName").Value
+                    docEntry = RecSet.Fields.Item("DocEntry").Value
+            myLog += "Enviando documento " & docEntry & vbNewLine
+
+            If TipoGFACE = TipoFACE.InFile Then
+
+                ProcesarBatch = SerieEsBatch(oCompany, SBO_Application, CurrSerie)
+
+                If ValidaDocumento(oCompany, SBO_Application, docEntry, Tipo) Then
+                    Log += "Documento ya se encuentra autorizado" & vbNewLine
+                    If ProcesarBatch = False Then SBO_Application.SetStatusBarMessage("El documento ya se encuentra con estado de autorizado", SAPbouiCOM.BoMessageTime.bmt_Short, False)
+                    Exit Sub
+                End If
+
+                If Utils.Empresa = EmpresaFACE.QUALIPHARM Or Utils.Empresa = EmpresaFACE.PRINTER Or Utils.Empresa = EmpresaFACE.PEGASUS Then
+                    EnviaDocumentoInFileSP(oCompany, SBO_Application, Tipo, CurrSerie, CurrDoc, CurrSerieName, Pais, docEntry, ProcesarBatch)
+                Else
+                    EnviaDocumentoInFile(oCompany, SBO_Application, Tipo, CurrSerie, CurrDoc, CurrSerieName, Pais, docEntry, ProcesarBatch)
+                End If
+                'Utils.EnviaDocumento(oCompany, SBO_Application, Tipo, Serie, Doc, SerieName, Utils.Pais, docEntry, True, i + 1, myLog)
+            Else
+                Dim path As String = dirXML & "txtGuateFacturas\"
+                Dim file As String = SerieName & "-" & Date.Today.ToShortDateString.ToString() & ".txt"
+                content += Utils.GeneraBatchTXT(oCompany, docEntry, Tipo)
+                If System.IO.Directory.Exists(path) = False Then
+                    System.IO.Directory.CreateDirectory(path)
+                End If
+                If content <> "" Then
+                    Dim vError As String = ""
+                    If SaveTextToFile(content & vbNewLine, path & file, vError) = False Then
+                        Throw New Exception("Error al intentar guardar archivo txt motivo: " & vError & vbNewLine & "Ubicación: " & path & file)
+                    End If
+                End If
+            End If
+            System.Runtime.InteropServices.Marshal.ReleaseComObject(RecSet)
+                RecSet = Nothing
+                GC.Collect()
+                cont += 1
+            myLog += "Proceso Finalizado" & vbNewLine
+        Catch ex As Exception
+            Dim Logs As String = Utils.GetFileContents(Utils.FileLog) & vbNewLine & ex.Message
+            Utils.SaveTextToFile(Logs, Utils.FileLog)
+            SBO_Application.SetStatusBarMessage(ex.Message, SAPbouiCOM.BoMessageTime.bmt_Short, True)
+        End Try
+        Utils.SaveTextToFile(myLog, Application.StartupPath & "\BatchLog.log")
+    End Sub
     Private Sub SBO_Application_ItemEvent(ByVal FormUID As String, ByRef pVal As SAPbouiCOM.ItemEvent, ByRef BubbleEvent As Boolean) Handles SBO_Application.ItemEvent
         If (pVal.FormType = 133 Or pVal.FormType = 179 Or pVal.FormType = 65303 Or pVal.FormType = 60091 Or pVal.FormType = 60090 Or pVal.FormType = 141) And ((pVal.ItemUID = "1") And (pVal.EventType = SAPbouiCOM.BoEventTypes.et_ITEM_PRESSED) And (pVal.Before_Action = True)) Then
             oOrderForm = SBO_Application.Forms.GetFormByTypeAndCount(pVal.FormType, pVal.FormTypeCount)

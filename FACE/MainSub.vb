@@ -5,7 +5,7 @@
         Dim SBOSysForm As SystemForm
 
         'Aqui se define el tipo de empresa y GFACE a utilizar
-        Utils.TipoGFACE = TipoFACE.Documenta
+        Utils.TipoGFACE = TipoFACE.InFile
         Utils.Empresa = EmpresaFACE.LLAMASA
 
         SBOSysForm = New SystemForm()

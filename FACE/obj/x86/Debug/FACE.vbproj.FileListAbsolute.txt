@@ -196,7 +196,10 @@ C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.pdb
 C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\FACE.exe
 C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\FACE.pdb
 C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\FACE.xml
-C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbprojResolveAssemblyReference.cache
 C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.License.resources
 C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.Resources.resources
 C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbproj.GenerateResource.Cache
+C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\System.XML.4.0.0.0.Fakes.fakesconfig
+C:\Users\criss\Desktop\FACE electronica\FACE\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbprojFakesResolveAssemblyReference.cache
+C:\Users\criss\Desktop\FACE electronica\FACE\obj\x86\Debug\FACE.vbprojResolveAssemblyReference.cache
